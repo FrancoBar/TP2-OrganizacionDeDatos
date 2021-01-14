@@ -1,3 +1,4 @@
+"""Se debe pasar train y test ordenados """
 def expansion_mean_encoding(columnas_categoricas,train,test,label):
     #Dividimos el dataset de entrenamiento en features y labels
     #Armo un df extra que me ayudara para codificar las categoricas.
