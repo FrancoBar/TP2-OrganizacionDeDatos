@@ -1,6 +1,7 @@
 from math import ceil
 import numpy as np
 import pandas as pd
+import json
 
 def split_train_test(df, test_rate=0.2):
     
@@ -29,10 +30,16 @@ def normalizacion_numericas(x_train, x_test=None, modo='normalizacion', columnas
     if modo == 'normalizacion':
         for col in columnas:
             if col == 'Opportunity_ID': continue
-            x_train[col] = ((x_train[col] - x_train[col].mean()) / x_train[col].std()).astype(float).round(2)
+            if x_train[col].std() != 0:
+                x_train[col] = ((x_train[col] - x_train[col].mean()) / x_train[col].std()).astype(float).round(2)
+            else:
+                x_train[col] = (x_train[col] - x_train[col].mean()).astype(float).round(2)
             #Poco eficiente cortar cada iteracion de un for con 2 if, pero se corre pocas veces.
             if x_test is None: continue
-            x_test[col]  = ((x_test[col] - x_test[col].mean()) / x_test[col].std()).astype(float).round(2)
+            if x_test[col].std() != 0:
+                x_test[col]  = ((x_test[col] - x_test[col].mean()) / x_test[col].std()).astype(float).round(2)
+            else:
+                x_test[col]  = (x_test[col] - x_test[col].mean()).astype(float).round(2)
     
     if x_test is None: return x_train
     
@@ -122,3 +129,20 @@ def diagnostico_df(df, eliminar=False):
     if (eliminar and incompatibles):
         filas_despues = df.shape[0]
         print(f"Se eliminaron {filas_antes - filas_despues} filas incompatibles del dataframe")
+        
+        
+def hyperparams_to_json(hp_dict, model_name):
+    with open(model_name + '_best_hyperparam.json', 'w') as fd:
+        print(f"Guardando hiperparametros en el archivo: '{model_name}_best_hyperparam.json'")
+        json.dump(hp_dict, fd, sort_keys=False, indent=4)
+
+
+def hyperparams_from_json(model_name):
+    
+    hp_dict = dict()
+    #Dejo que la excepcion por fallo de apertura sea manejada por el caller
+    with open(model_name + '_best_hyperparam.json', 'r') as fd:
+        print(f"Cargando hiperparametros desde el archivo: '{model_name}_best_hyperparam.json'")
+        hp_dict = json.load(fd)
+    
+    return hp_dict
