@@ -2,6 +2,7 @@ from math import ceil
 import numpy as np
 import pandas as pd
 import json
+from category_encoders.cat_boost import CatBoostEncoder
 
 def split_train_test(df, test_rate=0.2):
     
@@ -99,6 +100,20 @@ def codificar_categoricas(x_train, y_train, x_test, modo='expanding_mean', colum
                 else:
                     #Codifico como cero, se puede mejorar
                     x_test.loc[idx, col] = 0
+    
+    elif modo == 'catboost':
+        #Esto igual no deberia pasar, pero se filtra por las dudas.
+        if 'Stage' in columnas : columnas.remove('Stage')
+        #Creamos una instancia del encoder pasandole las columnas a codificar
+        ohe = CatBoostEncoder(cols = columnas, return_df = True)
+        #Entrenamos el encoder a partir del df de train y df de test
+        ohe.fit(x_train, y_train)
+        
+        colum_transformadas_train = ohe.transform(x_train, y_train)
+        colum_transformadas_test = ohe.transform(x_test)
+        for columna in columnas:
+            x_train[columna] = colum_transformadas_train[columna].copy()
+            x_test[columna] = colum_transformadas_test[columna].copy()
     
     return x_train, x_test
 
