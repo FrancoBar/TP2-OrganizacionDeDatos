@@ -72,29 +72,30 @@ def codificar_categoricas(x_train, y_train, x_test, modo='expanding_mean', colum
         x_y_train = x_train.copy()
         x_y_train['Stage'] = y_train['Stage']
         
+        auxiliar = dict()
         codificaciones = dict()
         
         for col in columnas:
             last_one = x_y_train.groupby(col).tail(1)
             for (idx, reg) in zip(last_one[col].index, last_one[col].values):
-                codificaciones[reg] = (col, idx)
+                auxiliar[reg] = (col, idx)
             cumulative_sum = x_y_train.groupby(col)["Stage"].cumsum() - x_y_train["Stage"]
             cumulative_count = x_y_train.groupby(col).cumcount()
             x_train[col] = cumulative_sum/cumulative_count
         #Llenamos los NaN generados por cumsum con ceros.
         x_train.fillna(0, inplace=True)
         #Guardamos la codificacion de cada categoria segun su nombre.
-        for k, v in codificaciones.items():
+        for k, v in auxiliar.items():
             col = v[0]
             idx = v[1]
-            codificaciones[k] = x_train.loc[idx, col]
+            codificaciones[(col, k)] = x_train.loc[idx, col]
         
         #Codifico a las categorias del set de test con la ultima codificacion del set de train.
         for col in columnas:
             x_test[col] = x_test[col].astype(object)
             for (idx, reg) in zip(x_test[col].index, x_test[col]):
-                if (reg in codificaciones):
-                    x_test.loc[idx, col] = codificaciones[reg]
+                if ((col, reg) in codificaciones):
+                    x_test.loc[idx, col] = codificaciones[(col, reg)]
                 else:
                     #Codifico como cero, se puede mejorar
                     x_test.loc[idx, col] = 0
