@@ -1,0 +1,41 @@
+{
+    "alpha": 2.068897935216526,
+    "first_layer": {
+        "activation": "swish",
+        "dropout": 0.31711786598893704,
+        "neurons": 73.44644400773177
+    },
+    "hidden_layers": [
+        {
+            "config": {
+                "activation": "swish",
+                "dropout": 0.32399623337292444,
+                "is_on": true,
+                "neurons": 152.25746215291423
+            }
+        },
+        {
+            "config": {
+                "activation": "swish",
+                "dropout": 0.3663073419959347,
+                "is_on": true,
+                "neurons": 73.60635429633463
+            }
+        },
+        {
+            "config": {
+                "is_on": false
+            }
+        },
+        {
+            "config": {
+                "is_on": false
+            }
+        }
+    ],
+    "last_layer": {
+        "activation": "relu"
+    },
+    "learning_rate": 0.002237821086738258,
+    "optimizer": "adam"
+}
