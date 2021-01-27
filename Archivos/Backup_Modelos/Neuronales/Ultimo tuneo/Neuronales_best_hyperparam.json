@@ -1,9 +1,9 @@
 {
-    "alpha": 6.2282627269682855,
+    "alpha": 0.383077650341734,
     "first_layer": {
-        "activation": "relu",
-        "dropout": 0.3219635677792383,
-        "neurons": 117.81607422200317
+        "activation": "tanh",
+        "dropout": 0.3552911071276515,
+        "neurons": 68.21038786038133
     },
     "hidden_layers": [
         {
@@ -13,10 +13,7 @@
         },
         {
             "config": {
-                "activation": "relu",
-                "dropout": 0.27198239818935066,
-                "is_on": true,
-                "neurons": 108.7766587008567
+                "is_on": false
             }
         },
         {
@@ -31,8 +28,8 @@
         }
     ],
     "last_layer": {
-        "activation": "my_relu"
+        "activation": "tanh"
     },
-    "learning_rate": 0.00678028286200709,
+    "learning_rate": 0.0049622793752738415,
     "optimizer": "rmsprop"
 }

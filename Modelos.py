@@ -1,9 +1,18 @@
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Dropout
+from keras.layers import Activation
 from keras.regularizers import l1
+from keras.activations import relu
+from keras.utils.generic_utils import get_custom_objects
 from keras import backend
 import xgboost as xgb
+
+
+def my_relu(x):
+    return backend.relu(x, max_value=1.0)
+
+get_custom_objects().update({'my_relu': Activation(my_relu)})
 
 
 def get_neural_network_model(params, input_dim):
@@ -21,7 +30,7 @@ def get_neural_network_model(params, input_dim):
         if layer['config']['is_on']:
             model.add(Dense(layer['config']['neurons'], kernel_regularizer=l1(alpha), activation=layer['config']['activation']))
             model.add(Dropout(layer['config']['dropout']))
-        
+    
     model.add(Dense(1, activation=params['last_layer']['activation']))
     model.compile(loss='binary_crossentropy', optimizer=params['optimizer'])
     backend.set_value(model.optimizer.learning_rate, params['learning_rate'])
