@@ -1,0 +1,787 @@
+2021-01-27 19:24:36,823 [INFO]  CategoricalEncoder for column Billing_Country                                found only 85 occurrences of value Singapore
+2021-01-27 19:24:36,823 [INFO]  CategoricalEncoder for column Billing_Country                                found only 79 occurrences of value Netherlands
+2021-01-27 19:24:36,823 [INFO]  CategoricalEncoder for column Billing_Country                                found only 70 occurrences of value India
+2021-01-27 19:24:36,823 [INFO]  CategoricalEncoder for column Billing_Country                                found only 68 occurrences of value Italy
+2021-01-27 19:24:36,823 [INFO]  CategoricalEncoder for column Billing_Country                                found only 51 occurrences of value Spain
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 43 occurrences of value United Kingdom
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 43 occurrences of value Luxembourg
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 32 occurrences of value Thailand
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 19 occurrences of value New Zealand
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 18 occurrences of value Sri Lanka
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 16 occurrences of value Austria
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 15 occurrences of value Belgium
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 12 occurrences of value Portugal
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 12 occurrences of value Taiwan
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 11 occurrences of value Philippines
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 10 occurrences of value Indonesia
+2021-01-27 19:24:36,824 [INFO]  CategoricalEncoder for column Billing_Country                                found only 10 occurrences of value Canada
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 10 occurrences of value Cyprus
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 8 occurrences of value Jordan
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 5 occurrences of value Norway
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 5 occurrences of value Sweden
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 4 occurrences of value Switzerland
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 4 occurrences of value Poland
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 4 occurrences of value Saudi Arabia
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Bangladesh
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Reunion
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Finland
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Malta
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Cambodia
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value South Africa
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Slovakia
+2021-01-27 19:24:36,825 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Bermuda
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Mongolia
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Argentina
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Hungary
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Viet Nam
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value United Arab Emirates
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Bosnia and Herzegovina
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Greece
+2021-01-27 19:24:36,826 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Puerto Rico
+2021-01-27 19:24:40,202 [WARNING]  Test set does not contain any ocurrences of values [Philippines, Cyprus, Puerto Rico, Hungary, Greece, Argentina, Bosnia and Herzegovina, Mongolia, Bermuda, Viet Nam, Switzerland, Poland, Finland, Malta, Slovakia, Indonesia, Reunion, Bangladesh, Cambodia, South Africa, Saudi Arabia, United Arab Emirates] in column [Billing_Country], consider using a more representative test set.
+2021-01-27 19:24:40,209 [INFO]  
+========== start: fit model
+2021-01-27 19:24:40,209 [WARNING]  Already bound, ignoring bind()
+2021-01-27 19:24:41,606 [INFO]  Epoch[0] Batch [0-72]	Speed: 854.11 samples/sec	cross-entropy=2.175428	Billing_Country-accuracy=0.415240
+2021-01-27 19:24:42,901 [INFO]  Epoch[0] Train-cross-entropy=1.902030
+2021-01-27 19:24:42,901 [INFO]  Epoch[0] Train-Billing_Country-accuracy=0.463108
+2021-01-27 19:24:42,901 [INFO]  Epoch[0] Time cost=2.691
+2021-01-27 19:24:42,911 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0000.params"
+2021-01-27 19:24:43,001 [INFO]  Epoch[0] Validation-cross-entropy=1.320384
+2021-01-27 19:24:43,001 [INFO]  Epoch[0] Validation-Billing_Country-accuracy=0.546875
+2021-01-27 19:24:44,304 [INFO]  Epoch[1] Batch [0-72]	Speed: 897.30 samples/sec	cross-entropy=1.467509	Billing_Country-accuracy=0.574486
+2021-01-27 19:24:45,538 [INFO]  Epoch[1] Train-cross-entropy=1.339549
+2021-01-27 19:24:45,538 [INFO]  Epoch[1] Train-Billing_Country-accuracy=0.619358
+2021-01-27 19:24:45,538 [INFO]  Epoch[1] Time cost=2.537
+2021-01-27 19:24:45,548 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0001.params"
+2021-01-27 19:24:45,633 [INFO]  Epoch[1] Validation-cross-entropy=1.034573
+2021-01-27 19:24:45,633 [INFO]  Epoch[1] Validation-Billing_Country-accuracy=0.714844
+2021-01-27 19:24:46,909 [INFO]  Epoch[2] Batch [0-72]	Speed: 914.78 samples/sec	cross-entropy=1.113698	Billing_Country-accuracy=0.711473
+2021-01-27 19:24:48,190 [INFO]  Epoch[2] Train-cross-entropy=1.027028
+2021-01-27 19:24:48,190 [INFO]  Epoch[2] Train-Billing_Country-accuracy=0.740017
+2021-01-27 19:24:48,190 [INFO]  Epoch[2] Time cost=2.558
+2021-01-27 19:24:48,199 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0002.params"
+2021-01-27 19:24:48,285 [INFO]  Epoch[2] Validation-cross-entropy=0.835399
+2021-01-27 19:24:48,285 [INFO]  Epoch[2] Validation-Billing_Country-accuracy=0.800781
+2021-01-27 19:24:49,549 [INFO]  Epoch[3] Batch [0-72]	Speed: 924.08 samples/sec	cross-entropy=0.868304	Billing_Country-accuracy=0.795377
+2021-01-27 19:24:50,841 [INFO]  Epoch[3] Train-cross-entropy=0.806287
+2021-01-27 19:24:50,841 [INFO]  Epoch[3] Train-Billing_Country-accuracy=0.812500
+2021-01-27 19:24:50,841 [INFO]  Epoch[3] Time cost=2.556
+2021-01-27 19:24:50,850 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0003.params"
+2021-01-27 19:24:50,940 [INFO]  Epoch[3] Validation-cross-entropy=0.686320
+2021-01-27 19:24:50,940 [INFO]  Epoch[3] Validation-Billing_Country-accuracy=0.835938
+2021-01-27 19:24:52,150 [INFO]  Epoch[4] Batch [0-72]	Speed: 965.88 samples/sec	cross-entropy=0.696126	Billing_Country-accuracy=0.851027
+2021-01-27 19:24:53,436 [INFO]  Epoch[4] Train-cross-entropy=0.647456
+2021-01-27 19:24:53,436 [INFO]  Epoch[4] Train-Billing_Country-accuracy=0.862847
+2021-01-27 19:24:53,436 [INFO]  Epoch[4] Time cost=2.496
+2021-01-27 19:24:53,445 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0004.params"
+2021-01-27 19:24:53,539 [INFO]  Epoch[4] Validation-cross-entropy=0.570151
+2021-01-27 19:24:53,539 [INFO]  Epoch[4] Validation-Billing_Country-accuracy=0.882812
+2021-01-27 19:24:54,855 [INFO]  Epoch[5] Batch [0-72]	Speed: 887.31 samples/sec	cross-entropy=0.582962	Billing_Country-accuracy=0.888699
+2021-01-27 19:24:56,157 [INFO]  Epoch[5] Train-cross-entropy=0.537397
+2021-01-27 19:24:56,158 [INFO]  Epoch[5] Train-Billing_Country-accuracy=0.898872
+2021-01-27 19:24:56,158 [INFO]  Epoch[5] Time cost=2.619
+2021-01-27 19:24:56,168 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0005.params"
+2021-01-27 19:24:56,257 [INFO]  Epoch[5] Validation-cross-entropy=0.476514
+2021-01-27 19:24:56,257 [INFO]  Epoch[5] Validation-Billing_Country-accuracy=0.917969
+2021-01-27 19:24:57,609 [INFO]  Epoch[6] Batch [0-72]	Speed: 867.47 samples/sec	cross-entropy=0.466372	Billing_Country-accuracy=0.918664
+2021-01-27 19:24:58,897 [INFO]  Epoch[6] Train-cross-entropy=0.435716
+2021-01-27 19:24:58,897 [INFO]  Epoch[6] Train-Billing_Country-accuracy=0.926649
+2021-01-27 19:24:58,897 [INFO]  Epoch[6] Time cost=2.640
+2021-01-27 19:24:58,906 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0006.params"
+2021-01-27 19:24:59,019 [INFO]  Epoch[6] Validation-cross-entropy=0.412087
+2021-01-27 19:24:59,019 [INFO]  Epoch[6] Validation-Billing_Country-accuracy=0.933594
+2021-01-27 19:25:00,275 [INFO]  Epoch[7] Batch [0-72]	Speed: 929.06 samples/sec	cross-entropy=0.387809	Billing_Country-accuracy=0.940925
+2021-01-27 19:25:01,550 [INFO]  Epoch[7] Train-cross-entropy=0.364083
+2021-01-27 19:25:01,550 [INFO]  Epoch[7] Train-Billing_Country-accuracy=0.944010
+2021-01-27 19:25:01,551 [INFO]  Epoch[7] Time cost=2.532
+2021-01-27 19:25:01,560 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0007.params"
+2021-01-27 19:25:01,645 [INFO]  Epoch[7] Validation-cross-entropy=0.364563
+2021-01-27 19:25:01,645 [INFO]  Epoch[7] Validation-Billing_Country-accuracy=0.949219
+2021-01-27 19:25:02,929 [INFO]  Epoch[8] Batch [0-72]	Speed: 908.79 samples/sec	cross-entropy=0.327479	Billing_Country-accuracy=0.953767
+2021-01-27 19:25:04,190 [INFO]  Epoch[8] Train-cross-entropy=0.308559
+2021-01-27 19:25:04,190 [INFO]  Epoch[8] Train-Billing_Country-accuracy=0.954861
+2021-01-27 19:25:04,190 [INFO]  Epoch[8] Time cost=2.544
+2021-01-27 19:25:04,199 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0008.params"
+2021-01-27 19:25:04,294 [INFO]  Epoch[8] Validation-cross-entropy=0.323980
+2021-01-27 19:25:04,294 [INFO]  Epoch[8] Validation-Billing_Country-accuracy=0.960938
+2021-01-27 19:25:05,503 [INFO]  Epoch[9] Batch [0-72]	Speed: 966.17 samples/sec	cross-entropy=0.279241	Billing_Country-accuracy=0.959760
+2021-01-27 19:25:06,751 [INFO]  Epoch[9] Train-cross-entropy=0.264129
+2021-01-27 19:25:06,751 [INFO]  Epoch[9] Train-Billing_Country-accuracy=0.962674
+2021-01-27 19:25:06,751 [INFO]  Epoch[9] Time cost=2.456
+2021-01-27 19:25:06,761 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0009.params"
+2021-01-27 19:25:06,846 [INFO]  Epoch[9] Validation-cross-entropy=0.294499
+2021-01-27 19:25:06,846 [INFO]  Epoch[9] Validation-Billing_Country-accuracy=0.964844
+2021-01-27 19:25:08,149 [INFO]  Epoch[10] Batch [0-72]	Speed: 896.30 samples/sec	cross-entropy=0.240562	Billing_Country-accuracy=0.971747
+2021-01-27 19:25:09,418 [INFO]  Epoch[10] Train-cross-entropy=0.228040
+2021-01-27 19:25:09,418 [INFO]  Epoch[10] Train-Billing_Country-accuracy=0.971354
+2021-01-27 19:25:09,418 [INFO]  Epoch[10] Time cost=2.572
+2021-01-27 19:25:09,428 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0010.params"
+2021-01-27 19:25:09,537 [INFO]  Epoch[10] Validation-cross-entropy=0.271354
+2021-01-27 19:25:09,537 [INFO]  Epoch[10] Validation-Billing_Country-accuracy=0.964844
+2021-01-27 19:25:10,776 [INFO]  Epoch[11] Batch [0-72]	Speed: 942.38 samples/sec	cross-entropy=0.209569	Billing_Country-accuracy=0.975171
+2021-01-27 19:25:12,030 [INFO]  Epoch[11] Train-cross-entropy=0.198787
+2021-01-27 19:25:12,030 [INFO]  Epoch[11] Train-Billing_Country-accuracy=0.976128
+2021-01-27 19:25:12,030 [INFO]  Epoch[11] Time cost=2.492
+2021-01-27 19:25:12,039 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0011.params"
+2021-01-27 19:25:12,171 [INFO]  Epoch[11] Validation-cross-entropy=0.251647
+2021-01-27 19:25:12,171 [INFO]  Epoch[11] Validation-Billing_Country-accuracy=0.972656
+2021-01-27 19:25:13,590 [INFO]  Epoch[12] Batch [0-72]	Speed: 822.91 samples/sec	cross-entropy=0.183333	Billing_Country-accuracy=0.983733
+2021-01-27 19:25:14,882 [INFO]  Epoch[12] Train-cross-entropy=0.174302
+2021-01-27 19:25:14,882 [INFO]  Epoch[12] Train-Billing_Country-accuracy=0.982639
+2021-01-27 19:25:14,882 [INFO]  Epoch[12] Time cost=2.710
+2021-01-27 19:25:14,891 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0012.params"
+2021-01-27 19:25:14,980 [INFO]  Epoch[12] Validation-cross-entropy=0.235135
+2021-01-27 19:25:14,980 [INFO]  Epoch[12] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:16,293 [INFO]  Epoch[13] Batch [0-72]	Speed: 896.08 samples/sec	cross-entropy=0.161768	Billing_Country-accuracy=0.988870
+2021-01-27 19:25:17,586 [INFO]  Epoch[13] Train-cross-entropy=0.154026
+2021-01-27 19:25:17,586 [INFO]  Epoch[13] Train-Billing_Country-accuracy=0.986545
+2021-01-27 19:25:17,586 [INFO]  Epoch[13] Time cost=2.606
+2021-01-27 19:25:17,595 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0013.params"
+2021-01-27 19:25:17,694 [INFO]  Epoch[13] Validation-cross-entropy=0.221286
+2021-01-27 19:25:17,694 [INFO]  Epoch[13] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:19,060 [INFO]  Epoch[14] Batch [0-72]	Speed: 852.41 samples/sec	cross-entropy=0.143144	Billing_Country-accuracy=0.991438
+2021-01-27 19:25:20,347 [INFO]  Epoch[14] Train-cross-entropy=0.136696
+2021-01-27 19:25:20,347 [INFO]  Epoch[14] Train-Billing_Country-accuracy=0.988281
+2021-01-27 19:25:20,347 [INFO]  Epoch[14] Time cost=2.653
+2021-01-27 19:25:20,356 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0014.params"
+2021-01-27 19:25:20,445 [INFO]  Epoch[14] Validation-cross-entropy=0.210976
+2021-01-27 19:25:20,445 [INFO]  Epoch[14] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:21,846 [INFO]  Epoch[15] Batch [0-72]	Speed: 832.60 samples/sec	cross-entropy=0.128009	Billing_Country-accuracy=0.993151
+2021-01-27 19:25:23,152 [INFO]  Epoch[15] Train-cross-entropy=0.121754
+2021-01-27 19:25:23,152 [INFO]  Epoch[15] Train-Billing_Country-accuracy=0.990885
+2021-01-27 19:25:23,153 [INFO]  Epoch[15] Time cost=2.708
+2021-01-27 19:25:23,162 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0015.params"
+2021-01-27 19:25:23,249 [INFO]  Epoch[15] Validation-cross-entropy=0.202743
+2021-01-27 19:25:23,250 [INFO]  Epoch[15] Validation-Billing_Country-accuracy=0.972656
+2021-01-27 19:25:24,617 [INFO]  Epoch[16] Batch [0-72]	Speed: 852.18 samples/sec	cross-entropy=0.114362	Billing_Country-accuracy=0.994007
+2021-01-27 19:25:25,928 [INFO]  Epoch[16] Train-cross-entropy=0.109185
+2021-01-27 19:25:25,928 [INFO]  Epoch[16] Train-Billing_Country-accuracy=0.992188
+2021-01-27 19:25:25,928 [INFO]  Epoch[16] Time cost=2.679
+2021-01-27 19:25:25,938 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0016.params"
+2021-01-27 19:25:26,026 [INFO]  Epoch[16] Validation-cross-entropy=0.193331
+2021-01-27 19:25:26,026 [INFO]  Epoch[16] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:27,314 [INFO]  Epoch[17] Batch [0-72]	Speed: 905.29 samples/sec	cross-entropy=0.102652	Billing_Country-accuracy=0.994863
+2021-01-27 19:25:28,718 [INFO]  Epoch[17] Train-cross-entropy=0.098067
+2021-01-27 19:25:28,718 [INFO]  Epoch[17] Train-Billing_Country-accuracy=0.993924
+2021-01-27 19:25:28,718 [INFO]  Epoch[17] Time cost=2.692
+2021-01-27 19:25:28,727 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0017.params"
+2021-01-27 19:25:28,812 [INFO]  Epoch[17] Validation-cross-entropy=0.187612
+2021-01-27 19:25:28,813 [INFO]  Epoch[17] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:30,224 [INFO]  Epoch[18] Batch [0-72]	Speed: 825.19 samples/sec	cross-entropy=0.092938	Billing_Country-accuracy=0.997432
+2021-01-27 19:25:31,622 [INFO]  Epoch[18] Train-cross-entropy=0.088557
+2021-01-27 19:25:31,622 [INFO]  Epoch[18] Train-Billing_Country-accuracy=0.995660
+2021-01-27 19:25:31,622 [INFO]  Epoch[18] Time cost=2.809
+2021-01-27 19:25:31,631 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0018.params"
+2021-01-27 19:25:31,720 [INFO]  Epoch[18] Validation-cross-entropy=0.181837
+2021-01-27 19:25:31,720 [INFO]  Epoch[18] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:33,071 [INFO]  Epoch[19] Batch [0-72]	Speed: 862.81 samples/sec	cross-entropy=0.083980	Billing_Country-accuracy=0.997432
+2021-01-27 19:25:34,521 [INFO]  Epoch[19] Train-cross-entropy=0.080155
+2021-01-27 19:25:34,521 [INFO]  Epoch[19] Train-Billing_Country-accuracy=0.995660
+2021-01-27 19:25:34,521 [INFO]  Epoch[19] Time cost=2.801
+2021-01-27 19:25:34,530 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0019.params"
+2021-01-27 19:25:34,615 [INFO]  Epoch[19] Validation-cross-entropy=0.176639
+2021-01-27 19:25:34,615 [INFO]  Epoch[19] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:36,018 [INFO]  Epoch[20] Batch [0-72]	Speed: 831.93 samples/sec	cross-entropy=0.076157	Billing_Country-accuracy=0.998288
+2021-01-27 19:25:37,343 [INFO]  Epoch[20] Train-cross-entropy=0.072745
+2021-01-27 19:25:37,343 [INFO]  Epoch[20] Train-Billing_Country-accuracy=0.997396
+2021-01-27 19:25:37,343 [INFO]  Epoch[20] Time cost=2.728
+2021-01-27 19:25:37,352 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0020.params"
+2021-01-27 19:25:37,445 [INFO]  Epoch[20] Validation-cross-entropy=0.172932
+2021-01-27 19:25:37,445 [INFO]  Epoch[20] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:38,903 [INFO]  Epoch[21] Batch [0-72]	Speed: 799.56 samples/sec	cross-entropy=0.069384	Billing_Country-accuracy=0.998288
+2021-01-27 19:25:40,278 [INFO]  Epoch[21] Train-cross-entropy=0.066335
+2021-01-27 19:25:40,278 [INFO]  Epoch[21] Train-Billing_Country-accuracy=0.997830
+2021-01-27 19:25:40,278 [INFO]  Epoch[21] Time cost=2.833
+2021-01-27 19:25:40,287 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0021.params"
+2021-01-27 19:25:40,376 [INFO]  Epoch[21] Validation-cross-entropy=0.169463
+2021-01-27 19:25:40,376 [INFO]  Epoch[21] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:41,927 [INFO]  Epoch[22] Batch [0-72]	Speed: 751.49 samples/sec	cross-entropy=0.063358	Billing_Country-accuracy=0.998288
+2021-01-27 19:25:43,320 [INFO]  Epoch[22] Train-cross-entropy=0.060584
+2021-01-27 19:25:43,320 [INFO]  Epoch[22] Train-Billing_Country-accuracy=0.998264
+2021-01-27 19:25:43,320 [INFO]  Epoch[22] Time cost=2.944
+2021-01-27 19:25:43,329 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0022.params"
+2021-01-27 19:25:43,413 [INFO]  Epoch[22] Validation-cross-entropy=0.166618
+2021-01-27 19:25:43,413 [INFO]  Epoch[22] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:44,926 [INFO]  Epoch[23] Batch [0-72]	Speed: 771.02 samples/sec	cross-entropy=0.058073	Billing_Country-accuracy=0.999144
+2021-01-27 19:25:46,374 [INFO]  Epoch[23] Train-cross-entropy=0.055460
+2021-01-27 19:25:46,374 [INFO]  Epoch[23] Train-Billing_Country-accuracy=0.998698
+2021-01-27 19:25:46,374 [INFO]  Epoch[23] Time cost=2.962
+2021-01-27 19:25:46,384 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0023.params"
+2021-01-27 19:25:46,466 [INFO]  Epoch[23] Validation-cross-entropy=0.164454
+2021-01-27 19:25:46,466 [INFO]  Epoch[23] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:47,957 [INFO]  Epoch[24] Batch [0-72]	Speed: 781.81 samples/sec	cross-entropy=0.052979	Billing_Country-accuracy=0.999144
+2021-01-27 19:25:49,361 [INFO]  Epoch[24] Train-cross-entropy=0.050757
+2021-01-27 19:25:49,361 [INFO]  Epoch[24] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:25:49,361 [INFO]  Epoch[24] Time cost=2.895
+2021-01-27 19:25:49,371 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0024.params"
+2021-01-27 19:25:49,457 [INFO]  Epoch[24] Validation-cross-entropy=0.162954
+2021-01-27 19:25:49,457 [INFO]  Epoch[24] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:50,975 [INFO]  Epoch[25] Batch [0-72]	Speed: 767.75 samples/sec	cross-entropy=0.048903	Billing_Country-accuracy=0.999144
+2021-01-27 19:25:52,382 [INFO]  Epoch[25] Train-cross-entropy=0.046872
+2021-01-27 19:25:52,382 [INFO]  Epoch[25] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:25:52,382 [INFO]  Epoch[25] Time cost=2.926
+2021-01-27 19:25:52,392 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0025.params"
+2021-01-27 19:25:52,481 [INFO]  Epoch[25] Validation-cross-entropy=0.160929
+2021-01-27 19:25:52,481 [INFO]  Epoch[25] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:53,960 [INFO]  Epoch[26] Batch [0-72]	Speed: 788.15 samples/sec	cross-entropy=0.044852	Billing_Country-accuracy=0.999144
+2021-01-27 19:25:55,452 [INFO]  Epoch[26] Train-cross-entropy=0.042993
+2021-01-27 19:25:55,452 [INFO]  Epoch[26] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:25:55,452 [INFO]  Epoch[26] Time cost=2.971
+2021-01-27 19:25:55,460 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0026.params"
+2021-01-27 19:25:55,548 [INFO]  Epoch[26] Validation-cross-entropy=0.161166
+2021-01-27 19:25:55,548 [INFO]  Epoch[26] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:25:57,031 [INFO]  Epoch[27] Batch [0-72]	Speed: 787.02 samples/sec	cross-entropy=0.041444	Billing_Country-accuracy=0.999144
+2021-01-27 19:25:58,621 [INFO]  Epoch[27] Train-cross-entropy=0.039752
+2021-01-27 19:25:58,621 [INFO]  Epoch[27] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:25:58,621 [INFO]  Epoch[27] Time cost=3.074
+2021-01-27 19:25:58,630 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0027.params"
+2021-01-27 19:25:58,735 [INFO]  Epoch[27] Validation-cross-entropy=0.158420
+2021-01-27 19:25:58,735 [INFO]  Epoch[27] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:26:00,322 [INFO]  Epoch[28] Batch [0-72]	Speed: 735.30 samples/sec	cross-entropy=0.038471	Billing_Country-accuracy=0.999144
+2021-01-27 19:26:01,915 [INFO]  Epoch[28] Train-cross-entropy=0.036855
+2021-01-27 19:26:01,916 [INFO]  Epoch[28] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:26:01,916 [INFO]  Epoch[28] Time cost=3.181
+2021-01-27 19:26:01,924 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0028.params"
+2021-01-27 19:26:02,008 [INFO]  Epoch[28] Validation-cross-entropy=0.158676
+2021-01-27 19:26:02,008 [INFO]  Epoch[28] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:26:03,587 [INFO]  Epoch[29] Batch [0-72]	Speed: 738.88 samples/sec	cross-entropy=0.035470	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:05,067 [INFO]  Epoch[29] Train-cross-entropy=0.034014
+2021-01-27 19:26:05,067 [INFO]  Epoch[29] Train-Billing_Country-accuracy=0.999566
+2021-01-27 19:26:05,067 [INFO]  Epoch[29] Time cost=3.060
+2021-01-27 19:26:05,076 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0029.params"
+2021-01-27 19:26:05,162 [INFO]  Epoch[29] Validation-cross-entropy=0.157542
+2021-01-27 19:26:05,163 [INFO]  Epoch[29] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:26:06,710 [INFO]  Epoch[30] Batch [0-72]	Speed: 754.43 samples/sec	cross-entropy=0.032880	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:08,228 [INFO]  Epoch[30] Train-cross-entropy=0.031597
+2021-01-27 19:26:08,228 [INFO]  Epoch[30] Train-Billing_Country-accuracy=0.999566
+2021-01-27 19:26:08,228 [INFO]  Epoch[30] Time cost=3.065
+2021-01-27 19:26:08,237 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0030.params"
+2021-01-27 19:26:08,320 [INFO]  Epoch[30] Validation-cross-entropy=0.157261
+2021-01-27 19:26:08,320 [INFO]  Epoch[30] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:26:10,000 [INFO]  Epoch[31] Batch [0-72]	Speed: 693.27 samples/sec	cross-entropy=0.030450	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:11,484 [INFO]  Epoch[31] Train-cross-entropy=0.029291
+2021-01-27 19:26:11,485 [INFO]  Epoch[31] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:26:11,485 [INFO]  Epoch[31] Time cost=3.165
+2021-01-27 19:26:11,493 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0031.params"
+2021-01-27 19:26:11,579 [INFO]  Epoch[31] Validation-cross-entropy=0.158464
+2021-01-27 19:26:11,579 [INFO]  Epoch[31] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:26:13,086 [INFO]  Epoch[32] Batch [0-72]	Speed: 775.59 samples/sec	cross-entropy=0.028182	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:14,562 [INFO]  Epoch[32] Train-cross-entropy=0.027205
+2021-01-27 19:26:14,562 [INFO]  Epoch[32] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:26:14,563 [INFO]  Epoch[32] Time cost=2.983
+2021-01-27 19:26:14,572 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0032.params"
+2021-01-27 19:26:14,666 [INFO]  Epoch[32] Validation-cross-entropy=0.157404
+2021-01-27 19:26:14,666 [INFO]  Epoch[32] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:26:16,170 [INFO]  Epoch[33] Batch [0-72]	Speed: 776.96 samples/sec	cross-entropy=0.026365	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:17,692 [INFO]  Epoch[33] Train-cross-entropy=0.025350
+2021-01-27 19:26:17,692 [INFO]  Epoch[33] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:26:17,693 [INFO]  Epoch[33] Time cost=3.027
+2021-01-27 19:26:17,701 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0033.params"
+2021-01-27 19:26:17,788 [INFO]  Epoch[33] Validation-cross-entropy=0.157574
+2021-01-27 19:26:17,788 [INFO]  Epoch[33] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:26:19,405 [INFO]  Epoch[34] Batch [0-72]	Speed: 722.31 samples/sec	cross-entropy=0.024472	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:21,098 [INFO]  Epoch[34] Train-cross-entropy=0.023572
+2021-01-27 19:26:21,098 [INFO]  Epoch[34] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:26:21,098 [INFO]  Epoch[34] Time cost=3.311
+2021-01-27 19:26:21,107 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0034.params"
+2021-01-27 19:26:21,203 [INFO]  Epoch[34] Validation-cross-entropy=0.157626
+2021-01-27 19:26:21,203 [INFO]  Epoch[34] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:26:22,941 [INFO]  Epoch[35] Batch [0-72]	Speed: 671.89 samples/sec	cross-entropy=0.022781	Billing_Country-accuracy=1.000000
+2021-01-27 19:26:24,582 [INFO]  Epoch[35] Train-cross-entropy=0.021982
+2021-01-27 19:26:24,582 [INFO]  Epoch[35] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:26:24,582 [INFO]  Epoch[35] Time cost=3.379
+2021-01-27 19:26:24,591 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0035.params"
+2021-01-27 19:26:24,706 [INFO]  No improvement detected for 5 epochs compared to 0.15726149757392704 last error obtained: 0.15873685682890937, stopping here
+2021-01-27 19:26:24,707 [INFO]  
+========== done (104.49859023094177 s) fit model
+2021-01-27 19:27:11,078 [INFO]  CategoricalEncoder for column Billing_Country                                found only 85 occurrences of value Singapore
+2021-01-27 19:27:11,080 [INFO]  CategoricalEncoder for column Billing_Country                                found only 79 occurrences of value Netherlands
+2021-01-27 19:27:11,081 [INFO]  CategoricalEncoder for column Billing_Country                                found only 70 occurrences of value India
+2021-01-27 19:27:11,081 [INFO]  CategoricalEncoder for column Billing_Country                                found only 68 occurrences of value Italy
+2021-01-27 19:27:11,081 [INFO]  CategoricalEncoder for column Billing_Country                                found only 51 occurrences of value Spain
+2021-01-27 19:27:11,082 [INFO]  CategoricalEncoder for column Billing_Country                                found only 43 occurrences of value Luxembourg
+2021-01-27 19:27:11,083 [INFO]  CategoricalEncoder for column Billing_Country                                found only 43 occurrences of value United Kingdom
+2021-01-27 19:27:11,083 [INFO]  CategoricalEncoder for column Billing_Country                                found only 32 occurrences of value Thailand
+2021-01-27 19:27:11,085 [INFO]  CategoricalEncoder for column Billing_Country                                found only 19 occurrences of value New Zealand
+2021-01-27 19:27:11,085 [INFO]  CategoricalEncoder for column Billing_Country                                found only 18 occurrences of value Sri Lanka
+2021-01-27 19:27:11,086 [INFO]  CategoricalEncoder for column Billing_Country                                found only 16 occurrences of value Austria
+2021-01-27 19:27:11,086 [INFO]  CategoricalEncoder for column Billing_Country                                found only 15 occurrences of value Belgium
+2021-01-27 19:27:11,087 [INFO]  CategoricalEncoder for column Billing_Country                                found only 12 occurrences of value Taiwan
+2021-01-27 19:27:11,088 [INFO]  CategoricalEncoder for column Billing_Country                                found only 12 occurrences of value Portugal
+2021-01-27 19:27:11,088 [INFO]  CategoricalEncoder for column Billing_Country                                found only 11 occurrences of value Philippines
+2021-01-27 19:27:11,088 [INFO]  CategoricalEncoder for column Billing_Country                                found only 10 occurrences of value Canada
+2021-01-27 19:27:11,089 [INFO]  CategoricalEncoder for column Billing_Country                                found only 10 occurrences of value Indonesia
+2021-01-27 19:27:11,090 [INFO]  CategoricalEncoder for column Billing_Country                                found only 10 occurrences of value Cyprus
+2021-01-27 19:27:11,091 [INFO]  CategoricalEncoder for column Billing_Country                                found only 8 occurrences of value Jordan
+2021-01-27 19:27:11,091 [INFO]  CategoricalEncoder for column Billing_Country                                found only 5 occurrences of value Sweden
+2021-01-27 19:27:11,092 [INFO]  CategoricalEncoder for column Billing_Country                                found only 5 occurrences of value Norway
+2021-01-27 19:27:11,093 [INFO]  CategoricalEncoder for column Billing_Country                                found only 4 occurrences of value Switzerland
+2021-01-27 19:27:11,093 [INFO]  CategoricalEncoder for column Billing_Country                                found only 4 occurrences of value Poland
+2021-01-27 19:27:11,094 [INFO]  CategoricalEncoder for column Billing_Country                                found only 4 occurrences of value Saudi Arabia
+2021-01-27 19:27:11,094 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Malta
+2021-01-27 19:27:11,095 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Reunion
+2021-01-27 19:27:11,096 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Bangladesh
+2021-01-27 19:27:11,096 [INFO]  CategoricalEncoder for column Billing_Country                                found only 3 occurrences of value Finland
+2021-01-27 19:27:11,097 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Slovakia
+2021-01-27 19:27:11,098 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Bermuda
+2021-01-27 19:27:11,098 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Argentina
+2021-01-27 19:27:11,099 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Hungary
+2021-01-27 19:27:11,100 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Mongolia
+2021-01-27 19:27:11,101 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value Cambodia
+2021-01-27 19:27:11,101 [INFO]  CategoricalEncoder for column Billing_Country                                found only 2 occurrences of value South Africa
+2021-01-27 19:27:11,102 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Puerto Rico
+2021-01-27 19:27:11,103 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Bosnia and Herzegovina
+2021-01-27 19:27:11,103 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Greece
+2021-01-27 19:27:11,104 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value Viet Nam
+2021-01-27 19:27:11,104 [INFO]  CategoricalEncoder for column Billing_Country                                found only 1 occurrences of value United Arab Emirates
+2021-01-27 19:27:14,463 [WARNING]  Test set does not contain any ocurrences of values [Malta, Bosnia and Herzegovina, Mongolia, Argentina, Finland, Cyprus, Reunion, Switzerland, Greece, Hungary, Bangladesh, United Arab Emirates, Viet Nam, Poland, Puerto Rico, Bermuda, Cambodia, Philippines, South Africa, Saudi Arabia, Indonesia, Slovakia] in column [Billing_Country], consider using a more representative test set.
+2021-01-27 19:27:14,470 [INFO]  
+========== start: fit model
+2021-01-27 19:27:14,471 [WARNING]  Already bound, ignoring bind()
+2021-01-27 19:27:15,839 [INFO]  Epoch[0] Batch [0-72]	Speed: 876.01 samples/sec	cross-entropy=2.162725	Billing_Country-accuracy=0.421233
+2021-01-27 19:27:17,123 [INFO]  Epoch[0] Train-cross-entropy=1.893933
+2021-01-27 19:27:17,124 [INFO]  Epoch[0] Train-Billing_Country-accuracy=0.468750
+2021-01-27 19:27:17,125 [INFO]  Epoch[0] Time cost=2.652
+2021-01-27 19:27:17,137 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0000.params"
+2021-01-27 19:27:17,245 [INFO]  Epoch[0] Validation-cross-entropy=1.307242
+2021-01-27 19:27:17,245 [INFO]  Epoch[0] Validation-Billing_Country-accuracy=0.546875
+2021-01-27 19:27:18,588 [INFO]  Epoch[1] Batch [0-72]	Speed: 869.80 samples/sec	cross-entropy=1.456713	Billing_Country-accuracy=0.580479
+2021-01-27 19:27:19,820 [INFO]  Epoch[1] Train-cross-entropy=1.336210
+2021-01-27 19:27:19,821 [INFO]  Epoch[1] Train-Billing_Country-accuracy=0.619358
+2021-01-27 19:27:19,822 [INFO]  Epoch[1] Time cost=2.576
+2021-01-27 19:27:19,833 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0001.params"
+2021-01-27 19:27:19,936 [INFO]  Epoch[1] Validation-cross-entropy=1.030216
+2021-01-27 19:27:19,937 [INFO]  Epoch[1] Validation-Billing_Country-accuracy=0.703125
+2021-01-27 19:27:21,169 [INFO]  Epoch[2] Batch [0-72]	Speed: 949.19 samples/sec	cross-entropy=1.106365	Billing_Country-accuracy=0.719178
+2021-01-27 19:27:22,373 [INFO]  Epoch[2] Train-cross-entropy=1.026322
+2021-01-27 19:27:22,374 [INFO]  Epoch[2] Train-Billing_Country-accuracy=0.739583
+2021-01-27 19:27:22,375 [INFO]  Epoch[2] Time cost=2.438
+2021-01-27 19:27:22,385 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0002.params"
+2021-01-27 19:27:22,486 [INFO]  Epoch[2] Validation-cross-entropy=0.834552
+2021-01-27 19:27:22,487 [INFO]  Epoch[2] Validation-Billing_Country-accuracy=0.796875
+2021-01-27 19:27:23,731 [INFO]  Epoch[3] Batch [0-72]	Speed: 945.74 samples/sec	cross-entropy=0.866984	Billing_Country-accuracy=0.803082
+2021-01-27 19:27:24,986 [INFO]  Epoch[3] Train-cross-entropy=0.808793
+2021-01-27 19:27:24,987 [INFO]  Epoch[3] Train-Billing_Country-accuracy=0.817274
+2021-01-27 19:27:24,988 [INFO]  Epoch[3] Time cost=2.501
+2021-01-27 19:27:24,999 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0003.params"
+2021-01-27 19:27:25,100 [INFO]  Epoch[3] Validation-cross-entropy=0.687636
+2021-01-27 19:27:25,101 [INFO]  Epoch[3] Validation-Billing_Country-accuracy=0.851562
+2021-01-27 19:27:26,436 [INFO]  Epoch[4] Batch [0-72]	Speed: 873.47 samples/sec	cross-entropy=0.694992	Billing_Country-accuracy=0.850171
+2021-01-27 19:27:27,649 [INFO]  Epoch[4] Train-cross-entropy=0.646324
+2021-01-27 19:27:27,650 [INFO]  Epoch[4] Train-Billing_Country-accuracy=0.865451
+2021-01-27 19:27:27,650 [INFO]  Epoch[4] Time cost=2.548
+2021-01-27 19:27:27,661 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0004.params"
+2021-01-27 19:27:27,755 [INFO]  Epoch[4] Validation-cross-entropy=0.559340
+2021-01-27 19:27:27,755 [INFO]  Epoch[4] Validation-Billing_Country-accuracy=0.871094
+2021-01-27 19:27:29,058 [INFO]  Epoch[5] Batch [0-72]	Speed: 896.42 samples/sec	cross-entropy=0.560167	Billing_Country-accuracy=0.894692
+2021-01-27 19:27:30,261 [INFO]  Epoch[5] Train-cross-entropy=0.522261
+2021-01-27 19:27:30,261 [INFO]  Epoch[5] Train-Billing_Country-accuracy=0.904514
+2021-01-27 19:27:30,262 [INFO]  Epoch[5] Time cost=2.505
+2021-01-27 19:27:30,273 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0005.params"
+2021-01-27 19:27:30,381 [INFO]  Epoch[5] Validation-cross-entropy=0.469860
+2021-01-27 19:27:30,382 [INFO]  Epoch[5] Validation-Billing_Country-accuracy=0.902344
+2021-01-27 19:27:31,725 [INFO]  Epoch[6] Batch [0-72]	Speed: 869.22 samples/sec	cross-entropy=0.477167	Billing_Country-accuracy=0.921233
+2021-01-27 19:27:33,027 [INFO]  Epoch[6] Train-cross-entropy=0.444687
+2021-01-27 19:27:33,028 [INFO]  Epoch[6] Train-Billing_Country-accuracy=0.924479
+2021-01-27 19:27:33,029 [INFO]  Epoch[6] Time cost=2.647
+2021-01-27 19:27:33,041 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0006.params"
+2021-01-27 19:27:33,164 [INFO]  Epoch[6] Validation-cross-entropy=0.437788
+2021-01-27 19:27:33,165 [INFO]  Epoch[6] Validation-Billing_Country-accuracy=0.925781
+2021-01-27 19:27:34,435 [INFO]  Epoch[7] Batch [0-72]	Speed: 918.04 samples/sec	cross-entropy=0.387450	Billing_Country-accuracy=0.938356
+2021-01-27 19:27:35,730 [INFO]  Epoch[7] Train-cross-entropy=0.361698
+2021-01-27 19:27:35,730 [INFO]  Epoch[7] Train-Billing_Country-accuracy=0.943142
+2021-01-27 19:27:35,731 [INFO]  Epoch[7] Time cost=2.567
+2021-01-27 19:27:35,742 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0007.params"
+2021-01-27 19:27:35,843 [INFO]  Epoch[7] Validation-cross-entropy=0.353405
+2021-01-27 19:27:35,844 [INFO]  Epoch[7] Validation-Billing_Country-accuracy=0.949219
+2021-01-27 19:27:37,177 [INFO]  Epoch[8] Batch [0-72]	Speed: 875.40 samples/sec	cross-entropy=0.324539	Billing_Country-accuracy=0.955479
+2021-01-27 19:27:38,370 [INFO]  Epoch[8] Train-cross-entropy=0.304449
+2021-01-27 19:27:38,371 [INFO]  Epoch[8] Train-Billing_Country-accuracy=0.956163
+2021-01-27 19:27:38,372 [INFO]  Epoch[8] Time cost=2.529
+2021-01-27 19:27:38,384 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0008.params"
+2021-01-27 19:27:38,486 [INFO]  Epoch[8] Validation-cross-entropy=0.313975
+2021-01-27 19:27:38,486 [INFO]  Epoch[8] Validation-Billing_Country-accuracy=0.964844
+2021-01-27 19:27:39,756 [INFO]  Epoch[9] Batch [0-72]	Speed: 920.26 samples/sec	cross-entropy=0.276273	Billing_Country-accuracy=0.963185
+2021-01-27 19:27:41,033 [INFO]  Epoch[9] Train-cross-entropy=0.260270
+2021-01-27 19:27:41,033 [INFO]  Epoch[9] Train-Billing_Country-accuracy=0.963108
+2021-01-27 19:27:41,034 [INFO]  Epoch[9] Time cost=2.547
+2021-01-27 19:27:41,045 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0009.params"
+2021-01-27 19:27:41,162 [INFO]  Epoch[9] Validation-cross-entropy=0.284385
+2021-01-27 19:27:41,163 [INFO]  Epoch[9] Validation-Billing_Country-accuracy=0.964844
+2021-01-27 19:27:42,439 [INFO]  Epoch[10] Batch [0-72]	Speed: 916.44 samples/sec	cross-entropy=0.238084	Billing_Country-accuracy=0.971747
+2021-01-27 19:27:43,802 [INFO]  Epoch[10] Train-cross-entropy=0.224841
+2021-01-27 19:27:43,803 [INFO]  Epoch[10] Train-Billing_Country-accuracy=0.971788
+2021-01-27 19:27:43,804 [INFO]  Epoch[10] Time cost=2.641
+2021-01-27 19:27:43,813 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0010.params"
+2021-01-27 19:27:43,917 [INFO]  Epoch[10] Validation-cross-entropy=0.259901
+2021-01-27 19:27:43,917 [INFO]  Epoch[10] Validation-Billing_Country-accuracy=0.968750
+2021-01-27 19:27:45,223 [INFO]  Epoch[11] Batch [0-72]	Speed: 894.49 samples/sec	cross-entropy=0.207154	Billing_Country-accuracy=0.976027
+2021-01-27 19:27:46,506 [INFO]  Epoch[11] Train-cross-entropy=0.195875
+2021-01-27 19:27:46,506 [INFO]  Epoch[11] Train-Billing_Country-accuracy=0.977431
+2021-01-27 19:27:46,507 [INFO]  Epoch[11] Time cost=2.588
+2021-01-27 19:27:46,518 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0011.params"
+2021-01-27 19:27:46,615 [INFO]  Epoch[11] Validation-cross-entropy=0.241152
+2021-01-27 19:27:46,616 [INFO]  Epoch[11] Validation-Billing_Country-accuracy=0.968750
+2021-01-27 19:27:48,094 [INFO]  Epoch[12] Batch [0-72]	Speed: 794.80 samples/sec	cross-entropy=0.180938	Billing_Country-accuracy=0.984589
+2021-01-27 19:27:49,480 [INFO]  Epoch[12] Train-cross-entropy=0.171475
+2021-01-27 19:27:49,481 [INFO]  Epoch[12] Train-Billing_Country-accuracy=0.983941
+2021-01-27 19:27:49,481 [INFO]  Epoch[12] Time cost=2.864
+2021-01-27 19:27:49,491 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0012.params"
+2021-01-27 19:27:49,586 [INFO]  Epoch[12] Validation-cross-entropy=0.223185
+2021-01-27 19:27:49,587 [INFO]  Epoch[12] Validation-Billing_Country-accuracy=0.972656
+2021-01-27 19:27:51,080 [INFO]  Epoch[13] Batch [0-72]	Speed: 783.55 samples/sec	cross-entropy=0.159661	Billing_Country-accuracy=0.988014
+2021-01-27 19:27:52,497 [INFO]  Epoch[13] Train-cross-entropy=0.151316
+2021-01-27 19:27:52,498 [INFO]  Epoch[13] Train-Billing_Country-accuracy=0.986545
+2021-01-27 19:27:52,499 [INFO]  Epoch[13] Time cost=2.911
+2021-01-27 19:27:52,511 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0013.params"
+2021-01-27 19:27:52,618 [INFO]  Epoch[13] Validation-cross-entropy=0.209853
+2021-01-27 19:27:52,619 [INFO]  Epoch[13] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:27:54,069 [INFO]  Epoch[14] Batch [0-72]	Speed: 809.69 samples/sec	cross-entropy=0.141420	Billing_Country-accuracy=0.991438
+2021-01-27 19:27:55,476 [INFO]  Epoch[14] Train-cross-entropy=0.134234
+2021-01-27 19:27:55,477 [INFO]  Epoch[14] Train-Billing_Country-accuracy=0.990451
+2021-01-27 19:27:55,477 [INFO]  Epoch[14] Time cost=2.858
+2021-01-27 19:27:55,489 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0014.params"
+2021-01-27 19:27:55,578 [INFO]  Epoch[14] Validation-cross-entropy=0.198705
+2021-01-27 19:27:55,579 [INFO]  Epoch[14] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:27:56,961 [INFO]  Epoch[15] Batch [0-72]	Speed: 848.46 samples/sec	cross-entropy=0.126007	Billing_Country-accuracy=0.994863
+2021-01-27 19:27:58,386 [INFO]  Epoch[15] Train-cross-entropy=0.119458
+2021-01-27 19:27:58,387 [INFO]  Epoch[15] Train-Billing_Country-accuracy=0.993924
+2021-01-27 19:27:58,387 [INFO]  Epoch[15] Time cost=2.807
+2021-01-27 19:27:58,399 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0015.params"
+2021-01-27 19:27:58,494 [INFO]  Epoch[15] Validation-cross-entropy=0.189433
+2021-01-27 19:27:58,495 [INFO]  Epoch[15] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:27:59,920 [INFO]  Epoch[16] Batch [0-72]	Speed: 824.74 samples/sec	cross-entropy=0.112439	Billing_Country-accuracy=0.996575
+2021-01-27 19:28:01,350 [INFO]  Epoch[16] Train-cross-entropy=0.106669
+2021-01-27 19:28:01,351 [INFO]  Epoch[16] Train-Billing_Country-accuracy=0.994792
+2021-01-27 19:28:01,352 [INFO]  Epoch[16] Time cost=2.857
+2021-01-27 19:28:01,362 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0016.params"
+2021-01-27 19:28:01,466 [INFO]  Epoch[16] Validation-cross-entropy=0.181106
+2021-01-27 19:28:01,466 [INFO]  Epoch[16] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:28:02,930 [INFO]  Epoch[17] Batch [0-72]	Speed: 802.47 samples/sec	cross-entropy=0.101357	Billing_Country-accuracy=0.996575
+2021-01-27 19:28:04,390 [INFO]  Epoch[17] Train-cross-entropy=0.096247
+2021-01-27 19:28:04,391 [INFO]  Epoch[17] Train-Billing_Country-accuracy=0.995226
+2021-01-27 19:28:04,392 [INFO]  Epoch[17] Time cost=2.924
+2021-01-27 19:28:04,403 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0017.params"
+2021-01-27 19:28:04,502 [INFO]  Epoch[17] Validation-cross-entropy=0.173770
+2021-01-27 19:28:04,503 [INFO]  Epoch[17] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:28:06,033 [INFO]  Epoch[18] Batch [0-72]	Speed: 769.68 samples/sec	cross-entropy=0.091288	Billing_Country-accuracy=0.996575
+2021-01-27 19:28:07,412 [INFO]  Epoch[18] Train-cross-entropy=0.086663
+2021-01-27 19:28:07,413 [INFO]  Epoch[18] Train-Billing_Country-accuracy=0.995226
+2021-01-27 19:28:07,413 [INFO]  Epoch[18] Time cost=2.908
+2021-01-27 19:28:07,424 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0018.params"
+2021-01-27 19:28:07,520 [INFO]  Epoch[18] Validation-cross-entropy=0.167151
+2021-01-27 19:28:07,521 [INFO]  Epoch[18] Validation-Billing_Country-accuracy=0.976562
+2021-01-27 19:28:09,056 [INFO]  Epoch[19] Batch [0-72]	Speed: 760.63 samples/sec	cross-entropy=0.082431	Billing_Country-accuracy=0.997432
+2021-01-27 19:28:10,448 [INFO]  Epoch[19] Train-cross-entropy=0.078306
+2021-01-27 19:28:10,448 [INFO]  Epoch[19] Train-Billing_Country-accuracy=0.996528
+2021-01-27 19:28:10,449 [INFO]  Epoch[19] Time cost=2.929
+2021-01-27 19:28:10,460 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0019.params"
+2021-01-27 19:28:10,573 [INFO]  Epoch[19] Validation-cross-entropy=0.162621
+2021-01-27 19:28:10,574 [INFO]  Epoch[19] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:12,066 [INFO]  Epoch[20] Batch [0-72]	Speed: 782.67 samples/sec	cross-entropy=0.074642	Billing_Country-accuracy=0.998288
+2021-01-27 19:28:13,556 [INFO]  Epoch[20] Train-cross-entropy=0.071021
+2021-01-27 19:28:13,557 [INFO]  Epoch[20] Train-Billing_Country-accuracy=0.996962
+2021-01-27 19:28:13,558 [INFO]  Epoch[20] Time cost=2.984
+2021-01-27 19:28:13,568 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0020.params"
+2021-01-27 19:28:13,671 [INFO]  Epoch[20] Validation-cross-entropy=0.157566
+2021-01-27 19:28:13,671 [INFO]  Epoch[20] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:15,123 [INFO]  Epoch[21] Batch [0-72]	Speed: 807.55 samples/sec	cross-entropy=0.068380	Billing_Country-accuracy=0.998288
+2021-01-27 19:28:16,552 [INFO]  Epoch[21] Train-cross-entropy=0.064953
+2021-01-27 19:28:16,553 [INFO]  Epoch[21] Train-Billing_Country-accuracy=0.997396
+2021-01-27 19:28:16,553 [INFO]  Epoch[21] Time cost=2.881
+2021-01-27 19:28:16,564 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0021.params"
+2021-01-27 19:28:16,673 [INFO]  Epoch[21] Validation-cross-entropy=0.154120
+2021-01-27 19:28:16,674 [INFO]  Epoch[21] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:18,204 [INFO]  Epoch[22] Batch [0-72]	Speed: 763.26 samples/sec	cross-entropy=0.061962	Billing_Country-accuracy=0.998288
+2021-01-27 19:28:19,763 [INFO]  Epoch[22] Train-cross-entropy=0.058893
+2021-01-27 19:28:19,764 [INFO]  Epoch[22] Train-Billing_Country-accuracy=0.997830
+2021-01-27 19:28:19,765 [INFO]  Epoch[22] Time cost=3.090
+2021-01-27 19:28:19,777 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0022.params"
+2021-01-27 19:28:19,875 [INFO]  Epoch[22] Validation-cross-entropy=0.150286
+2021-01-27 19:28:19,876 [INFO]  Epoch[22] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:21,321 [INFO]  Epoch[23] Batch [0-72]	Speed: 812.39 samples/sec	cross-entropy=0.056901	Billing_Country-accuracy=0.998288
+2021-01-27 19:28:22,792 [INFO]  Epoch[23] Train-cross-entropy=0.054125
+2021-01-27 19:28:22,793 [INFO]  Epoch[23] Train-Billing_Country-accuracy=0.998264
+2021-01-27 19:28:22,793 [INFO]  Epoch[23] Time cost=2.918
+2021-01-27 19:28:22,804 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0023.params"
+2021-01-27 19:28:22,904 [INFO]  Epoch[23] Validation-cross-entropy=0.147352
+2021-01-27 19:28:22,906 [INFO]  Epoch[23] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:24,554 [INFO]  Epoch[24] Batch [0-72]	Speed: 708.11 samples/sec	cross-entropy=0.051993	Billing_Country-accuracy=0.999144
+2021-01-27 19:28:26,125 [INFO]  Epoch[24] Train-cross-entropy=0.049474
+2021-01-27 19:28:26,125 [INFO]  Epoch[24] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:28:26,126 [INFO]  Epoch[24] Time cost=3.221
+2021-01-27 19:28:26,138 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0024.params"
+2021-01-27 19:28:26,239 [INFO]  Epoch[24] Validation-cross-entropy=0.144323
+2021-01-27 19:28:26,240 [INFO]  Epoch[24] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:27,705 [INFO]  Epoch[25] Batch [0-72]	Speed: 798.01 samples/sec	cross-entropy=0.047928	Billing_Country-accuracy=0.999144
+2021-01-27 19:28:29,202 [INFO]  Epoch[25] Train-cross-entropy=0.045554
+2021-01-27 19:28:29,203 [INFO]  Epoch[25] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:28:29,203 [INFO]  Epoch[25] Time cost=2.962
+2021-01-27 19:28:29,214 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0025.params"
+2021-01-27 19:28:29,315 [INFO]  Epoch[25] Validation-cross-entropy=0.142962
+2021-01-27 19:28:29,316 [INFO]  Epoch[25] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:30,930 [INFO]  Epoch[26] Batch [0-72]	Speed: 723.90 samples/sec	cross-entropy=0.044351	Billing_Country-accuracy=0.999144
+2021-01-27 19:28:32,469 [INFO]  Epoch[26] Train-cross-entropy=0.042087
+2021-01-27 19:28:32,470 [INFO]  Epoch[26] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:28:32,470 [INFO]  Epoch[26] Time cost=3.153
+2021-01-27 19:28:32,482 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0026.params"
+2021-01-27 19:28:32,580 [INFO]  Epoch[26] Validation-cross-entropy=0.141197
+2021-01-27 19:28:32,581 [INFO]  Epoch[26] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:34,196 [INFO]  Epoch[27] Batch [0-72]	Speed: 723.60 samples/sec	cross-entropy=0.040547	Billing_Country-accuracy=0.999144
+2021-01-27 19:28:35,696 [INFO]  Epoch[27] Train-cross-entropy=0.038632
+2021-01-27 19:28:35,697 [INFO]  Epoch[27] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:28:35,697 [INFO]  Epoch[27] Time cost=3.115
+2021-01-27 19:28:35,708 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0027.params"
+2021-01-27 19:28:35,799 [INFO]  Epoch[27] Validation-cross-entropy=0.139023
+2021-01-27 19:28:35,800 [INFO]  Epoch[27] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:37,351 [INFO]  Epoch[28] Batch [0-72]	Speed: 753.98 samples/sec	cross-entropy=0.037406	Billing_Country-accuracy=0.999144
+2021-01-27 19:28:38,851 [INFO]  Epoch[28] Train-cross-entropy=0.035704
+2021-01-27 19:28:38,852 [INFO]  Epoch[28] Train-Billing_Country-accuracy=0.999132
+2021-01-27 19:28:38,853 [INFO]  Epoch[28] Time cost=3.051
+2021-01-27 19:28:38,864 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0028.params"
+2021-01-27 19:28:38,970 [INFO]  Epoch[28] Validation-cross-entropy=0.137249
+2021-01-27 19:28:38,971 [INFO]  Epoch[28] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:40,510 [INFO]  Epoch[29] Batch [0-72]	Speed: 759.53 samples/sec	cross-entropy=0.034605	Billing_Country-accuracy=1.000000
+2021-01-27 19:28:42,034 [INFO]  Epoch[29] Train-cross-entropy=0.032968
+2021-01-27 19:28:42,034 [INFO]  Epoch[29] Train-Billing_Country-accuracy=0.999566
+2021-01-27 19:28:42,035 [INFO]  Epoch[29] Time cost=3.063
+2021-01-27 19:28:42,047 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0029.params"
+2021-01-27 19:28:42,141 [INFO]  Epoch[29] Validation-cross-entropy=0.137415
+2021-01-27 19:28:42,142 [INFO]  Epoch[29] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:43,661 [INFO]  Epoch[30] Batch [0-72]	Speed: 769.94 samples/sec	cross-entropy=0.032143	Billing_Country-accuracy=1.000000
+2021-01-27 19:28:45,151 [INFO]  Epoch[30] Train-cross-entropy=0.030588
+2021-01-27 19:28:45,152 [INFO]  Epoch[30] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:28:45,152 [INFO]  Epoch[30] Time cost=3.009
+2021-01-27 19:28:45,164 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0030.params"
+2021-01-27 19:28:45,261 [INFO]  Epoch[30] Validation-cross-entropy=0.136667
+2021-01-27 19:28:45,262 [INFO]  Epoch[30] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:46,863 [INFO]  Epoch[31] Batch [0-72]	Speed: 734.22 samples/sec	cross-entropy=0.029687	Billing_Country-accuracy=1.000000
+2021-01-27 19:28:48,332 [INFO]  Epoch[31] Train-cross-entropy=0.028363
+2021-01-27 19:28:48,333 [INFO]  Epoch[31] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:28:48,334 [INFO]  Epoch[31] Time cost=3.072
+2021-01-27 19:28:48,345 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0031.params"
+2021-01-27 19:28:48,440 [INFO]  Epoch[31] Validation-cross-entropy=0.135452
+2021-01-27 19:28:48,441 [INFO]  Epoch[31] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:49,950 [INFO]  Epoch[32] Batch [0-72]	Speed: 774.86 samples/sec	cross-entropy=0.027583	Billing_Country-accuracy=1.000000
+2021-01-27 19:28:51,396 [INFO]  Epoch[32] Train-cross-entropy=0.026307
+2021-01-27 19:28:51,397 [INFO]  Epoch[32] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:28:51,398 [INFO]  Epoch[32] Time cost=2.956
+2021-01-27 19:28:51,408 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0032.params"
+2021-01-27 19:28:51,505 [INFO]  Epoch[32] Validation-cross-entropy=0.135135
+2021-01-27 19:28:51,506 [INFO]  Epoch[32] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:53,107 [INFO]  Epoch[33] Batch [0-72]	Speed: 729.96 samples/sec	cross-entropy=0.025499	Billing_Country-accuracy=1.000000
+2021-01-27 19:28:54,680 [INFO]  Epoch[33] Train-cross-entropy=0.024457
+2021-01-27 19:28:54,681 [INFO]  Epoch[33] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:28:54,682 [INFO]  Epoch[33] Time cost=3.177
+2021-01-27 19:28:54,694 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0033.params"
+2021-01-27 19:28:54,818 [INFO]  Epoch[33] Validation-cross-entropy=0.134986
+2021-01-27 19:28:54,819 [INFO]  Epoch[33] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:56,401 [INFO]  Epoch[34] Batch [0-72]	Speed: 740.15 samples/sec	cross-entropy=0.023979	Billing_Country-accuracy=1.000000
+2021-01-27 19:28:57,948 [INFO]  Epoch[34] Train-cross-entropy=0.022848
+2021-01-27 19:28:57,949 [INFO]  Epoch[34] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:28:57,951 [INFO]  Epoch[34] Time cost=3.131
+2021-01-27 19:28:57,961 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0034.params"
+2021-01-27 19:28:58,076 [INFO]  Epoch[34] Validation-cross-entropy=0.134377
+2021-01-27 19:28:58,077 [INFO]  Epoch[34] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:28:59,601 [INFO]  Epoch[35] Batch [0-72]	Speed: 770.29 samples/sec	cross-entropy=0.022182	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:01,106 [INFO]  Epoch[35] Train-cross-entropy=0.021193
+2021-01-27 19:29:01,106 [INFO]  Epoch[35] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:01,107 [INFO]  Epoch[35] Time cost=3.031
+2021-01-27 19:29:01,118 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0035.params"
+2021-01-27 19:29:01,223 [INFO]  Epoch[35] Validation-cross-entropy=0.133349
+2021-01-27 19:29:01,224 [INFO]  Epoch[35] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:29:02,712 [INFO]  Epoch[36] Batch [0-72]	Speed: 792.58 samples/sec	cross-entropy=0.020710	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:04,213 [INFO]  Epoch[36] Train-cross-entropy=0.019792
+2021-01-27 19:29:04,213 [INFO]  Epoch[36] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:04,214 [INFO]  Epoch[36] Time cost=2.989
+2021-01-27 19:29:04,224 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0036.params"
+2021-01-27 19:29:04,338 [INFO]  Epoch[36] Validation-cross-entropy=0.132763
+2021-01-27 19:29:04,339 [INFO]  Epoch[36] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:29:05,851 [INFO]  Epoch[37] Batch [0-72]	Speed: 773.71 samples/sec	cross-entropy=0.019251	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:07,324 [INFO]  Epoch[37] Train-cross-entropy=0.018387
+2021-01-27 19:29:07,325 [INFO]  Epoch[37] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:07,326 [INFO]  Epoch[37] Time cost=2.987
+2021-01-27 19:29:07,336 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0037.params"
+2021-01-27 19:29:07,432 [INFO]  Epoch[37] Validation-cross-entropy=0.132775
+2021-01-27 19:29:07,433 [INFO]  Epoch[37] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:29:08,905 [INFO]  Epoch[38] Batch [0-72]	Speed: 793.96 samples/sec	cross-entropy=0.017910	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:10,338 [INFO]  Epoch[38] Train-cross-entropy=0.017168
+2021-01-27 19:29:10,339 [INFO]  Epoch[38] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:10,339 [INFO]  Epoch[38] Time cost=2.906
+2021-01-27 19:29:10,350 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0038.params"
+2021-01-27 19:29:10,444 [INFO]  Epoch[38] Validation-cross-entropy=0.133511
+2021-01-27 19:29:10,445 [INFO]  Epoch[38] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:29:12,031 [INFO]  Epoch[39] Batch [0-72]	Speed: 736.26 samples/sec	cross-entropy=0.016860	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:13,577 [INFO]  Epoch[39] Train-cross-entropy=0.016152
+2021-01-27 19:29:13,577 [INFO]  Epoch[39] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:13,578 [INFO]  Epoch[39] Time cost=3.133
+2021-01-27 19:29:13,591 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0039.params"
+2021-01-27 19:29:13,703 [INFO]  Epoch[39] Validation-cross-entropy=0.134224
+2021-01-27 19:29:13,703 [INFO]  Epoch[39] Validation-Billing_Country-accuracy=0.980469
+2021-01-27 19:29:15,278 [INFO]  Epoch[40] Batch [0-72]	Speed: 741.31 samples/sec	cross-entropy=0.015749	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:16,779 [INFO]  Epoch[40] Train-cross-entropy=0.015049
+2021-01-27 19:29:16,780 [INFO]  Epoch[40] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:16,780 [INFO]  Epoch[40] Time cost=3.076
+2021-01-27 19:29:16,790 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0040.params"
+2021-01-27 19:29:16,886 [INFO]  Epoch[40] Validation-cross-entropy=0.132723
+2021-01-27 19:29:16,886 [INFO]  Epoch[40] Validation-Billing_Country-accuracy=0.984375
+2021-01-27 19:29:18,410 [INFO]  Epoch[41] Batch [0-72]	Speed: 766.83 samples/sec	cross-entropy=0.014624	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:19,926 [INFO]  Epoch[41] Train-cross-entropy=0.014020
+2021-01-27 19:29:19,927 [INFO]  Epoch[41] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:19,927 [INFO]  Epoch[41] Time cost=3.040
+2021-01-27 19:29:19,938 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0041.params"
+2021-01-27 19:29:20,034 [INFO]  Epoch[41] Validation-cross-entropy=0.133360
+2021-01-27 19:29:20,035 [INFO]  Epoch[41] Validation-Billing_Country-accuracy=0.984375
+2021-01-27 19:29:21,630 [INFO]  Epoch[42] Batch [0-72]	Speed: 732.72 samples/sec	cross-entropy=0.013755	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:23,156 [INFO]  Epoch[42] Train-cross-entropy=0.013204
+2021-01-27 19:29:23,156 [INFO]  Epoch[42] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:23,157 [INFO]  Epoch[42] Time cost=3.122
+2021-01-27 19:29:23,169 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0042.params"
+2021-01-27 19:29:23,274 [INFO]  Epoch[42] Validation-cross-entropy=0.133752
+2021-01-27 19:29:23,275 [INFO]  Epoch[42] Validation-Billing_Country-accuracy=0.984375
+2021-01-27 19:29:24,786 [INFO]  Epoch[43] Batch [0-72]	Speed: 773.74 samples/sec	cross-entropy=0.013013	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:26,282 [INFO]  Epoch[43] Train-cross-entropy=0.012400
+2021-01-27 19:29:26,283 [INFO]  Epoch[43] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:26,284 [INFO]  Epoch[43] Time cost=3.008
+2021-01-27 19:29:26,298 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0043.params"
+2021-01-27 19:29:26,415 [INFO]  Epoch[43] Validation-cross-entropy=0.134621
+2021-01-27 19:29:26,416 [INFO]  Epoch[43] Validation-Billing_Country-accuracy=0.984375
+2021-01-27 19:29:27,931 [INFO]  Epoch[44] Batch [0-72]	Speed: 774.18 samples/sec	cross-entropy=0.012115	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:29,510 [INFO]  Epoch[44] Train-cross-entropy=0.011624
+2021-01-27 19:29:29,511 [INFO]  Epoch[44] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:29,512 [INFO]  Epoch[44] Time cost=3.095
+2021-01-27 19:29:29,522 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0044.params"
+2021-01-27 19:29:29,625 [INFO]  Epoch[44] Validation-cross-entropy=0.134329
+2021-01-27 19:29:29,625 [INFO]  Epoch[44] Validation-Billing_Country-accuracy=0.984375
+2021-01-27 19:29:31,248 [INFO]  Epoch[45] Batch [0-72]	Speed: 726.48 samples/sec	cross-entropy=0.011344	Billing_Country-accuracy=1.000000
+2021-01-27 19:29:32,734 [INFO]  Epoch[45] Train-cross-entropy=0.010842
+2021-01-27 19:29:32,735 [INFO]  Epoch[45] Train-Billing_Country-accuracy=1.000000
+2021-01-27 19:29:32,735 [INFO]  Epoch[45] Time cost=3.110
+2021-01-27 19:29:32,746 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Billing_Country_Test\model-0045.params"
+2021-01-27 19:29:32,850 [INFO]  No improvement detected for 5 epochs compared to 0.13272271800087765 last error obtained: 0.13429068664845545, stopping here
+2021-01-27 19:29:32,851 [INFO]  
+========== done (138.3825991153717 s) fit model
+2021-01-27 19:34:15,302 [INFO]  
+========== start: fit model
+2021-01-27 19:34:15,304 [WARNING]  Already bound, ignoring bind()
+2021-01-27 19:34:15,675 [INFO]  Epoch[0] Batch [0-72]	Speed: 3184.90 samples/sec	cross-entropy=9.204803	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:15,983 [INFO]  Epoch[0] Train-cross-entropy=10.317425
+2021-01-27 19:34:15,984 [INFO]  Epoch[0] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:15,984 [INFO]  Epoch[0] Time cost=0.678
+2021-01-27 19:34:15,989 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0000.params"
+2021-01-27 19:34:16,036 [INFO]  Epoch[0] Validation-cross-entropy=3.858118
+2021-01-27 19:34:16,037 [INFO]  Epoch[0] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:16,406 [INFO]  Epoch[1] Batch [0-72]	Speed: 3189.18 samples/sec	cross-entropy=2.183834	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:16,742 [INFO]  Epoch[1] Train-cross-entropy=4.906171
+2021-01-27 19:34:16,743 [INFO]  Epoch[1] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:16,744 [INFO]  Epoch[1] Time cost=0.706
+2021-01-27 19:34:16,747 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0001.params"
+2021-01-27 19:34:16,783 [INFO]  Epoch[1] Validation-cross-entropy=3.071777
+2021-01-27 19:34:16,784 [INFO]  Epoch[1] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,162 [INFO]  Epoch[2] Batch [0-72]	Speed: 3103.60 samples/sec	cross-entropy=2.929688	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,451 [INFO]  Epoch[2] Train-cross-entropy=4.312954
+2021-01-27 19:34:17,452 [INFO]  Epoch[2] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,452 [INFO]  Epoch[2] Time cost=0.667
+2021-01-27 19:34:17,456 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0002.params"
+2021-01-27 19:34:17,505 [INFO]  Epoch[2] Validation-cross-entropy=2.707498
+2021-01-27 19:34:17,506 [INFO]  Epoch[2] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,806 [INFO]  Epoch[3] Batch [0-72]	Speed: 3927.91 samples/sec	cross-entropy=2.723989	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,102 [INFO]  Epoch[3] Train-cross-entropy=4.157061
+2021-01-27 19:34:18,103 [INFO]  Epoch[3] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,104 [INFO]  Epoch[3] Time cost=0.598
+2021-01-27 19:34:18,108 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0003.params"
+2021-01-27 19:34:18,155 [INFO]  Epoch[3] Validation-cross-entropy=2.254890
+2021-01-27 19:34:18,156 [INFO]  Epoch[3] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,476 [INFO]  Epoch[4] Batch [0-72]	Speed: 3674.50 samples/sec	cross-entropy=2.220958	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,764 [INFO]  Epoch[4] Train-cross-entropy=2.441799
+2021-01-27 19:34:18,765 [INFO]  Epoch[4] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,766 [INFO]  Epoch[4] Time cost=0.609
+2021-01-27 19:34:18,771 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0004.params"
+2021-01-27 19:34:18,818 [INFO]  Epoch[4] Validation-cross-entropy=1.535856
+2021-01-27 19:34:18,819 [INFO]  Epoch[4] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,108 [INFO]  Epoch[5] Batch [0-72]	Speed: 4071.40 samples/sec	cross-entropy=1.590578	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,403 [INFO]  Epoch[5] Train-cross-entropy=2.884853
+2021-01-27 19:34:19,404 [INFO]  Epoch[5] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,405 [INFO]  Epoch[5] Time cost=0.585
+2021-01-27 19:34:19,410 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0005.params"
+2021-01-27 19:34:19,466 [INFO]  Epoch[5] Validation-cross-entropy=1.339674
+2021-01-27 19:34:19,466 [INFO]  Epoch[5] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,780 [INFO]  Epoch[6] Batch [0-72]	Speed: 3745.54 samples/sec	cross-entropy=1.125695	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,085 [INFO]  Epoch[6] Train-cross-entropy=1.037818
+2021-01-27 19:34:20,085 [INFO]  Epoch[6] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,086 [INFO]  Epoch[6] Time cost=0.619
+2021-01-27 19:34:20,091 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0006.params"
+2021-01-27 19:34:20,139 [INFO]  Epoch[6] Validation-cross-entropy=0.933251
+2021-01-27 19:34:20,140 [INFO]  Epoch[6] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,488 [INFO]  Epoch[7] Batch [0-72]	Speed: 3356.04 samples/sec	cross-entropy=1.191301	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,791 [INFO]  Epoch[7] Train-cross-entropy=1.897593
+2021-01-27 19:34:20,791 [INFO]  Epoch[7] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,793 [INFO]  Epoch[7] Time cost=0.652
+2021-01-27 19:34:20,797 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0007.params"
+2021-01-27 19:34:20,843 [INFO]  Epoch[7] Validation-cross-entropy=0.704277
+2021-01-27 19:34:20,843 [INFO]  Epoch[7] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,128 [INFO]  Epoch[8] Batch [0-72]	Speed: 4125.50 samples/sec	cross-entropy=1.351769	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,458 [INFO]  Epoch[8] Train-cross-entropy=1.016686
+2021-01-27 19:34:21,459 [INFO]  Epoch[8] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,460 [INFO]  Epoch[8] Time cost=0.616
+2021-01-27 19:34:21,466 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0008.params"
+2021-01-27 19:34:21,513 [INFO]  Epoch[8] Validation-cross-entropy=0.984845
+2021-01-27 19:34:21,513 [INFO]  Epoch[8] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,816 [INFO]  Epoch[9] Batch [0-72]	Speed: 3880.88 samples/sec	cross-entropy=1.526774	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,117 [INFO]  Epoch[9] Train-cross-entropy=1.988419
+2021-01-27 19:34:22,118 [INFO]  Epoch[9] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,119 [INFO]  Epoch[9] Time cost=0.605
+2021-01-27 19:34:22,123 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0009.params"
+2021-01-27 19:34:22,170 [INFO]  Epoch[9] Validation-cross-entropy=0.753297
+2021-01-27 19:34:22,171 [INFO]  Epoch[9] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,464 [INFO]  Epoch[10] Batch [0-72]	Speed: 4001.91 samples/sec	cross-entropy=1.323447	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,757 [INFO]  Epoch[10] Train-cross-entropy=1.002573
+2021-01-27 19:34:22,758 [INFO]  Epoch[10] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,759 [INFO]  Epoch[10] Time cost=0.588
+2021-01-27 19:34:22,762 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0010.params"
+2021-01-27 19:34:22,807 [INFO]  Epoch[10] Validation-cross-entropy=0.966540
+2021-01-27 19:34:22,808 [INFO]  Epoch[10] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,107 [INFO]  Epoch[11] Batch [0-72]	Speed: 3922.85 samples/sec	cross-entropy=0.882867	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,396 [INFO]  Epoch[11] Train-cross-entropy=1.331846
+2021-01-27 19:34:23,397 [INFO]  Epoch[11] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,398 [INFO]  Epoch[11] Time cost=0.589
+2021-01-27 19:34:23,402 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0011.params"
+2021-01-27 19:34:23,450 [INFO]  Epoch[11] Validation-cross-entropy=0.548686
+2021-01-27 19:34:23,451 [INFO]  Epoch[11] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,742 [INFO]  Epoch[12] Batch [0-72]	Speed: 4026.40 samples/sec	cross-entropy=0.635551	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,041 [INFO]  Epoch[12] Train-cross-entropy=0.579598
+2021-01-27 19:34:24,042 [INFO]  Epoch[12] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,043 [INFO]  Epoch[12] Time cost=0.592
+2021-01-27 19:34:24,046 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0012.params"
+2021-01-27 19:34:24,093 [INFO]  Epoch[12] Validation-cross-entropy=0.939580
+2021-01-27 19:34:24,094 [INFO]  Epoch[12] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,393 [INFO]  Epoch[13] Batch [0-72]	Speed: 3938.93 samples/sec	cross-entropy=0.591425	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,715 [INFO]  Epoch[13] Train-cross-entropy=0.997899
+2021-01-27 19:34:24,715 [INFO]  Epoch[13] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,716 [INFO]  Epoch[13] Time cost=0.620
+2021-01-27 19:34:24,720 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0013.params"
+2021-01-27 19:34:24,767 [INFO]  Epoch[13] Validation-cross-entropy=0.553432
+2021-01-27 19:34:24,767 [INFO]  Epoch[13] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,099 [INFO]  Epoch[14] Batch [0-72]	Speed: 3543.00 samples/sec	cross-entropy=0.441520	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,387 [INFO]  Epoch[14] Train-cross-entropy=0.591605
+2021-01-27 19:34:25,388 [INFO]  Epoch[14] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,388 [INFO]  Epoch[14] Time cost=0.621
+2021-01-27 19:34:25,392 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0014.params"
+2021-01-27 19:34:25,441 [INFO]  Epoch[14] Validation-cross-entropy=1.196470
+2021-01-27 19:34:25,442 [INFO]  Epoch[14] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,745 [INFO]  Epoch[15] Batch [0-72]	Speed: 3866.27 samples/sec	cross-entropy=0.503471	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,032 [INFO]  Epoch[15] Train-cross-entropy=0.921486
+2021-01-27 19:34:26,033 [INFO]  Epoch[15] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,034 [INFO]  Epoch[15] Time cost=0.592
+2021-01-27 19:34:26,038 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0015.params"
+2021-01-27 19:34:26,082 [INFO]  Epoch[15] Validation-cross-entropy=0.662971
+2021-01-27 19:34:26,083 [INFO]  Epoch[15] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,368 [INFO]  Epoch[16] Batch [0-72]	Speed: 4110.81 samples/sec	cross-entropy=0.405732	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,636 [INFO]  Epoch[16] Train-cross-entropy=0.506611
+2021-01-27 19:34:26,637 [INFO]  Epoch[16] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,638 [INFO]  Epoch[16] Time cost=0.555
+2021-01-27 19:34:26,641 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0016.params"
+2021-01-27 19:34:26,690 [INFO]  No improvement detected for 5 epochs compared to 0.548685863148421 last error obtained: 0.9761286601424217, stopping here
+2021-01-27 19:34:26,691 [INFO]  
+========== done (11.38879656791687 s) fit model

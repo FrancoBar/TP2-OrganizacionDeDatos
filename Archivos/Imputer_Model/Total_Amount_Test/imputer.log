@@ -1,0 +1,383 @@
+2021-01-27 19:26:29,106 [INFO]  
+========== start: fit model
+2021-01-27 19:26:29,107 [WARNING]  Already bound, ignoring bind()
+2021-01-27 19:26:29,451 [INFO]  Epoch[0] Batch [0-72]	Speed: 3428.03 samples/sec	cross-entropy=8.168121	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:29,777 [INFO]  Epoch[0] Train-cross-entropy=9.233040
+2021-01-27 19:26:29,777 [INFO]  Epoch[0] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:29,777 [INFO]  Epoch[0] Time cost=0.669
+2021-01-27 19:26:29,779 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0000.params"
+2021-01-27 19:26:29,824 [INFO]  Epoch[0] Validation-cross-entropy=3.494874
+2021-01-27 19:26:29,824 [INFO]  Epoch[0] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:30,104 [INFO]  Epoch[1] Batch [0-72]	Speed: 4172.26 samples/sec	cross-entropy=2.545816	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:30,395 [INFO]  Epoch[1] Train-cross-entropy=4.557108
+2021-01-27 19:26:30,395 [INFO]  Epoch[1] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:30,396 [INFO]  Epoch[1] Time cost=0.571
+2021-01-27 19:26:30,397 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0001.params"
+2021-01-27 19:26:30,440 [INFO]  Epoch[1] Validation-cross-entropy=2.515205
+2021-01-27 19:26:30,440 [INFO]  Epoch[1] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:30,718 [INFO]  Epoch[2] Batch [0-72]	Speed: 4206.53 samples/sec	cross-entropy=1.333852	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:31,018 [INFO]  Epoch[2] Train-cross-entropy=3.438753
+2021-01-27 19:26:31,018 [INFO]  Epoch[2] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:31,018 [INFO]  Epoch[2] Time cost=0.578
+2021-01-27 19:26:31,020 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0002.params"
+2021-01-27 19:26:31,062 [INFO]  Epoch[2] Validation-cross-entropy=1.519085
+2021-01-27 19:26:31,062 [INFO]  Epoch[2] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:31,327 [INFO]  Epoch[3] Batch [0-72]	Speed: 4411.35 samples/sec	cross-entropy=1.994085	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:31,605 [INFO]  Epoch[3] Train-cross-entropy=2.423080
+2021-01-27 19:26:31,606 [INFO]  Epoch[3] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:31,606 [INFO]  Epoch[3] Time cost=0.544
+2021-01-27 19:26:31,608 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0003.params"
+2021-01-27 19:26:31,647 [INFO]  Epoch[3] Validation-cross-entropy=1.276039
+2021-01-27 19:26:31,647 [INFO]  Epoch[3] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:31,987 [INFO]  Epoch[4] Batch [0-72]	Speed: 3426.58 samples/sec	cross-entropy=2.610158	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:32,303 [INFO]  Epoch[4] Train-cross-entropy=3.371860
+2021-01-27 19:26:32,303 [INFO]  Epoch[4] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:32,304 [INFO]  Epoch[4] Time cost=0.658
+2021-01-27 19:26:32,307 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0004.params"
+2021-01-27 19:26:32,359 [INFO]  Epoch[4] Validation-cross-entropy=1.204074
+2021-01-27 19:26:32,359 [INFO]  Epoch[4] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:32,683 [INFO]  Epoch[5] Batch [0-72]	Speed: 3600.36 samples/sec	cross-entropy=1.849529	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:33,004 [INFO]  Epoch[5] Train-cross-entropy=1.403664
+2021-01-27 19:26:33,004 [INFO]  Epoch[5] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:33,004 [INFO]  Epoch[5] Time cost=0.644
+2021-01-27 19:26:33,006 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0005.params"
+2021-01-27 19:26:33,047 [INFO]  Epoch[5] Validation-cross-entropy=0.794742
+2021-01-27 19:26:33,048 [INFO]  Epoch[5] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:33,388 [INFO]  Epoch[6] Batch [0-72]	Speed: 3435.53 samples/sec	cross-entropy=1.244491	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:33,686 [INFO]  Epoch[6] Train-cross-entropy=1.976884
+2021-01-27 19:26:33,686 [INFO]  Epoch[6] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:33,686 [INFO]  Epoch[6] Time cost=0.638
+2021-01-27 19:26:33,689 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0006.params"
+2021-01-27 19:26:33,733 [INFO]  Epoch[6] Validation-cross-entropy=0.728004
+2021-01-27 19:26:33,733 [INFO]  Epoch[6] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:34,016 [INFO]  Epoch[7] Batch [0-72]	Speed: 4124.36 samples/sec	cross-entropy=0.883073	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:34,318 [INFO]  Epoch[7] Train-cross-entropy=0.694476
+2021-01-27 19:26:34,318 [INFO]  Epoch[7] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:34,318 [INFO]  Epoch[7] Time cost=0.585
+2021-01-27 19:26:34,320 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0007.params"
+2021-01-27 19:26:34,364 [INFO]  Epoch[7] Validation-cross-entropy=0.980011
+2021-01-27 19:26:34,364 [INFO]  Epoch[7] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:34,682 [INFO]  Epoch[8] Batch [0-72]	Speed: 3668.70 samples/sec	cross-entropy=0.487598	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:34,974 [INFO]  Epoch[8] Train-cross-entropy=1.011914
+2021-01-27 19:26:34,974 [INFO]  Epoch[8] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:34,974 [INFO]  Epoch[8] Time cost=0.610
+2021-01-27 19:26:34,977 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0008.params"
+2021-01-27 19:26:35,020 [INFO]  Epoch[8] Validation-cross-entropy=0.508247
+2021-01-27 19:26:35,020 [INFO]  Epoch[8] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:35,335 [INFO]  Epoch[9] Batch [0-72]	Speed: 3697.26 samples/sec	cross-entropy=0.205754	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:35,623 [INFO]  Epoch[9] Train-cross-entropy=0.245882
+2021-01-27 19:26:35,623 [INFO]  Epoch[9] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:35,623 [INFO]  Epoch[9] Time cost=0.603
+2021-01-27 19:26:35,626 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0009.params"
+2021-01-27 19:26:35,668 [INFO]  Epoch[9] Validation-cross-entropy=0.799552
+2021-01-27 19:26:35,668 [INFO]  Epoch[9] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:35,998 [INFO]  Epoch[10] Batch [0-72]	Speed: 3535.79 samples/sec	cross-entropy=0.496691	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:36,280 [INFO]  Epoch[10] Train-cross-entropy=0.772659
+2021-01-27 19:26:36,280 [INFO]  Epoch[10] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:36,280 [INFO]  Epoch[10] Time cost=0.613
+2021-01-27 19:26:36,282 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0010.params"
+2021-01-27 19:26:36,330 [INFO]  Epoch[10] Validation-cross-entropy=0.530403
+2021-01-27 19:26:36,330 [INFO]  Epoch[10] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:36,629 [INFO]  Epoch[11] Batch [0-72]	Speed: 3900.43 samples/sec	cross-entropy=0.422972	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:36,916 [INFO]  Epoch[11] Train-cross-entropy=0.698808
+2021-01-27 19:26:36,916 [INFO]  Epoch[11] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:36,916 [INFO]  Epoch[11] Time cost=0.586
+2021-01-27 19:26:36,918 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0011.params"
+2021-01-27 19:26:36,961 [INFO]  Epoch[11] Validation-cross-entropy=1.283916
+2021-01-27 19:26:36,961 [INFO]  Epoch[11] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:37,273 [INFO]  Epoch[12] Batch [0-72]	Speed: 3755.84 samples/sec	cross-entropy=0.526542	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:37,584 [INFO]  Epoch[12] Train-cross-entropy=1.382804
+2021-01-27 19:26:37,584 [INFO]  Epoch[12] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:37,584 [INFO]  Epoch[12] Time cost=0.622
+2021-01-27 19:26:37,586 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0012.params"
+2021-01-27 19:26:37,628 [INFO]  Epoch[12] Validation-cross-entropy=1.417016
+2021-01-27 19:26:37,628 [INFO]  Epoch[12] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:37,918 [INFO]  Epoch[13] Batch [0-72]	Speed: 4031.98 samples/sec	cross-entropy=0.938583	Total_Amount-accuracy=0.000000
+2021-01-27 19:26:38,203 [INFO]  Epoch[13] Train-cross-entropy=1.047800
+2021-01-27 19:26:38,203 [INFO]  Epoch[13] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:26:38,203 [INFO]  Epoch[13] Time cost=0.575
+2021-01-27 19:26:38,205 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0013.params"
+2021-01-27 19:26:38,250 [INFO]  No improvement detected for 5 epochs compared to 0.5082467379979789 last error obtained: 1.7098586484789848, stopping here
+2021-01-27 19:26:38,250 [INFO]  
+========== done (9.143929719924927 s) fit model
+2021-01-27 19:29:37,242 [INFO]  
+========== start: fit model
+2021-01-27 19:29:37,243 [WARNING]  Already bound, ignoring bind()
+2021-01-27 19:29:37,589 [INFO]  Epoch[0] Batch [0-72]	Speed: 3429.85 samples/sec	cross-entropy=5.825896	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:37,916 [INFO]  Epoch[0] Train-cross-entropy=8.033904
+2021-01-27 19:29:37,916 [INFO]  Epoch[0] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:37,916 [INFO]  Epoch[0] Time cost=0.673
+2021-01-27 19:29:37,919 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0000.params"
+2021-01-27 19:29:37,966 [INFO]  Epoch[0] Validation-cross-entropy=5.137706
+2021-01-27 19:29:37,966 [INFO]  Epoch[0] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:38,265 [INFO]  Epoch[1] Batch [0-72]	Speed: 3907.67 samples/sec	cross-entropy=2.492494	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:38,577 [INFO]  Epoch[1] Train-cross-entropy=4.838804
+2021-01-27 19:29:38,577 [INFO]  Epoch[1] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:38,577 [INFO]  Epoch[1] Time cost=0.611
+2021-01-27 19:29:38,579 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0001.params"
+2021-01-27 19:29:38,626 [INFO]  Epoch[1] Validation-cross-entropy=4.042384
+2021-01-27 19:29:38,626 [INFO]  Epoch[1] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:38,958 [INFO]  Epoch[2] Batch [0-72]	Speed: 3519.56 samples/sec	cross-entropy=4.209979	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:39,252 [INFO]  Epoch[2] Train-cross-entropy=6.186398
+2021-01-27 19:29:39,252 [INFO]  Epoch[2] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:39,252 [INFO]  Epoch[2] Time cost=0.626
+2021-01-27 19:29:39,256 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0002.params"
+2021-01-27 19:29:39,299 [INFO]  Epoch[2] Validation-cross-entropy=3.346659
+2021-01-27 19:29:39,299 [INFO]  Epoch[2] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:39,614 [INFO]  Epoch[3] Batch [0-72]	Speed: 3698.82 samples/sec	cross-entropy=5.059503	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:39,916 [INFO]  Epoch[3] Train-cross-entropy=4.829098
+2021-01-27 19:29:39,916 [INFO]  Epoch[3] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:39,916 [INFO]  Epoch[3] Time cost=0.617
+2021-01-27 19:29:39,918 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0003.params"
+2021-01-27 19:29:39,956 [INFO]  Epoch[3] Validation-cross-entropy=2.998292
+2021-01-27 19:29:39,956 [INFO]  Epoch[3] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:40,295 [INFO]  Epoch[4] Batch [0-72]	Speed: 3462.19 samples/sec	cross-entropy=3.762668	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:40,567 [INFO]  Epoch[4] Train-cross-entropy=5.328855
+2021-01-27 19:29:40,567 [INFO]  Epoch[4] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:40,567 [INFO]  Epoch[4] Time cost=0.610
+2021-01-27 19:29:40,570 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0004.params"
+2021-01-27 19:29:40,613 [INFO]  Epoch[4] Validation-cross-entropy=2.115453
+2021-01-27 19:29:40,613 [INFO]  Epoch[4] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:40,887 [INFO]  Epoch[5] Batch [0-72]	Speed: 4254.24 samples/sec	cross-entropy=2.152080	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:41,170 [INFO]  Epoch[5] Train-cross-entropy=2.462656
+2021-01-27 19:29:41,171 [INFO]  Epoch[5] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:41,171 [INFO]  Epoch[5] Time cost=0.558
+2021-01-27 19:29:41,173 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0005.params"
+2021-01-27 19:29:41,220 [INFO]  Epoch[5] Validation-cross-entropy=1.962400
+2021-01-27 19:29:41,220 [INFO]  Epoch[5] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:41,534 [INFO]  Epoch[6] Batch [0-72]	Speed: 3698.15 samples/sec	cross-entropy=1.382397	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:41,824 [INFO]  Epoch[6] Train-cross-entropy=3.022938
+2021-01-27 19:29:41,824 [INFO]  Epoch[6] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:41,824 [INFO]  Epoch[6] Time cost=0.604
+2021-01-27 19:29:41,826 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0006.params"
+2021-01-27 19:29:41,869 [INFO]  Epoch[6] Validation-cross-entropy=1.755127
+2021-01-27 19:29:41,869 [INFO]  Epoch[6] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:42,153 [INFO]  Epoch[7] Batch [0-72]	Speed: 4111.77 samples/sec	cross-entropy=1.156384	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:42,463 [INFO]  Epoch[7] Train-cross-entropy=1.336673
+2021-01-27 19:29:42,463 [INFO]  Epoch[7] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:42,463 [INFO]  Epoch[7] Time cost=0.594
+2021-01-27 19:29:42,465 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0007.params"
+2021-01-27 19:29:42,508 [INFO]  Epoch[7] Validation-cross-entropy=1.304953
+2021-01-27 19:29:42,508 [INFO]  Epoch[7] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:42,794 [INFO]  Epoch[8] Batch [0-72]	Speed: 4102.97 samples/sec	cross-entropy=1.444561	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:43,108 [INFO]  Epoch[8] Train-cross-entropy=2.487313
+2021-01-27 19:29:43,108 [INFO]  Epoch[8] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:43,108 [INFO]  Epoch[8] Time cost=0.600
+2021-01-27 19:29:43,110 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0008.params"
+2021-01-27 19:29:43,153 [INFO]  Epoch[8] Validation-cross-entropy=1.157239
+2021-01-27 19:29:43,153 [INFO]  Epoch[8] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:43,443 [INFO]  Epoch[9] Batch [0-72]	Speed: 4017.41 samples/sec	cross-entropy=1.829039	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:43,720 [INFO]  Epoch[9] Train-cross-entropy=1.196849
+2021-01-27 19:29:43,720 [INFO]  Epoch[9] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:43,720 [INFO]  Epoch[9] Time cost=0.567
+2021-01-27 19:29:43,722 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0009.params"
+2021-01-27 19:29:43,763 [INFO]  Epoch[9] Validation-cross-entropy=0.916180
+2021-01-27 19:29:43,763 [INFO]  Epoch[9] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:44,075 [INFO]  Epoch[10] Batch [0-72]	Speed: 3750.01 samples/sec	cross-entropy=2.172335	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:44,433 [INFO]  Epoch[10] Train-cross-entropy=2.544871
+2021-01-27 19:29:44,433 [INFO]  Epoch[10] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:44,433 [INFO]  Epoch[10] Time cost=0.670
+2021-01-27 19:29:44,435 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0010.params"
+2021-01-27 19:29:44,482 [INFO]  Epoch[10] Validation-cross-entropy=0.834944
+2021-01-27 19:29:44,482 [INFO]  Epoch[10] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:44,762 [INFO]  Epoch[11] Batch [0-72]	Speed: 4177.43 samples/sec	cross-entropy=2.263473	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:45,083 [INFO]  Epoch[11] Train-cross-entropy=1.437639
+2021-01-27 19:29:45,083 [INFO]  Epoch[11] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:45,083 [INFO]  Epoch[11] Time cost=0.601
+2021-01-27 19:29:45,086 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0011.params"
+2021-01-27 19:29:45,133 [INFO]  Epoch[11] Validation-cross-entropy=0.870432
+2021-01-27 19:29:45,133 [INFO]  Epoch[11] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:45,455 [INFO]  Epoch[12] Batch [0-72]	Speed: 3632.53 samples/sec	cross-entropy=1.477104	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:45,755 [INFO]  Epoch[12] Train-cross-entropy=2.146566
+2021-01-27 19:29:45,755 [INFO]  Epoch[12] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:45,755 [INFO]  Epoch[12] Time cost=0.622
+2021-01-27 19:29:45,759 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0012.params"
+2021-01-27 19:29:45,798 [INFO]  Epoch[12] Validation-cross-entropy=0.953865
+2021-01-27 19:29:45,798 [INFO]  Epoch[12] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:46,084 [INFO]  Epoch[13] Batch [0-72]	Speed: 4083.96 samples/sec	cross-entropy=0.885407	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:46,367 [INFO]  Epoch[13] Train-cross-entropy=0.564202
+2021-01-27 19:29:46,367 [INFO]  Epoch[13] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:46,367 [INFO]  Epoch[13] Time cost=0.569
+2021-01-27 19:29:46,369 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0013.params"
+2021-01-27 19:29:46,413 [INFO]  Epoch[13] Validation-cross-entropy=0.587672
+2021-01-27 19:29:46,413 [INFO]  Epoch[13] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:46,732 [INFO]  Epoch[14] Batch [0-72]	Speed: 3660.71 samples/sec	cross-entropy=0.557624	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:47,031 [INFO]  Epoch[14] Train-cross-entropy=0.941107
+2021-01-27 19:29:47,031 [INFO]  Epoch[14] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:47,031 [INFO]  Epoch[14] Time cost=0.618
+2021-01-27 19:29:47,033 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0014.params"
+2021-01-27 19:29:47,075 [INFO]  Epoch[14] Validation-cross-entropy=0.441529
+2021-01-27 19:29:47,075 [INFO]  Epoch[14] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:47,400 [INFO]  Epoch[15] Batch [0-72]	Speed: 3586.88 samples/sec	cross-entropy=0.295104	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:47,717 [INFO]  Epoch[15] Train-cross-entropy=0.252400
+2021-01-27 19:29:47,717 [INFO]  Epoch[15] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:47,717 [INFO]  Epoch[15] Time cost=0.641
+2021-01-27 19:29:47,720 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0015.params"
+2021-01-27 19:29:47,762 [INFO]  Epoch[15] Validation-cross-entropy=0.548027
+2021-01-27 19:29:47,762 [INFO]  Epoch[15] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:48,071 [INFO]  Epoch[16] Batch [0-72]	Speed: 3774.48 samples/sec	cross-entropy=0.334887	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:48,351 [INFO]  Epoch[16] Train-cross-entropy=0.613057
+2021-01-27 19:29:48,351 [INFO]  Epoch[16] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:48,351 [INFO]  Epoch[16] Time cost=0.588
+2021-01-27 19:29:48,354 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0016.params"
+2021-01-27 19:29:48,395 [INFO]  Epoch[16] Validation-cross-entropy=0.361491
+2021-01-27 19:29:48,395 [INFO]  Epoch[16] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:48,712 [INFO]  Epoch[17] Batch [0-72]	Speed: 3684.34 samples/sec	cross-entropy=0.256275	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:49,032 [INFO]  Epoch[17] Train-cross-entropy=0.372579
+2021-01-27 19:29:49,032 [INFO]  Epoch[17] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:49,032 [INFO]  Epoch[17] Time cost=0.637
+2021-01-27 19:29:49,034 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0017.params"
+2021-01-27 19:29:49,080 [INFO]  Epoch[17] Validation-cross-entropy=0.784387
+2021-01-27 19:29:49,080 [INFO]  Epoch[17] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:49,405 [INFO]  Epoch[18] Batch [0-72]	Speed: 3586.86 samples/sec	cross-entropy=0.509977	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:49,685 [INFO]  Epoch[18] Train-cross-entropy=0.970534
+2021-01-27 19:29:49,685 [INFO]  Epoch[18] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:49,685 [INFO]  Epoch[18] Time cost=0.604
+2021-01-27 19:29:49,688 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0018.params"
+2021-01-27 19:29:49,725 [INFO]  Epoch[18] Validation-cross-entropy=0.442615
+2021-01-27 19:29:49,725 [INFO]  Epoch[18] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:50,069 [INFO]  Epoch[19] Batch [0-72]	Speed: 3381.67 samples/sec	cross-entropy=0.545868	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:50,396 [INFO]  Epoch[19] Train-cross-entropy=0.828269
+2021-01-27 19:29:50,396 [INFO]  Epoch[19] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:50,396 [INFO]  Epoch[19] Time cost=0.671
+2021-01-27 19:29:50,399 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0019.params"
+2021-01-27 19:29:50,439 [INFO]  Epoch[19] Validation-cross-entropy=1.032972
+2021-01-27 19:29:50,439 [INFO]  Epoch[19] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:50,770 [INFO]  Epoch[20] Batch [0-72]	Speed: 3521.26 samples/sec	cross-entropy=0.553843	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:51,065 [INFO]  Epoch[20] Train-cross-entropy=1.266308
+2021-01-27 19:29:51,066 [INFO]  Epoch[20] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:51,066 [INFO]  Epoch[20] Time cost=0.626
+2021-01-27 19:29:51,068 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0020.params"
+2021-01-27 19:29:51,112 [INFO]  Epoch[20] Validation-cross-entropy=0.667943
+2021-01-27 19:29:51,112 [INFO]  Epoch[20] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:51,421 [INFO]  Epoch[21] Batch [0-72]	Speed: 3779.62 samples/sec	cross-entropy=0.658668	Total_Amount-accuracy=0.000000
+2021-01-27 19:29:51,729 [INFO]  Epoch[21] Train-cross-entropy=0.637103
+2021-01-27 19:29:51,729 [INFO]  Epoch[21] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:29:51,729 [INFO]  Epoch[21] Time cost=0.617
+2021-01-27 19:29:51,731 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0021.params"
+2021-01-27 19:29:51,774 [INFO]  No improvement detected for 5 epochs compared to 0.3614912899211049 last error obtained: 0.8291570246219635, stopping here
+2021-01-27 19:29:51,774 [INFO]  
+========== done (14.532055616378784 s) fit model
+2021-01-27 19:34:15,302 [INFO]  
+========== start: fit model
+2021-01-27 19:34:15,304 [WARNING]  Already bound, ignoring bind()
+2021-01-27 19:34:15,675 [INFO]  Epoch[0] Batch [0-72]	Speed: 3184.90 samples/sec	cross-entropy=9.204803	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:15,983 [INFO]  Epoch[0] Train-cross-entropy=10.317425
+2021-01-27 19:34:15,984 [INFO]  Epoch[0] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:15,984 [INFO]  Epoch[0] Time cost=0.678
+2021-01-27 19:34:15,989 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0000.params"
+2021-01-27 19:34:16,036 [INFO]  Epoch[0] Validation-cross-entropy=3.858118
+2021-01-27 19:34:16,037 [INFO]  Epoch[0] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:16,406 [INFO]  Epoch[1] Batch [0-72]	Speed: 3189.18 samples/sec	cross-entropy=2.183834	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:16,742 [INFO]  Epoch[1] Train-cross-entropy=4.906171
+2021-01-27 19:34:16,743 [INFO]  Epoch[1] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:16,744 [INFO]  Epoch[1] Time cost=0.706
+2021-01-27 19:34:16,747 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0001.params"
+2021-01-27 19:34:16,783 [INFO]  Epoch[1] Validation-cross-entropy=3.071777
+2021-01-27 19:34:16,784 [INFO]  Epoch[1] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,162 [INFO]  Epoch[2] Batch [0-72]	Speed: 3103.60 samples/sec	cross-entropy=2.929688	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,451 [INFO]  Epoch[2] Train-cross-entropy=4.312954
+2021-01-27 19:34:17,452 [INFO]  Epoch[2] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,452 [INFO]  Epoch[2] Time cost=0.667
+2021-01-27 19:34:17,456 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0002.params"
+2021-01-27 19:34:17,505 [INFO]  Epoch[2] Validation-cross-entropy=2.707498
+2021-01-27 19:34:17,506 [INFO]  Epoch[2] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:17,806 [INFO]  Epoch[3] Batch [0-72]	Speed: 3927.91 samples/sec	cross-entropy=2.723989	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,102 [INFO]  Epoch[3] Train-cross-entropy=4.157061
+2021-01-27 19:34:18,103 [INFO]  Epoch[3] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,104 [INFO]  Epoch[3] Time cost=0.598
+2021-01-27 19:34:18,108 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0003.params"
+2021-01-27 19:34:18,155 [INFO]  Epoch[3] Validation-cross-entropy=2.254890
+2021-01-27 19:34:18,156 [INFO]  Epoch[3] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,476 [INFO]  Epoch[4] Batch [0-72]	Speed: 3674.50 samples/sec	cross-entropy=2.220958	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,764 [INFO]  Epoch[4] Train-cross-entropy=2.441799
+2021-01-27 19:34:18,765 [INFO]  Epoch[4] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:18,766 [INFO]  Epoch[4] Time cost=0.609
+2021-01-27 19:34:18,771 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0004.params"
+2021-01-27 19:34:18,818 [INFO]  Epoch[4] Validation-cross-entropy=1.535856
+2021-01-27 19:34:18,819 [INFO]  Epoch[4] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,108 [INFO]  Epoch[5] Batch [0-72]	Speed: 4071.40 samples/sec	cross-entropy=1.590578	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,403 [INFO]  Epoch[5] Train-cross-entropy=2.884853
+2021-01-27 19:34:19,404 [INFO]  Epoch[5] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,405 [INFO]  Epoch[5] Time cost=0.585
+2021-01-27 19:34:19,410 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0005.params"
+2021-01-27 19:34:19,466 [INFO]  Epoch[5] Validation-cross-entropy=1.339674
+2021-01-27 19:34:19,466 [INFO]  Epoch[5] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:19,780 [INFO]  Epoch[6] Batch [0-72]	Speed: 3745.54 samples/sec	cross-entropy=1.125695	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,085 [INFO]  Epoch[6] Train-cross-entropy=1.037818
+2021-01-27 19:34:20,085 [INFO]  Epoch[6] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,086 [INFO]  Epoch[6] Time cost=0.619
+2021-01-27 19:34:20,091 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0006.params"
+2021-01-27 19:34:20,139 [INFO]  Epoch[6] Validation-cross-entropy=0.933251
+2021-01-27 19:34:20,140 [INFO]  Epoch[6] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,488 [INFO]  Epoch[7] Batch [0-72]	Speed: 3356.04 samples/sec	cross-entropy=1.191301	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,791 [INFO]  Epoch[7] Train-cross-entropy=1.897593
+2021-01-27 19:34:20,791 [INFO]  Epoch[7] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:20,793 [INFO]  Epoch[7] Time cost=0.652
+2021-01-27 19:34:20,797 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0007.params"
+2021-01-27 19:34:20,843 [INFO]  Epoch[7] Validation-cross-entropy=0.704277
+2021-01-27 19:34:20,843 [INFO]  Epoch[7] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,128 [INFO]  Epoch[8] Batch [0-72]	Speed: 4125.50 samples/sec	cross-entropy=1.351769	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,458 [INFO]  Epoch[8] Train-cross-entropy=1.016686
+2021-01-27 19:34:21,459 [INFO]  Epoch[8] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,460 [INFO]  Epoch[8] Time cost=0.616
+2021-01-27 19:34:21,466 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0008.params"
+2021-01-27 19:34:21,513 [INFO]  Epoch[8] Validation-cross-entropy=0.984845
+2021-01-27 19:34:21,513 [INFO]  Epoch[8] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:21,816 [INFO]  Epoch[9] Batch [0-72]	Speed: 3880.88 samples/sec	cross-entropy=1.526774	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,117 [INFO]  Epoch[9] Train-cross-entropy=1.988419
+2021-01-27 19:34:22,118 [INFO]  Epoch[9] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,119 [INFO]  Epoch[9] Time cost=0.605
+2021-01-27 19:34:22,123 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0009.params"
+2021-01-27 19:34:22,170 [INFO]  Epoch[9] Validation-cross-entropy=0.753297
+2021-01-27 19:34:22,171 [INFO]  Epoch[9] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,464 [INFO]  Epoch[10] Batch [0-72]	Speed: 4001.91 samples/sec	cross-entropy=1.323447	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,757 [INFO]  Epoch[10] Train-cross-entropy=1.002573
+2021-01-27 19:34:22,758 [INFO]  Epoch[10] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:22,759 [INFO]  Epoch[10] Time cost=0.588
+2021-01-27 19:34:22,762 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0010.params"
+2021-01-27 19:34:22,807 [INFO]  Epoch[10] Validation-cross-entropy=0.966540
+2021-01-27 19:34:22,808 [INFO]  Epoch[10] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,107 [INFO]  Epoch[11] Batch [0-72]	Speed: 3922.85 samples/sec	cross-entropy=0.882867	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,396 [INFO]  Epoch[11] Train-cross-entropy=1.331846
+2021-01-27 19:34:23,397 [INFO]  Epoch[11] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,398 [INFO]  Epoch[11] Time cost=0.589
+2021-01-27 19:34:23,402 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0011.params"
+2021-01-27 19:34:23,450 [INFO]  Epoch[11] Validation-cross-entropy=0.548686
+2021-01-27 19:34:23,451 [INFO]  Epoch[11] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:23,742 [INFO]  Epoch[12] Batch [0-72]	Speed: 4026.40 samples/sec	cross-entropy=0.635551	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,041 [INFO]  Epoch[12] Train-cross-entropy=0.579598
+2021-01-27 19:34:24,042 [INFO]  Epoch[12] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,043 [INFO]  Epoch[12] Time cost=0.592
+2021-01-27 19:34:24,046 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0012.params"
+2021-01-27 19:34:24,093 [INFO]  Epoch[12] Validation-cross-entropy=0.939580
+2021-01-27 19:34:24,094 [INFO]  Epoch[12] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,393 [INFO]  Epoch[13] Batch [0-72]	Speed: 3938.93 samples/sec	cross-entropy=0.591425	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,715 [INFO]  Epoch[13] Train-cross-entropy=0.997899
+2021-01-27 19:34:24,715 [INFO]  Epoch[13] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:24,716 [INFO]  Epoch[13] Time cost=0.620
+2021-01-27 19:34:24,720 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0013.params"
+2021-01-27 19:34:24,767 [INFO]  Epoch[13] Validation-cross-entropy=0.553432
+2021-01-27 19:34:24,767 [INFO]  Epoch[13] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,099 [INFO]  Epoch[14] Batch [0-72]	Speed: 3543.00 samples/sec	cross-entropy=0.441520	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,387 [INFO]  Epoch[14] Train-cross-entropy=0.591605
+2021-01-27 19:34:25,388 [INFO]  Epoch[14] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,388 [INFO]  Epoch[14] Time cost=0.621
+2021-01-27 19:34:25,392 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0014.params"
+2021-01-27 19:34:25,441 [INFO]  Epoch[14] Validation-cross-entropy=1.196470
+2021-01-27 19:34:25,442 [INFO]  Epoch[14] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:25,745 [INFO]  Epoch[15] Batch [0-72]	Speed: 3866.27 samples/sec	cross-entropy=0.503471	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,032 [INFO]  Epoch[15] Train-cross-entropy=0.921486
+2021-01-27 19:34:26,033 [INFO]  Epoch[15] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,034 [INFO]  Epoch[15] Time cost=0.592
+2021-01-27 19:34:26,038 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0015.params"
+2021-01-27 19:34:26,082 [INFO]  Epoch[15] Validation-cross-entropy=0.662971
+2021-01-27 19:34:26,083 [INFO]  Epoch[15] Validation-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,368 [INFO]  Epoch[16] Batch [0-72]	Speed: 4110.81 samples/sec	cross-entropy=0.405732	Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,636 [INFO]  Epoch[16] Train-cross-entropy=0.506611
+2021-01-27 19:34:26,637 [INFO]  Epoch[16] Train-Total_Amount-accuracy=0.000000
+2021-01-27 19:34:26,638 [INFO]  Epoch[16] Time cost=0.555
+2021-01-27 19:34:26,641 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Total_Amount_Test\model-0016.params"
+2021-01-27 19:34:26,690 [INFO]  No improvement detected for 5 epochs compared to 0.548685863148421 last error obtained: 0.9761286601424217, stopping here
+2021-01-27 19:34:26,691 [INFO]  
+========== done (11.38879656791687 s) fit model

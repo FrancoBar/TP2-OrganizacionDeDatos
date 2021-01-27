@@ -1,0 +1,205 @@
+2021-01-27 13:51:24,495 [INFO]  CategoricalEncoder for column Territory                                found only 99 occurrences of value Philippines
+2021-01-27 13:51:24,497 [INFO]  CategoricalEncoder for column Territory                                found only 85 occurrences of value Jordan
+2021-01-27 13:51:24,497 [INFO]  CategoricalEncoder for column Territory                                found only 69 occurrences of value Canada
+2021-01-27 13:51:24,498 [INFO]  CategoricalEncoder for column Territory                                found only 64 occurrences of value Luxembourg
+2021-01-27 13:51:24,498 [INFO]  CategoricalEncoder for column Territory                                found only 55 occurrences of value Portugal
+2021-01-27 13:51:24,499 [INFO]  CategoricalEncoder for column Territory                                found only 52 occurrences of value Poland
+2021-01-27 13:51:24,500 [INFO]  CategoricalEncoder for column Territory                                found only 41 occurrences of value Vietnam
+2021-01-27 13:51:24,500 [INFO]  CategoricalEncoder for column Territory                                found only 38 occurrences of value Cyprus
+2021-01-27 13:51:24,500 [INFO]  CategoricalEncoder for column Territory                                found only 33 occurrences of value New Zealand
+2021-01-27 13:51:24,501 [INFO]  CategoricalEncoder for column Territory                                found only 32 occurrences of value Taiwan
+2021-01-27 13:51:24,501 [INFO]  CategoricalEncoder for column Territory                                found only 31 occurrences of value Denmark
+2021-01-27 13:51:24,502 [INFO]  CategoricalEncoder for column Territory                                found only 29 occurrences of value UAE (Dubai)
+2021-01-27 13:51:24,503 [INFO]  CategoricalEncoder for column Territory                                found only 27 occurrences of value Carribean
+2021-01-27 13:51:24,503 [INFO]  CategoricalEncoder for column Territory                                found only 25 occurrences of value Turkey
+2021-01-27 13:51:24,504 [INFO]  CategoricalEncoder for column Territory                                found only 24 occurrences of value Hungary
+2021-01-27 13:51:24,504 [INFO]  CategoricalEncoder for column Territory                                found only 16 occurrences of value Switzerland
+2021-01-27 13:51:24,505 [INFO]  CategoricalEncoder for column Territory                                found only 16 occurrences of value Norway
+2021-01-27 13:51:24,505 [INFO]  CategoricalEncoder for column Territory                                found only 12 occurrences of value South Korea
+2021-01-27 13:51:24,506 [INFO]  CategoricalEncoder for column Territory                                found only 11 occurrences of value KSA
+2021-01-27 13:51:24,506 [INFO]  CategoricalEncoder for column Territory                                found only 11 occurrences of value Sweden
+2021-01-27 13:51:24,507 [INFO]  CategoricalEncoder for column Territory                                found only 9 occurrences of value Greece
+2021-01-27 13:51:24,507 [INFO]  CategoricalEncoder for column Territory                                found only 9 occurrences of value Central America
+2021-01-27 13:51:24,508 [INFO]  CategoricalEncoder for column Territory                                found only 9 occurrences of value South America
+2021-01-27 13:51:24,508 [INFO]  CategoricalEncoder for column Territory                                found only 8 occurrences of value Estonia
+2021-01-27 13:51:24,509 [INFO]  CategoricalEncoder for column Territory                                found only 8 occurrences of value Ireland
+2021-01-27 13:51:24,509 [INFO]  CategoricalEncoder for column Territory                                found only 6 occurrences of value Pakistan
+2021-01-27 13:51:24,510 [INFO]  CategoricalEncoder for column Territory                                found only 6 occurrences of value Macedonia
+2021-01-27 13:51:24,510 [INFO]  CategoricalEncoder for column Territory                                found only 5 occurrences of value Kazakhstan
+2021-01-27 13:51:24,512 [INFO]  CategoricalEncoder for column Territory                                found only 5 occurrences of value Malaysia
+2021-01-27 13:51:24,512 [INFO]  CategoricalEncoder for column Territory                                found only 5 occurrences of value Saudi Arabia
+2021-01-27 13:51:24,513 [INFO]  CategoricalEncoder for column Territory                                found only 5 occurrences of value Tunisia
+2021-01-27 13:51:24,513 [INFO]  CategoricalEncoder for column Territory                                found only 5 occurrences of value Bulgaria
+2021-01-27 13:51:24,514 [INFO]  CategoricalEncoder for column Territory                                found only 5 occurrences of value Ukraine
+2021-01-27 13:51:24,514 [INFO]  CategoricalEncoder for column Territory                                found only 4 occurrences of value Belarus
+2021-01-27 13:51:24,515 [INFO]  CategoricalEncoder for column Territory                                found only 4 occurrences of value Malta
+2021-01-27 13:51:24,515 [INFO]  CategoricalEncoder for column Territory                                found only 4 occurrences of value Kuwait
+2021-01-27 13:51:24,516 [INFO]  CategoricalEncoder for column Territory                                found only 4 occurrences of value Bosnia & Herzegovina
+2021-01-27 13:51:24,516 [INFO]  CategoricalEncoder for column Territory                                found only 3 occurrences of value Morocco
+2021-01-27 13:51:24,516 [INFO]  CategoricalEncoder for column Territory                                found only 3 occurrences of value Cambodia
+2021-01-27 13:51:24,518 [INFO]  CategoricalEncoder for column Territory                                found only 3 occurrences of value Oman
+2021-01-27 13:51:24,519 [INFO]  CategoricalEncoder for column Territory                                found only 2 occurrences of value South East Asia
+2021-01-27 13:51:24,519 [INFO]  CategoricalEncoder for column Territory                                found only 2 occurrences of value UAE (Others)
+2021-01-27 13:51:24,520 [INFO]  CategoricalEncoder for column Territory                                found only 2 occurrences of value Romania
+2021-01-27 13:51:24,520 [INFO]  CategoricalEncoder for column Territory                                found only 2 occurrences of value Lebanon
+2021-01-27 13:51:24,521 [INFO]  CategoricalEncoder for column Territory                                found only 2 occurrences of value Armenia
+2021-01-27 13:51:24,522 [INFO]  CategoricalEncoder for column Territory                                found only 2 occurrences of value Albania
+2021-01-27 13:51:24,522 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Georgia
+2021-01-27 13:51:24,523 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Slovenia
+2021-01-27 13:51:24,523 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Burma
+2021-01-27 13:51:24,523 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Solomon Islands
+2021-01-27 13:51:24,524 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Egypt
+2021-01-27 13:51:24,524 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Croatia
+2021-01-27 13:51:24,525 [INFO]  CategoricalEncoder for column Territory                                found only 1 occurrences of value Monaco
+2021-01-27 13:51:46,350 [WARNING]  Test set does not contain any ocurrences of values [Ukraine, Albania, UAE (Others), Central America, Morocco, South America, South East Asia, Croatia, Estonia, Solomon Islands, Belarus, Malaysia, Armenia, Romania, Georgia, Tunisia, Monaco, Pakistan, Egypt, Kuwait, Macedonia, Burma, Bulgaria, Lebanon, Slovenia, Bosnia & Herzegovina, Greece] in column [Territory], consider using a more representative test set.
+2021-01-27 13:51:46,398 [INFO]  
+========== start: fit model
+2021-01-27 13:51:46,398 [WARNING]  Already bound, ignoring bind()
+2021-01-27 13:51:57,481 [INFO]  Epoch[0] Batch [0-455]	Speed: 661.15 samples/sec	cross-entropy=1.712412	Territory-accuracy=0.557429
+2021-01-27 13:52:08,813 [INFO]  Epoch[0] Train-cross-entropy=1.409868
+2021-01-27 13:52:08,814 [INFO]  Epoch[0] Train-Territory-accuracy=0.639164
+2021-01-27 13:52:08,814 [INFO]  Epoch[0] Time cost=22.414
+2021-01-27 13:52:08,830 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2021-01-27 13:52:09,592 [INFO]  Epoch[0] Validation-cross-entropy=1.013925
+2021-01-27 13:52:09,593 [INFO]  Epoch[0] Validation-Territory-accuracy=0.741955
+2021-01-27 13:52:22,752 [INFO]  Epoch[1] Batch [0-455]	Speed: 554.47 samples/sec	cross-entropy=0.818797	Territory-accuracy=0.804962
+2021-01-27 13:52:37,296 [INFO]  Epoch[1] Train-cross-entropy=0.735852
+2021-01-27 13:52:37,296 [INFO]  Epoch[1] Train-Territory-accuracy=0.831889
+2021-01-27 13:52:37,297 [INFO]  Epoch[1] Time cost=27.703
+2021-01-27 13:52:37,311 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2021-01-27 13:52:38,121 [INFO]  Epoch[1] Validation-cross-entropy=0.684006
+2021-01-27 13:52:38,122 [INFO]  Epoch[1] Validation-Territory-accuracy=0.838490
+2021-01-27 13:52:53,585 [INFO]  Epoch[2] Batch [0-455]	Speed: 472.51 samples/sec	cross-entropy=0.528952	Territory-accuracy=0.882950
+2021-01-27 13:53:09,615 [INFO]  Epoch[2] Train-cross-entropy=0.490200
+2021-01-27 13:53:09,616 [INFO]  Epoch[2] Train-Territory-accuracy=0.893702
+2021-01-27 13:53:09,617 [INFO]  Epoch[2] Time cost=31.494
+2021-01-27 13:53:09,634 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2021-01-27 13:53:10,451 [INFO]  Epoch[2] Validation-cross-entropy=0.521138
+2021-01-27 13:53:10,452 [INFO]  Epoch[2] Validation-Territory-accuracy=0.876856
+2021-01-27 13:53:27,182 [INFO]  Epoch[3] Batch [0-455]	Speed: 436.17 samples/sec	cross-entropy=0.396320	Territory-accuracy=0.910773
+2021-01-27 13:53:43,945 [INFO]  Epoch[3] Train-cross-entropy=0.369707
+2021-01-27 13:53:43,945 [INFO]  Epoch[3] Train-Territory-accuracy=0.918248
+2021-01-27 13:53:43,946 [INFO]  Epoch[3] Time cost=33.495
+2021-01-27 13:53:43,960 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2021-01-27 13:53:44,722 [INFO]  Epoch[3] Validation-cross-entropy=0.425726
+2021-01-27 13:53:44,722 [INFO]  Epoch[3] Validation-Territory-accuracy=0.897277
+2021-01-27 13:54:01,374 [INFO]  Epoch[4] Batch [0-455]	Speed: 438.17 samples/sec	cross-entropy=0.308712	Territory-accuracy=0.926124
+2021-01-27 13:54:17,737 [INFO]  Epoch[4] Train-cross-entropy=0.292387
+2021-01-27 13:54:17,737 [INFO]  Epoch[4] Train-Territory-accuracy=0.932068
+2021-01-27 13:54:17,738 [INFO]  Epoch[4] Time cost=33.015
+2021-01-27 13:54:17,752 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2021-01-27 13:54:18,543 [INFO]  Epoch[4] Validation-cross-entropy=0.371458
+2021-01-27 13:54:18,544 [INFO]  Epoch[4] Validation-Territory-accuracy=0.912748
+2021-01-27 13:54:34,762 [INFO]  Epoch[5] Batch [0-455]	Speed: 449.96 samples/sec	cross-entropy=0.256149	Territory-accuracy=0.935855
+2021-01-27 13:54:50,591 [INFO]  Epoch[5] Train-cross-entropy=0.243339
+2021-01-27 13:54:50,591 [INFO]  Epoch[5] Train-Territory-accuracy=0.941969
+2021-01-27 13:54:50,592 [INFO]  Epoch[5] Time cost=32.048
+2021-01-27 13:54:50,609 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2021-01-27 13:54:51,406 [INFO]  Epoch[5] Validation-cross-entropy=0.331893
+2021-01-27 13:54:51,406 [INFO]  Epoch[5] Validation-Territory-accuracy=0.918936
+2021-01-27 13:55:07,091 [INFO]  Epoch[6] Batch [0-455]	Speed: 465.42 samples/sec	cross-entropy=0.219200	Territory-accuracy=0.944353
+2021-01-27 13:55:22,814 [INFO]  Epoch[6] Train-cross-entropy=0.208524
+2021-01-27 13:55:22,814 [INFO]  Epoch[6] Train-Territory-accuracy=0.948432
+2021-01-27 13:55:22,814 [INFO]  Epoch[6] Time cost=31.408
+2021-01-27 13:55:22,830 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2021-01-27 13:55:23,676 [INFO]  Epoch[6] Validation-cross-entropy=0.303754
+2021-01-27 13:55:23,677 [INFO]  Epoch[6] Validation-Territory-accuracy=0.924505
+2021-01-27 13:55:39,065 [INFO]  Epoch[7] Batch [0-455]	Speed: 474.21 samples/sec	cross-entropy=0.192577	Territory-accuracy=0.949013
+2021-01-27 13:55:53,737 [INFO]  Epoch[7] Train-cross-entropy=0.182297
+2021-01-27 13:55:53,737 [INFO]  Epoch[7] Train-Territory-accuracy=0.953245
+2021-01-27 13:55:53,738 [INFO]  Epoch[7] Time cost=30.061
+2021-01-27 13:55:53,752 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2021-01-27 13:55:54,465 [INFO]  Epoch[7] Validation-cross-entropy=0.282121
+2021-01-27 13:55:54,466 [INFO]  Epoch[7] Validation-Territory-accuracy=0.929455
+2021-01-27 13:56:09,702 [INFO]  Epoch[8] Batch [0-455]	Speed: 479.07 samples/sec	cross-entropy=0.172529	Territory-accuracy=0.953125
+2021-01-27 13:56:24,233 [INFO]  Epoch[8] Train-cross-entropy=0.162984
+2021-01-27 13:56:24,233 [INFO]  Epoch[8] Train-Territory-accuracy=0.957233
+2021-01-27 13:56:24,234 [INFO]  Epoch[8] Time cost=29.768
+2021-01-27 13:56:24,249 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2021-01-27 13:56:25,029 [INFO]  Epoch[8] Validation-cross-entropy=0.272368
+2021-01-27 13:56:25,029 [INFO]  Epoch[8] Validation-Territory-accuracy=0.935025
+2021-01-27 13:56:39,867 [INFO]  Epoch[9] Batch [0-455]	Speed: 491.97 samples/sec	cross-entropy=0.155078	Territory-accuracy=0.956414
+2021-01-27 13:56:54,508 [INFO]  Epoch[9] Train-cross-entropy=0.146353
+2021-01-27 13:56:54,509 [INFO]  Epoch[9] Train-Territory-accuracy=0.960396
+2021-01-27 13:56:54,509 [INFO]  Epoch[9] Time cost=29.479
+2021-01-27 13:56:54,523 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2021-01-27 13:56:55,259 [INFO]  Epoch[9] Validation-cross-entropy=0.258712
+2021-01-27 13:56:55,260 [INFO]  Epoch[9] Validation-Territory-accuracy=0.935644
+2021-01-27 13:57:10,520 [INFO]  Epoch[10] Batch [0-455]	Speed: 478.20 samples/sec	cross-entropy=0.142374	Territory-accuracy=0.959978
+2021-01-27 13:57:25,462 [INFO]  Epoch[10] Train-cross-entropy=0.134881
+2021-01-27 13:57:25,463 [INFO]  Epoch[10] Train-Territory-accuracy=0.963559
+2021-01-27 13:57:25,463 [INFO]  Epoch[10] Time cost=30.203
+2021-01-27 13:57:25,481 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2021-01-27 13:57:26,336 [INFO]  Epoch[10] Validation-cross-entropy=0.272319
+2021-01-27 13:57:26,336 [INFO]  Epoch[10] Validation-Territory-accuracy=0.936262
+2021-01-27 13:57:42,028 [INFO]  Epoch[11] Batch [0-455]	Speed: 465.01 samples/sec	cross-entropy=0.131698	Territory-accuracy=0.962445
+2021-01-27 13:57:57,582 [INFO]  Epoch[11] Train-cross-entropy=0.122963
+2021-01-27 13:57:57,582 [INFO]  Epoch[11] Train-Territory-accuracy=0.966172
+2021-01-27 13:57:57,582 [INFO]  Epoch[11] Time cost=31.245
+2021-01-27 13:57:57,599 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2021-01-27 13:57:58,448 [INFO]  Epoch[11] Validation-cross-entropy=0.248409
+2021-01-27 13:57:58,449 [INFO]  Epoch[11] Validation-Territory-accuracy=0.938738
+2021-01-27 13:58:14,143 [INFO]  Epoch[12] Batch [0-455]	Speed: 465.52 samples/sec	cross-entropy=0.121014	Territory-accuracy=0.965872
+2021-01-27 13:58:29,620 [INFO]  Epoch[12] Train-cross-entropy=0.112775
+2021-01-27 13:58:29,620 [INFO]  Epoch[12] Train-Territory-accuracy=0.970022
+2021-01-27 13:58:29,621 [INFO]  Epoch[12] Time cost=31.171
+2021-01-27 13:58:29,637 [INFO]  Saved checkpoint to "imputer_model\model-0012.params"
+2021-01-27 13:58:30,463 [INFO]  Epoch[12] Validation-cross-entropy=0.243307
+2021-01-27 13:58:30,464 [INFO]  Epoch[12] Validation-Territory-accuracy=0.939356
+2021-01-27 13:58:46,348 [INFO]  Epoch[13] Batch [0-455]	Speed: 459.50 samples/sec	cross-entropy=0.113151	Territory-accuracy=0.967516
+2021-01-27 13:59:02,066 [INFO]  Epoch[13] Train-cross-entropy=0.105210
+2021-01-27 13:59:02,067 [INFO]  Epoch[13] Train-Territory-accuracy=0.972016
+2021-01-27 13:59:02,068 [INFO]  Epoch[13] Time cost=31.604
+2021-01-27 13:59:02,088 [INFO]  Saved checkpoint to "imputer_model\model-0013.params"
+2021-01-27 13:59:02,836 [INFO]  Epoch[13] Validation-cross-entropy=0.240165
+2021-01-27 13:59:02,837 [INFO]  Epoch[13] Validation-Territory-accuracy=0.941832
+2021-01-27 13:59:18,876 [INFO]  Epoch[14] Batch [0-455]	Speed: 455.36 samples/sec	cross-entropy=0.104909	Territory-accuracy=0.969984
+2021-01-27 13:59:35,377 [INFO]  Epoch[14] Train-cross-entropy=0.097796
+2021-01-27 13:59:35,377 [INFO]  Epoch[14] Train-Territory-accuracy=0.973391
+2021-01-27 13:59:35,378 [INFO]  Epoch[14] Time cost=32.541
+2021-01-27 13:59:35,393 [INFO]  Saved checkpoint to "imputer_model\model-0014.params"
+2021-01-27 13:59:36,229 [INFO]  Epoch[14] Validation-cross-entropy=0.241832
+2021-01-27 13:59:36,230 [INFO]  Epoch[14] Validation-Territory-accuracy=0.940594
+2021-01-27 13:59:53,013 [INFO]  Epoch[15] Batch [0-455]	Speed: 434.87 samples/sec	cross-entropy=0.098680	Territory-accuracy=0.972451
+2021-01-27 14:00:09,825 [INFO]  Epoch[15] Train-cross-entropy=0.091711
+2021-01-27 14:00:09,826 [INFO]  Epoch[15] Train-Territory-accuracy=0.975110
+2021-01-27 14:00:09,826 [INFO]  Epoch[15] Time cost=33.595
+2021-01-27 14:00:09,844 [INFO]  Saved checkpoint to "imputer_model\model-0015.params"
+2021-01-27 14:00:10,632 [INFO]  Epoch[15] Validation-cross-entropy=0.228955
+2021-01-27 14:00:10,632 [INFO]  Epoch[15] Validation-Territory-accuracy=0.944926
+2021-01-27 14:00:27,577 [INFO]  Epoch[16] Batch [0-455]	Speed: 431.06 samples/sec	cross-entropy=0.100673	Territory-accuracy=0.971902
+2021-01-27 14:00:44,448 [INFO]  Epoch[16] Train-cross-entropy=0.090705
+2021-01-27 14:00:44,449 [INFO]  Epoch[16] Train-Territory-accuracy=0.975523
+2021-01-27 14:00:44,449 [INFO]  Epoch[16] Time cost=33.816
+2021-01-27 14:00:44,467 [INFO]  Saved checkpoint to "imputer_model\model-0016.params"
+2021-01-27 14:00:45,276 [INFO]  Epoch[16] Validation-cross-entropy=0.232287
+2021-01-27 14:00:45,277 [INFO]  Epoch[16] Validation-Territory-accuracy=0.945545
+2021-01-27 14:01:02,406 [INFO]  Epoch[17] Batch [0-455]	Speed: 426.50 samples/sec	cross-entropy=0.087050	Territory-accuracy=0.976151
+2021-01-27 14:01:19,738 [INFO]  Epoch[17] Train-cross-entropy=0.080443
+2021-01-27 14:01:19,738 [INFO]  Epoch[17] Train-Territory-accuracy=0.978685
+2021-01-27 14:01:19,739 [INFO]  Epoch[17] Time cost=34.461
+2021-01-27 14:01:19,755 [INFO]  Saved checkpoint to "imputer_model\model-0017.params"
+2021-01-27 14:01:20,544 [INFO]  Epoch[17] Validation-cross-entropy=0.236821
+2021-01-27 14:01:20,545 [INFO]  Epoch[17] Validation-Territory-accuracy=0.946163
+2021-01-27 14:01:38,099 [INFO]  Epoch[18] Batch [0-455]	Speed: 415.93 samples/sec	cross-entropy=0.081660	Territory-accuracy=0.978344
+2021-01-27 14:01:55,784 [INFO]  Epoch[18] Train-cross-entropy=0.076109
+2021-01-27 14:01:55,785 [INFO]  Epoch[18] Train-Territory-accuracy=0.979923
+2021-01-27 14:01:55,785 [INFO]  Epoch[18] Time cost=35.239
+2021-01-27 14:01:55,800 [INFO]  Saved checkpoint to "imputer_model\model-0018.params"
+2021-01-27 14:01:56,573 [INFO]  Epoch[18] Validation-cross-entropy=0.251183
+2021-01-27 14:01:56,573 [INFO]  Epoch[18] Validation-Territory-accuracy=0.944926
+2021-01-27 14:02:14,316 [INFO]  Epoch[19] Batch [0-455]	Speed: 411.76 samples/sec	cross-entropy=0.079863	Territory-accuracy=0.977522
+2021-01-27 14:02:32,721 [INFO]  Epoch[19] Train-cross-entropy=0.073436
+2021-01-27 14:02:32,722 [INFO]  Epoch[19] Train-Territory-accuracy=0.979717
+2021-01-27 14:02:32,723 [INFO]  Epoch[19] Time cost=36.149
+2021-01-27 14:02:32,738 [INFO]  Saved checkpoint to "imputer_model\model-0019.params"
+2021-01-27 14:02:33,539 [INFO]  Epoch[19] Validation-cross-entropy=0.229386
+2021-01-27 14:02:33,540 [INFO]  Epoch[19] Validation-Territory-accuracy=0.946163
+2021-01-27 14:02:51,592 [INFO]  Epoch[20] Batch [0-455]	Speed: 404.28 samples/sec	cross-entropy=0.073625	Territory-accuracy=0.980400
+2021-01-27 14:03:09,826 [INFO]  Epoch[20] Train-cross-entropy=0.067812
+2021-01-27 14:03:09,826 [INFO]  Epoch[20] Train-Territory-accuracy=0.981711
+2021-01-27 14:03:09,826 [INFO]  Epoch[20] Time cost=36.285
+2021-01-27 14:03:09,841 [INFO]  Saved checkpoint to "imputer_model\model-0020.params"
+2021-01-27 14:03:10,616 [INFO]  No improvement detected for 5 epochs compared to 0.22895480485835878 last error obtained: 0.24864124763978296, stopping here
+2021-01-27 14:03:10,617 [INFO]  
+========== done (684.2206799983978 s) fit model
