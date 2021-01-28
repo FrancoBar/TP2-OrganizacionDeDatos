@@ -37,7 +37,7 @@ def get_neural_network_model(params, input_dim):
     
     alpha = params['alpha']
     model = Sequential()    
-    model.add(Dense(params['first_layer']['neurons'], 
+    model.add(Dense(int(params['first_layer']['neurons']), 
                     input_dim=input_dim, 
                     activation=params['first_layer']['activation'],
                     kernel_regularizer=l1(alpha)))
@@ -46,7 +46,7 @@ def get_neural_network_model(params, input_dim):
     
     for layer in params['hidden_layers']:
         if layer['config']['is_on']:
-            model.add(Dense(layer['config']['neurons'], kernel_regularizer=l1(alpha), activation=layer['config']['activation']))
+            model.add(Dense(int(layer['config']['neurons']), kernel_regularizer=l1(alpha), activation=layer['config']['activation']))
             model.add(Dropout(layer['config']['dropout']))
     
     model.add(Dense(1, activation=params['last_layer']['activation']))
