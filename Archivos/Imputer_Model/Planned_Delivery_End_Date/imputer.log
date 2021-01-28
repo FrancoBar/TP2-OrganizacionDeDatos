@@ -1,0 +1,843 @@
+2021-01-27 16:55:47,744 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 94 occurrences of value 12/29/2017
+2021-01-27 16:55:47,746 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 92 occurrences of value 10/31/2017
+2021-01-27 16:55:47,746 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 91 occurrences of value 12/31/2016
+2021-01-27 16:55:47,747 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 85 occurrences of value 6/30/2018
+2021-01-27 16:55:47,748 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 82 occurrences of value 7/31/2016
+2021-01-27 16:55:47,749 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 81 occurrences of value 3/31/2018
+2021-01-27 16:55:47,750 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 78 occurrences of value 7/31/2017
+2021-01-27 16:55:47,751 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 78 occurrences of value 9/30/2018
+2021-01-27 16:55:47,752 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 72 occurrences of value NaT
+2021-01-27 16:55:47,753 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 69 occurrences of value 12/15/2017
+2021-01-27 16:55:47,754 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 69 occurrences of value 11/30/2016
+2021-01-27 16:55:47,755 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 12/11/2017
+2021-01-27 16:55:47,756 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2/28/2017
+2021-01-27 16:55:47,756 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 60 occurrences of value 10/31/2016
+2021-01-27 16:55:47,757 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 4/2/2018
+2021-01-27 16:55:47,758 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 12/21/2018
+2021-01-27 16:55:47,759 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 11/16/2018
+2021-01-27 16:55:47,759 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 7/28/2017
+2021-01-27 16:55:47,760 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 8/25/2017
+2021-01-27 16:55:47,761 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 3/31/2019
+2021-01-27 16:55:47,762 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 11/18/2016
+2021-01-27 16:55:47,762 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 4/28/2017
+2021-01-27 16:55:47,763 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 52 occurrences of value 4/7/2017
+2021-01-27 16:55:47,764 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 51 occurrences of value 1/31/2017
+2021-01-27 16:55:47,764 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 2/20/2017
+2021-01-27 16:55:47,765 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 5/12/2017
+2021-01-27 16:55:47,766 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 12/4/2017
+2021-01-27 16:55:47,767 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 5/15/2017
+2021-01-27 16:55:47,768 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 12/30/2016
+2021-01-27 16:55:47,769 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 7/14/2017
+2021-01-27 16:55:47,770 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 9/8/2017
+2021-01-27 16:55:47,770 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 3/29/2019
+2021-01-27 16:55:47,771 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 6/22/2018
+2021-01-27 16:55:47,772 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 12/14/2018
+2021-01-27 16:55:47,773 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 43 occurrences of value 12/19/2017
+2021-01-27 16:55:47,774 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 7/7/2017
+2021-01-27 16:55:47,774 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 1/27/2017
+2021-01-27 16:55:47,775 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 7/21/2017
+2021-01-27 16:55:47,776 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 5/26/2017
+2021-01-27 16:55:47,777 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2/3/2017
+2021-01-27 16:55:47,778 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 39 occurrences of value 10/13/2017
+2021-01-27 16:55:47,779 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 38 occurrences of value 6/9/2017
+2021-01-27 16:55:47,779 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 7/27/2018
+2021-01-27 16:55:47,780 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 4/14/2017
+2021-01-27 16:55:47,781 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 6/28/2018
+2021-01-27 16:55:47,782 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 6/16/2017
+2021-01-27 16:55:47,783 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 4/25/2018
+2021-01-27 16:55:47,784 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 4/27/2018
+2021-01-27 16:55:47,785 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 3/30/2017
+2021-01-27 16:55:47,785 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 5/19/2017
+2021-01-27 16:55:47,786 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 3/16/2018
+2021-01-27 16:55:47,787 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2/24/2017
+2021-01-27 16:55:47,788 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 11/25/2016
+2021-01-27 16:55:47,788 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 10/5/2017
+2021-01-27 16:55:47,789 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 12/22/2017
+2021-01-27 16:55:47,790 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 9/15/2017
+2021-01-27 16:55:47,790 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 11/20/2017
+2021-01-27 16:55:47,791 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 8/17/2018
+2021-01-27 16:55:47,792 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 5/10/2018
+2021-01-27 16:55:47,793 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 10/28/2016
+2021-01-27 16:55:47,793 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 6/15/2018
+2021-01-27 16:55:47,794 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 10/27/2017
+2021-01-27 16:55:47,795 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 6/23/2017
+2021-01-27 16:55:47,796 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 2/16/2018
+2021-01-27 16:55:47,796 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2/23/2018
+2021-01-27 16:55:47,797 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 8/10/2018
+2021-01-27 16:55:47,798 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 5/20/2016
+2021-01-27 16:55:47,798 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 10/26/2018
+2021-01-27 16:55:47,799 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 5/18/2018
+2021-01-27 16:55:47,800 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 12/7/2018
+2021-01-27 16:55:47,801 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 7/25/2017
+2021-01-27 16:55:47,802 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2/17/2017
+2021-01-27 16:55:47,802 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 11/17/2017
+2021-01-27 16:55:59,210 [WARNING]  Test set does not contain any ocurrences of values [2/17/2017] in column [Planned_Delivery_End_Date], consider using a more representative test set.
+2021-01-27 16:55:59,218 [INFO]  
+========== start: fit model
+2021-01-27 16:55:59,219 [WARNING]  Already bound, ignoring bind()
+2021-01-27 16:56:07,176 [INFO]  Epoch[0] Batch [0-250]	Speed: 508.10 samples/sec	cross-entropy=3.168766	Planned_Delivery_End_Date-accuracy=0.181773
+2021-01-27 16:56:15,152 [INFO]  Epoch[0] Train-cross-entropy=2.843228
+2021-01-27 16:56:15,153 [INFO]  Epoch[0] Train-Planned_Delivery_End_Date-accuracy=0.228206
+2021-01-27 16:56:15,154 [INFO]  Epoch[0] Time cost=15.932
+2021-01-27 16:56:15,176 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0000.params"
+2021-01-27 16:56:15,756 [INFO]  Epoch[0] Validation-cross-entropy=2.296868
+2021-01-27 16:56:15,757 [INFO]  Epoch[0] Validation-Planned_Delivery_End_Date-accuracy=0.328947
+2021-01-27 16:56:23,941 [INFO]  Epoch[1] Batch [0-250]	Speed: 490.96 samples/sec	cross-entropy=2.207313	Planned_Delivery_End_Date-accuracy=0.342629
+2021-01-27 16:56:31,843 [INFO]  Epoch[1] Train-cross-entropy=2.138327
+2021-01-27 16:56:31,844 [INFO]  Epoch[1] Train-Planned_Delivery_End_Date-accuracy=0.369739
+2021-01-27 16:56:31,845 [INFO]  Epoch[1] Time cost=16.087
+2021-01-27 16:56:31,868 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0001.params"
+2021-01-27 16:56:32,449 [INFO]  Epoch[1] Validation-cross-entropy=2.013645
+2021-01-27 16:56:32,450 [INFO]  Epoch[1] Validation-Planned_Delivery_End_Date-accuracy=0.433114
+2021-01-27 16:56:40,483 [INFO]  Epoch[2] Batch [0-250]	Speed: 499.78 samples/sec	cross-entropy=1.891836	Planned_Delivery_End_Date-accuracy=0.454183
+2021-01-27 16:56:48,425 [INFO]  Epoch[2] Train-cross-entropy=1.845195
+2021-01-27 16:56:48,426 [INFO]  Epoch[2] Train-Planned_Delivery_End_Date-accuracy=0.469439
+2021-01-27 16:56:48,427 [INFO]  Epoch[2] Time cost=15.976
+2021-01-27 16:56:48,455 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0002.params"
+2021-01-27 16:56:49,139 [INFO]  Epoch[2] Validation-cross-entropy=1.835162
+2021-01-27 16:56:49,140 [INFO]  Epoch[2] Validation-Planned_Delivery_End_Date-accuracy=0.471491
+2021-01-27 16:56:57,725 [INFO]  Epoch[3] Batch [0-250]	Speed: 467.93 samples/sec	cross-entropy=1.663893	Planned_Delivery_End_Date-accuracy=0.525896
+2021-01-27 16:57:06,136 [INFO]  Epoch[3] Train-cross-entropy=1.628200
+2021-01-27 16:57:06,138 [INFO]  Epoch[3] Train-Planned_Delivery_End_Date-accuracy=0.541708
+2021-01-27 16:57:06,138 [INFO]  Epoch[3] Time cost=16.996
+2021-01-27 16:57:06,159 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0003.params"
+2021-01-27 16:57:06,799 [INFO]  Epoch[3] Validation-cross-entropy=1.705027
+2021-01-27 16:57:06,801 [INFO]  Epoch[3] Validation-Planned_Delivery_End_Date-accuracy=0.516447
+2021-01-27 16:57:15,392 [INFO]  Epoch[4] Batch [0-250]	Speed: 467.71 samples/sec	cross-entropy=1.485482	Planned_Delivery_End_Date-accuracy=0.584412
+2021-01-27 16:57:23,990 [INFO]  Epoch[4] Train-cross-entropy=1.458152
+2021-01-27 16:57:23,991 [INFO]  Epoch[4] Train-Planned_Delivery_End_Date-accuracy=0.593687
+2021-01-27 16:57:23,992 [INFO]  Epoch[4] Time cost=17.189
+2021-01-27 16:57:24,013 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0004.params"
+2021-01-27 16:57:24,626 [INFO]  Epoch[4] Validation-cross-entropy=1.605165
+2021-01-27 16:57:24,627 [INFO]  Epoch[4] Validation-Planned_Delivery_End_Date-accuracy=0.540570
+2021-01-27 16:57:33,066 [INFO]  Epoch[5] Batch [0-250]	Speed: 475.67 samples/sec	cross-entropy=1.341989	Planned_Delivery_End_Date-accuracy=0.632470
+2021-01-27 16:57:41,354 [INFO]  Epoch[5] Train-cross-entropy=1.318676
+2021-01-27 16:57:41,355 [INFO]  Epoch[5] Train-Planned_Delivery_End_Date-accuracy=0.641157
+2021-01-27 16:57:41,356 [INFO]  Epoch[5] Time cost=16.728
+2021-01-27 16:57:41,377 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0005.params"
+2021-01-27 16:57:41,998 [INFO]  Epoch[5] Validation-cross-entropy=1.523460
+2021-01-27 16:57:41,999 [INFO]  Epoch[5] Validation-Planned_Delivery_End_Date-accuracy=0.564693
+2021-01-27 16:57:50,327 [INFO]  Epoch[6] Batch [0-250]	Speed: 482.09 samples/sec	cross-entropy=1.219754	Planned_Delivery_End_Date-accuracy=0.670319
+2021-01-27 16:57:58,552 [INFO]  Epoch[6] Train-cross-entropy=1.200614
+2021-01-27 16:57:58,554 [INFO]  Epoch[6] Train-Planned_Delivery_End_Date-accuracy=0.677104
+2021-01-27 16:57:58,556 [INFO]  Epoch[6] Time cost=16.557
+2021-01-27 16:57:58,582 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0006.params"
+2021-01-27 16:57:59,197 [INFO]  Epoch[6] Validation-cross-entropy=1.455133
+2021-01-27 16:57:59,198 [INFO]  Epoch[6] Validation-Planned_Delivery_End_Date-accuracy=0.589912
+2021-01-27 16:58:07,524 [INFO]  Epoch[7] Batch [0-250]	Speed: 482.89 samples/sec	cross-entropy=1.114336	Planned_Delivery_End_Date-accuracy=0.704681
+2021-01-27 16:58:15,556 [INFO]  Epoch[7] Train-cross-entropy=1.099126
+2021-01-27 16:58:15,558 [INFO]  Epoch[7] Train-Planned_Delivery_End_Date-accuracy=0.712049
+2021-01-27 16:58:15,559 [INFO]  Epoch[7] Time cost=16.360
+2021-01-27 16:58:15,581 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0007.params"
+2021-01-27 16:58:16,184 [INFO]  Epoch[7] Validation-cross-entropy=1.402183
+2021-01-27 16:58:16,186 [INFO]  Epoch[7] Validation-Planned_Delivery_End_Date-accuracy=0.596491
+2021-01-27 16:58:24,650 [INFO]  Epoch[8] Batch [0-250]	Speed: 474.26 samples/sec	cross-entropy=1.026363	Planned_Delivery_End_Date-accuracy=0.736305
+2021-01-27 16:58:32,863 [INFO]  Epoch[8] Train-cross-entropy=1.013461
+2021-01-27 16:58:32,865 [INFO]  Epoch[8] Train-Planned_Delivery_End_Date-accuracy=0.740606
+2021-01-27 16:58:32,866 [INFO]  Epoch[8] Time cost=16.679
+2021-01-27 16:58:32,891 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0008.params"
+2021-01-27 16:58:33,487 [INFO]  Epoch[8] Validation-cross-entropy=1.354347
+2021-01-27 16:58:33,488 [INFO]  Epoch[8] Validation-Planned_Delivery_End_Date-accuracy=0.625000
+2021-01-27 16:58:42,039 [INFO]  Epoch[9] Batch [0-250]	Speed: 469.74 samples/sec	cross-entropy=0.950319	Planned_Delivery_End_Date-accuracy=0.758964
+2021-01-27 16:58:50,416 [INFO]  Epoch[9] Train-cross-entropy=0.936512
+2021-01-27 16:58:50,418 [INFO]  Epoch[9] Train-Planned_Delivery_End_Date-accuracy=0.764780
+2021-01-27 16:58:50,419 [INFO]  Epoch[9] Time cost=16.930
+2021-01-27 16:58:50,439 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0009.params"
+2021-01-27 16:58:51,019 [INFO]  Epoch[9] Validation-cross-entropy=1.316617
+2021-01-27 16:58:51,021 [INFO]  Epoch[9] Validation-Planned_Delivery_End_Date-accuracy=0.634868
+2021-01-27 16:58:59,120 [INFO]  Epoch[10] Batch [0-250]	Speed: 495.72 samples/sec	cross-entropy=0.880776	Planned_Delivery_End_Date-accuracy=0.780627
+2021-01-27 16:59:07,083 [INFO]  Epoch[10] Train-cross-entropy=0.868798
+2021-01-27 16:59:07,084 [INFO]  Epoch[10] Train-Planned_Delivery_End_Date-accuracy=0.785070
+2021-01-27 16:59:07,085 [INFO]  Epoch[10] Time cost=16.064
+2021-01-27 16:59:07,107 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0010.params"
+2021-01-27 16:59:07,754 [INFO]  Epoch[10] Validation-cross-entropy=1.283826
+2021-01-27 16:59:07,754 [INFO]  Epoch[10] Validation-Planned_Delivery_End_Date-accuracy=0.645833
+2021-01-27 16:59:16,049 [INFO]  Epoch[11] Batch [0-250]	Speed: 484.08 samples/sec	cross-entropy=0.813844	Planned_Delivery_End_Date-accuracy=0.799552
+2021-01-27 16:59:24,597 [INFO]  Epoch[11] Train-cross-entropy=0.807269
+2021-01-27 16:59:24,598 [INFO]  Epoch[11] Train-Planned_Delivery_End_Date-accuracy=0.802355
+2021-01-27 16:59:24,599 [INFO]  Epoch[11] Time cost=16.844
+2021-01-27 16:59:24,625 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0011.params"
+2021-01-27 16:59:25,233 [INFO]  Epoch[11] Validation-cross-entropy=1.251233
+2021-01-27 16:59:25,234 [INFO]  Epoch[11] Validation-Planned_Delivery_End_Date-accuracy=0.652412
+2021-01-27 16:59:33,908 [INFO]  Epoch[12] Batch [0-250]	Speed: 462.79 samples/sec	cross-entropy=0.764321	Planned_Delivery_End_Date-accuracy=0.814492
+2021-01-27 16:59:42,685 [INFO]  Epoch[12] Train-cross-entropy=0.755801
+2021-01-27 16:59:42,686 [INFO]  Epoch[12] Train-Planned_Delivery_End_Date-accuracy=0.817385
+2021-01-27 16:59:42,687 [INFO]  Epoch[12] Time cost=17.452
+2021-01-27 16:59:42,712 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0012.params"
+2021-01-27 16:59:43,409 [INFO]  Epoch[12] Validation-cross-entropy=1.229264
+2021-01-27 16:59:43,411 [INFO]  Epoch[12] Validation-Planned_Delivery_End_Date-accuracy=0.661184
+2021-01-27 16:59:52,321 [INFO]  Epoch[13] Batch [0-250]	Speed: 450.76 samples/sec	cross-entropy=0.712947	Planned_Delivery_End_Date-accuracy=0.830428
+2021-01-27 17:00:00,978 [INFO]  Epoch[13] Train-cross-entropy=0.709097
+2021-01-27 17:00:00,979 [INFO]  Epoch[13] Train-Planned_Delivery_End_Date-accuracy=0.831789
+2021-01-27 17:00:00,980 [INFO]  Epoch[13] Time cost=17.569
+2021-01-27 17:00:01,000 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0013.params"
+2021-01-27 17:00:01,553 [INFO]  Epoch[13] Validation-cross-entropy=1.197718
+2021-01-27 17:00:01,555 [INFO]  Epoch[13] Validation-Planned_Delivery_End_Date-accuracy=0.668860
+2021-01-27 17:00:10,302 [INFO]  Epoch[14] Batch [0-250]	Speed: 458.94 samples/sec	cross-entropy=0.665235	Planned_Delivery_End_Date-accuracy=0.844373
+2021-01-27 17:00:18,754 [INFO]  Epoch[14] Train-cross-entropy=0.660921
+2021-01-27 17:00:18,755 [INFO]  Epoch[14] Train-Planned_Delivery_End_Date-accuracy=0.844063
+2021-01-27 17:00:18,757 [INFO]  Epoch[14] Time cost=17.201
+2021-01-27 17:00:18,782 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0014.params"
+2021-01-27 17:00:19,409 [INFO]  Epoch[14] Validation-cross-entropy=1.180297
+2021-01-27 17:00:19,410 [INFO]  Epoch[14] Validation-Planned_Delivery_End_Date-accuracy=0.668860
+2021-01-27 17:00:28,082 [INFO]  Epoch[15] Batch [0-250]	Speed: 462.89 samples/sec	cross-entropy=0.626726	Planned_Delivery_End_Date-accuracy=0.857072
+2021-01-27 17:00:36,631 [INFO]  Epoch[15] Train-cross-entropy=0.622176
+2021-01-27 17:00:36,632 [INFO]  Epoch[15] Train-Planned_Delivery_End_Date-accuracy=0.855962
+2021-01-27 17:00:36,633 [INFO]  Epoch[15] Time cost=17.222
+2021-01-27 17:00:36,651 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0015.params"
+2021-01-27 17:00:37,239 [INFO]  Epoch[15] Validation-cross-entropy=1.164169
+2021-01-27 17:00:37,239 [INFO]  Epoch[15] Validation-Planned_Delivery_End_Date-accuracy=0.680921
+2021-01-27 17:00:46,128 [INFO]  Epoch[16] Batch [0-250]	Speed: 452.20 samples/sec	cross-entropy=0.590291	Planned_Delivery_End_Date-accuracy=0.866285
+2021-01-27 17:00:54,692 [INFO]  Epoch[16] Train-cross-entropy=0.586479
+2021-01-27 17:00:54,693 [INFO]  Epoch[16] Train-Planned_Delivery_End_Date-accuracy=0.865230
+2021-01-27 17:00:54,694 [INFO]  Epoch[16] Time cost=17.454
+2021-01-27 17:00:54,715 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0016.params"
+2021-01-27 17:00:55,320 [INFO]  Epoch[16] Validation-cross-entropy=1.157062
+2021-01-27 17:00:55,321 [INFO]  Epoch[16] Validation-Planned_Delivery_End_Date-accuracy=0.683114
+2021-01-27 17:01:04,274 [INFO]  Epoch[17] Batch [0-250]	Speed: 448.48 samples/sec	cross-entropy=0.558539	Planned_Delivery_End_Date-accuracy=0.875249
+2021-01-27 17:01:13,168 [INFO]  Epoch[17] Train-cross-entropy=0.554223
+2021-01-27 17:01:13,169 [INFO]  Epoch[17] Train-Planned_Delivery_End_Date-accuracy=0.873497
+2021-01-27 17:01:13,170 [INFO]  Epoch[17] Time cost=17.848
+2021-01-27 17:01:13,194 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0017.params"
+2021-01-27 17:01:13,789 [INFO]  Epoch[17] Validation-cross-entropy=1.135973
+2021-01-27 17:01:13,790 [INFO]  Epoch[17] Validation-Planned_Delivery_End_Date-accuracy=0.682018
+2021-01-27 17:01:22,572 [INFO]  Epoch[18] Batch [0-250]	Speed: 457.66 samples/sec	cross-entropy=0.528907	Planned_Delivery_End_Date-accuracy=0.881723
+2021-01-27 17:01:31,437 [INFO]  Epoch[18] Train-cross-entropy=0.524561
+2021-01-27 17:01:31,439 [INFO]  Epoch[18] Train-Planned_Delivery_End_Date-accuracy=0.883267
+2021-01-27 17:01:31,440 [INFO]  Epoch[18] Time cost=17.649
+2021-01-27 17:01:31,465 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0018.params"
+2021-01-27 17:01:32,025 [INFO]  Epoch[18] Validation-cross-entropy=1.136870
+2021-01-27 17:01:32,026 [INFO]  Epoch[18] Validation-Planned_Delivery_End_Date-accuracy=0.682018
+2021-01-27 17:01:40,997 [INFO]  Epoch[19] Batch [0-250]	Speed: 447.99 samples/sec	cross-entropy=0.505979	Planned_Delivery_End_Date-accuracy=0.884213
+2021-01-27 17:01:50,082 [INFO]  Epoch[19] Train-cross-entropy=0.499075
+2021-01-27 17:01:50,084 [INFO]  Epoch[19] Train-Planned_Delivery_End_Date-accuracy=0.888026
+2021-01-27 17:01:50,085 [INFO]  Epoch[19] Time cost=18.058
+2021-01-27 17:01:50,109 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0019.params"
+2021-01-27 17:01:50,756 [INFO]  Epoch[19] Validation-cross-entropy=1.134976
+2021-01-27 17:01:50,758 [INFO]  Epoch[19] Validation-Planned_Delivery_End_Date-accuracy=0.688596
+2021-01-27 17:02:00,046 [INFO]  Epoch[20] Batch [0-250]	Speed: 432.28 samples/sec	cross-entropy=0.479089	Planned_Delivery_End_Date-accuracy=0.892181
+2021-01-27 17:02:08,716 [INFO]  Epoch[20] Train-cross-entropy=0.474194
+2021-01-27 17:02:08,718 [INFO]  Epoch[20] Train-Planned_Delivery_End_Date-accuracy=0.894664
+2021-01-27 17:02:08,719 [INFO]  Epoch[20] Time cost=17.960
+2021-01-27 17:02:08,740 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0020.params"
+2021-01-27 17:02:09,329 [INFO]  Epoch[20] Validation-cross-entropy=1.125771
+2021-01-27 17:02:09,331 [INFO]  Epoch[20] Validation-Planned_Delivery_End_Date-accuracy=0.686404
+2021-01-27 17:02:18,405 [INFO]  Epoch[21] Batch [0-250]	Speed: 442.72 samples/sec	cross-entropy=0.448338	Planned_Delivery_End_Date-accuracy=0.897908
+2021-01-27 17:02:27,249 [INFO]  Epoch[21] Train-cross-entropy=0.445480
+2021-01-27 17:02:27,250 [INFO]  Epoch[21] Train-Planned_Delivery_End_Date-accuracy=0.900927
+2021-01-27 17:02:27,251 [INFO]  Epoch[21] Time cost=17.919
+2021-01-27 17:02:27,272 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0021.params"
+2021-01-27 17:02:27,908 [INFO]  Epoch[21] Validation-cross-entropy=1.122427
+2021-01-27 17:02:27,910 [INFO]  Epoch[21] Validation-Planned_Delivery_End_Date-accuracy=0.695175
+2021-01-27 17:02:37,121 [INFO]  Epoch[22] Batch [0-250]	Speed: 436.17 samples/sec	cross-entropy=0.424483	Planned_Delivery_End_Date-accuracy=0.907869
+2021-01-27 17:02:45,985 [INFO]  Epoch[22] Train-cross-entropy=0.423329
+2021-01-27 17:02:45,987 [INFO]  Epoch[22] Train-Planned_Delivery_End_Date-accuracy=0.907565
+2021-01-27 17:02:45,988 [INFO]  Epoch[22] Time cost=18.078
+2021-01-27 17:02:46,014 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0022.params"
+2021-01-27 17:02:46,591 [INFO]  Epoch[22] Validation-cross-entropy=1.120148
+2021-01-27 17:02:46,592 [INFO]  Epoch[22] Validation-Planned_Delivery_End_Date-accuracy=0.697368
+2021-01-27 17:02:55,796 [INFO]  Epoch[23] Batch [0-250]	Speed: 436.60 samples/sec	cross-entropy=0.415115	Planned_Delivery_End_Date-accuracy=0.911853
+2021-01-27 17:03:04,801 [INFO]  Epoch[23] Train-cross-entropy=0.409992
+2021-01-27 17:03:04,802 [INFO]  Epoch[23] Train-Planned_Delivery_End_Date-accuracy=0.910822
+2021-01-27 17:03:04,803 [INFO]  Epoch[23] Time cost=18.210
+2021-01-27 17:03:04,827 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0023.params"
+2021-01-27 17:03:05,443 [INFO]  Epoch[23] Validation-cross-entropy=1.105801
+2021-01-27 17:03:05,444 [INFO]  Epoch[23] Validation-Planned_Delivery_End_Date-accuracy=0.699561
+2021-01-27 17:03:14,290 [INFO]  Epoch[24] Batch [0-250]	Speed: 453.91 samples/sec	cross-entropy=0.389415	Planned_Delivery_End_Date-accuracy=0.919821
+2021-01-27 17:03:23,332 [INFO]  Epoch[24] Train-cross-entropy=0.385828
+2021-01-27 17:03:23,333 [INFO]  Epoch[24] Train-Planned_Delivery_End_Date-accuracy=0.918838
+2021-01-27 17:03:23,334 [INFO]  Epoch[24] Time cost=17.889
+2021-01-27 17:03:23,355 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0024.params"
+2021-01-27 17:03:24,009 [INFO]  Epoch[24] Validation-cross-entropy=1.105836
+2021-01-27 17:03:24,010 [INFO]  Epoch[24] Validation-Planned_Delivery_End_Date-accuracy=0.701754
+2021-01-27 17:03:33,123 [INFO]  Epoch[25] Batch [0-250]	Speed: 440.62 samples/sec	cross-entropy=0.368228	Planned_Delivery_End_Date-accuracy=0.924801
+2021-01-27 17:03:42,253 [INFO]  Epoch[25] Train-cross-entropy=0.366468
+2021-01-27 17:03:42,255 [INFO]  Epoch[25] Train-Planned_Delivery_End_Date-accuracy=0.923597
+2021-01-27 17:03:42,255 [INFO]  Epoch[25] Time cost=18.244
+2021-01-27 17:03:42,277 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0025.params"
+2021-01-27 17:03:42,874 [INFO]  Epoch[25] Validation-cross-entropy=1.107660
+2021-01-27 17:03:42,875 [INFO]  Epoch[25] Validation-Planned_Delivery_End_Date-accuracy=0.706140
+2021-01-27 17:03:52,013 [INFO]  Epoch[26] Batch [0-250]	Speed: 440.01 samples/sec	cross-entropy=0.360435	Planned_Delivery_End_Date-accuracy=0.927789
+2021-01-27 17:04:00,990 [INFO]  Epoch[26] Train-cross-entropy=0.355819
+2021-01-27 17:04:00,991 [INFO]  Epoch[26] Train-Planned_Delivery_End_Date-accuracy=0.926478
+2021-01-27 17:04:00,992 [INFO]  Epoch[26] Time cost=18.116
+2021-01-27 17:04:01,014 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0026.params"
+2021-01-27 17:04:01,548 [INFO]  Epoch[26] Validation-cross-entropy=1.105552
+2021-01-27 17:04:01,550 [INFO]  Epoch[26] Validation-Planned_Delivery_End_Date-accuracy=0.707237
+2021-01-27 17:04:10,769 [INFO]  Epoch[27] Batch [0-250]	Speed: 435.49 samples/sec	cross-entropy=0.341439	Planned_Delivery_End_Date-accuracy=0.927540
+2021-01-27 17:04:20,290 [INFO]  Epoch[27] Train-cross-entropy=0.339758
+2021-01-27 17:04:20,292 [INFO]  Epoch[27] Train-Planned_Delivery_End_Date-accuracy=0.928732
+2021-01-27 17:04:20,293 [INFO]  Epoch[27] Time cost=18.743
+2021-01-27 17:04:20,312 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0027.params"
+2021-01-27 17:04:20,904 [INFO]  Epoch[27] Validation-cross-entropy=1.100418
+2021-01-27 17:04:20,905 [INFO]  Epoch[27] Validation-Planned_Delivery_End_Date-accuracy=0.709430
+2021-01-27 17:04:30,317 [INFO]  Epoch[28] Batch [0-250]	Speed: 426.97 samples/sec	cross-entropy=0.327454	Planned_Delivery_End_Date-accuracy=0.934263
+2021-01-27 17:04:39,550 [INFO]  Epoch[28] Train-cross-entropy=0.323481
+2021-01-27 17:04:39,552 [INFO]  Epoch[28] Train-Planned_Delivery_End_Date-accuracy=0.933742
+2021-01-27 17:04:39,553 [INFO]  Epoch[28] Time cost=18.647
+2021-01-27 17:04:39,577 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0028.params"
+2021-01-27 17:04:40,248 [INFO]  Epoch[28] Validation-cross-entropy=1.102752
+2021-01-27 17:04:40,250 [INFO]  Epoch[28] Validation-Planned_Delivery_End_Date-accuracy=0.710526
+2021-01-27 17:04:49,591 [INFO]  Epoch[29] Batch [0-250]	Speed: 430.23 samples/sec	cross-entropy=0.309586	Planned_Delivery_End_Date-accuracy=0.938745
+2021-01-27 17:04:59,114 [INFO]  Epoch[29] Train-cross-entropy=0.308087
+2021-01-27 17:04:59,115 [INFO]  Epoch[29] Train-Planned_Delivery_End_Date-accuracy=0.938502
+2021-01-27 17:04:59,116 [INFO]  Epoch[29] Time cost=18.865
+2021-01-27 17:04:59,137 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0029.params"
+2021-01-27 17:04:59,694 [INFO]  Epoch[29] Validation-cross-entropy=1.102983
+2021-01-27 17:04:59,695 [INFO]  Epoch[29] Validation-Planned_Delivery_End_Date-accuracy=0.709430
+2021-01-27 17:05:09,406 [INFO]  Epoch[30] Batch [0-250]	Speed: 413.70 samples/sec	cross-entropy=0.296767	Planned_Delivery_End_Date-accuracy=0.942729
+2021-01-27 17:05:19,301 [INFO]  Epoch[30] Train-cross-entropy=0.299534
+2021-01-27 17:05:19,302 [INFO]  Epoch[30] Train-Planned_Delivery_End_Date-accuracy=0.941132
+2021-01-27 17:05:19,303 [INFO]  Epoch[30] Time cost=19.607
+2021-01-27 17:05:19,325 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0030.params"
+2021-01-27 17:05:19,941 [INFO]  Epoch[30] Validation-cross-entropy=1.091279
+2021-01-27 17:05:19,942 [INFO]  Epoch[30] Validation-Planned_Delivery_End_Date-accuracy=0.712719
+2021-01-27 17:05:29,525 [INFO]  Epoch[31] Batch [0-250]	Speed: 419.25 samples/sec	cross-entropy=0.295427	Planned_Delivery_End_Date-accuracy=0.942729
+2021-01-27 17:05:39,592 [INFO]  Epoch[31] Train-cross-entropy=0.288654
+2021-01-27 17:05:39,593 [INFO]  Epoch[31] Train-Planned_Delivery_End_Date-accuracy=0.943763
+2021-01-27 17:05:39,594 [INFO]  Epoch[31] Time cost=19.652
+2021-01-27 17:05:39,616 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0031.params"
+2021-01-27 17:05:40,222 [INFO]  Epoch[31] Validation-cross-entropy=1.100205
+2021-01-27 17:05:40,223 [INFO]  Epoch[31] Validation-Planned_Delivery_End_Date-accuracy=0.708333
+2021-01-27 17:05:50,256 [INFO]  Epoch[32] Batch [0-250]	Speed: 400.28 samples/sec	cross-entropy=0.272926	Planned_Delivery_End_Date-accuracy=0.945966
+2021-01-27 17:06:00,562 [INFO]  Epoch[32] Train-cross-entropy=0.272036
+2021-01-27 17:06:00,562 [INFO]  Epoch[32] Train-Planned_Delivery_End_Date-accuracy=0.946518
+2021-01-27 17:06:00,564 [INFO]  Epoch[32] Time cost=20.340
+2021-01-27 17:06:00,586 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0032.params"
+2021-01-27 17:06:01,174 [INFO]  Epoch[32] Validation-cross-entropy=1.099010
+2021-01-27 17:06:01,175 [INFO]  Epoch[32] Validation-Planned_Delivery_End_Date-accuracy=0.711623
+2021-01-27 17:06:11,303 [INFO]  Epoch[33] Batch [0-250]	Speed: 396.34 samples/sec	cross-entropy=0.262699	Planned_Delivery_End_Date-accuracy=0.951942
+2021-01-27 17:06:22,283 [INFO]  Epoch[33] Train-cross-entropy=0.260873
+2021-01-27 17:06:22,285 [INFO]  Epoch[33] Train-Planned_Delivery_End_Date-accuracy=0.951779
+2021-01-27 17:06:22,286 [INFO]  Epoch[33] Time cost=21.110
+2021-01-27 17:06:22,307 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0033.params"
+2021-01-27 17:06:22,876 [INFO]  Epoch[33] Validation-cross-entropy=1.105097
+2021-01-27 17:06:22,878 [INFO]  Epoch[33] Validation-Planned_Delivery_End_Date-accuracy=0.713816
+2021-01-27 17:06:33,363 [INFO]  Epoch[34] Batch [0-250]	Speed: 382.82 samples/sec	cross-entropy=0.251127	Planned_Delivery_End_Date-accuracy=0.953187
+2021-01-27 17:06:43,631 [INFO]  Epoch[34] Train-cross-entropy=0.250964
+2021-01-27 17:06:43,632 [INFO]  Epoch[34] Train-Planned_Delivery_End_Date-accuracy=0.952906
+2021-01-27 17:06:43,633 [INFO]  Epoch[34] Time cost=20.755
+2021-01-27 17:06:43,653 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0034.params"
+2021-01-27 17:06:44,201 [INFO]  Epoch[34] Validation-cross-entropy=1.114314
+2021-01-27 17:06:44,202 [INFO]  Epoch[34] Validation-Planned_Delivery_End_Date-accuracy=0.716009
+2021-01-27 17:06:54,743 [INFO]  Epoch[35] Batch [0-250]	Speed: 380.83 samples/sec	cross-entropy=0.246212	Planned_Delivery_End_Date-accuracy=0.954183
+2021-01-27 17:07:05,491 [INFO]  Epoch[35] Train-cross-entropy=0.242830
+2021-01-27 17:07:05,493 [INFO]  Epoch[35] Train-Planned_Delivery_End_Date-accuracy=0.955035
+2021-01-27 17:07:05,493 [INFO]  Epoch[35] Time cost=21.289
+2021-01-27 17:07:05,517 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0035.params"
+2021-01-27 17:07:06,092 [INFO]  No improvement detected for 5 epochs compared to 1.0912788824031228 last error obtained: 1.1160018078067846, stopping here
+2021-01-27 17:07:06,093 [INFO]  
+========== done (666.8757836818695 s) fit model
+2021-01-27 17:18:15,532 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 96 occurrences of value 2017-12-29 00:00:00
+2021-01-27 17:18:15,532 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 96 occurrences of value 2017-12-29 00:00:00
+2021-01-27 17:18:15,534 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 96 occurrences of value 2017-10-31 00:00:00
+2021-01-27 17:18:15,534 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 96 occurrences of value 2017-10-31 00:00:00
+2021-01-27 17:18:15,534 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 88 occurrences of value 2016-12-31 00:00:00
+2021-01-27 17:18:15,534 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 88 occurrences of value 2016-12-31 00:00:00
+2021-01-27 17:18:15,535 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 82 occurrences of value 2018-06-30 00:00:00
+2021-01-27 17:18:15,535 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 82 occurrences of value 2018-06-30 00:00:00
+2021-01-27 17:18:15,536 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 80 occurrences of value 2018-03-31 00:00:00
+2021-01-27 17:18:15,536 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 80 occurrences of value 2018-03-31 00:00:00
+2021-01-27 17:18:15,537 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 80 occurrences of value 2017-07-31 00:00:00
+2021-01-27 17:18:15,537 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 80 occurrences of value 2017-07-31 00:00:00
+2021-01-27 17:18:15,537 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 79 occurrences of value 2016-07-31 00:00:00
+2021-01-27 17:18:15,537 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 79 occurrences of value 2016-07-31 00:00:00
+2021-01-27 17:18:15,538 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 73 occurrences of value 2018-09-30 00:00:00
+2021-01-27 17:18:15,538 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 73 occurrences of value 2018-09-30 00:00:00
+2021-01-27 17:18:15,539 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 69 occurrences of value 2016-11-30 00:00:00
+2021-01-27 17:18:15,539 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 69 occurrences of value 2016-11-30 00:00:00
+2021-01-27 17:18:15,540 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 67 occurrences of value 2017-02-28 00:00:00
+2021-01-27 17:18:15,540 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 67 occurrences of value 2017-02-28 00:00:00
+2021-01-27 17:18:15,540 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 65 occurrences of value 2017-12-15 00:00:00
+2021-01-27 17:18:15,540 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 65 occurrences of value 2017-12-15 00:00:00
+2021-01-27 17:18:15,542 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2018-11-16 00:00:00
+2021-01-27 17:18:15,542 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2018-11-16 00:00:00
+2021-01-27 17:18:15,542 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2017-12-11 00:00:00
+2021-01-27 17:18:15,542 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2017-12-11 00:00:00
+2021-01-27 17:18:15,543 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 59 occurrences of value 2019-03-31 00:00:00
+2021-01-27 17:18:15,543 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 59 occurrences of value 2019-03-31 00:00:00
+2021-01-27 17:18:15,543 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 2018-04-02 00:00:00
+2021-01-27 17:18:15,543 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 2018-04-02 00:00:00
+2021-01-27 17:18:15,544 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 2018-12-21 00:00:00
+2021-01-27 17:18:15,544 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 2018-12-21 00:00:00
+2021-01-27 17:18:15,545 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2016-10-31 00:00:00
+2021-01-27 17:18:15,545 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2016-10-31 00:00:00
+2021-01-27 17:18:15,545 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2017-04-07 00:00:00
+2021-01-27 17:18:15,545 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2017-04-07 00:00:00
+2021-01-27 17:18:15,546 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2017-08-25 00:00:00
+2021-01-27 17:18:15,546 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2017-08-25 00:00:00
+2021-01-27 17:18:15,548 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 2017-07-28 00:00:00
+2021-01-27 17:18:15,548 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 2017-07-28 00:00:00
+2021-01-27 17:18:15,549 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 54 occurrences of value 2017-04-28 00:00:00
+2021-01-27 17:18:15,549 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 54 occurrences of value 2017-04-28 00:00:00
+2021-01-27 17:18:15,550 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 2017-01-31 00:00:00
+2021-01-27 17:18:15,550 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 2017-01-31 00:00:00
+2021-01-27 17:18:15,551 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 52 occurrences of value 2016-11-18 00:00:00
+2021-01-27 17:18:15,551 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 52 occurrences of value 2016-11-18 00:00:00
+2021-01-27 17:18:15,552 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 2017-07-14 00:00:00
+2021-01-27 17:18:15,552 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 2017-07-14 00:00:00
+2021-01-27 17:18:15,553 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 2017-05-15 00:00:00
+2021-01-27 17:18:15,553 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 2017-05-15 00:00:00
+2021-01-27 17:18:15,553 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2016-12-30 00:00:00
+2021-01-27 17:18:15,553 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2016-12-30 00:00:00
+2021-01-27 17:18:15,554 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2019-03-29 00:00:00
+2021-01-27 17:18:15,554 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2019-03-29 00:00:00
+2021-01-27 17:18:15,555 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2017-05-12 00:00:00
+2021-01-27 17:18:15,555 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2017-05-12 00:00:00
+2021-01-27 17:18:15,556 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 2018-06-22 00:00:00
+2021-01-27 17:18:15,556 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 2018-06-22 00:00:00
+2021-01-27 17:18:15,556 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 2017-02-20 00:00:00
+2021-01-27 17:18:15,556 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 2017-02-20 00:00:00
+2021-01-27 17:18:15,557 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2018-12-14 00:00:00
+2021-01-27 17:18:15,557 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2018-12-14 00:00:00
+2021-01-27 17:18:15,558 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2017-12-19 00:00:00
+2021-01-27 17:18:15,558 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2017-12-19 00:00:00
+2021-01-27 17:18:15,559 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2017-12-04 00:00:00
+2021-01-27 17:18:15,559 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2017-12-04 00:00:00
+2021-01-27 17:18:15,560 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 45 occurrences of value 2017-02-03 00:00:00
+2021-01-27 17:18:15,560 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 45 occurrences of value 2017-02-03 00:00:00
+2021-01-27 17:18:15,561 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 2017-01-27 00:00:00
+2021-01-27 17:18:15,561 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 2017-01-27 00:00:00
+2021-01-27 17:18:15,561 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 42 occurrences of value 2017-09-08 00:00:00
+2021-01-27 17:18:15,561 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 42 occurrences of value 2017-09-08 00:00:00
+2021-01-27 17:18:15,562 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2018-03-16 00:00:00
+2021-01-27 17:18:15,562 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2018-03-16 00:00:00
+2021-01-27 17:18:15,563 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2017-07-21 00:00:00
+2021-01-27 17:18:15,563 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2017-07-21 00:00:00
+2021-01-27 17:18:15,563 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2017-05-26 00:00:00
+2021-01-27 17:18:15,563 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2017-05-26 00:00:00
+2021-01-27 17:18:15,564 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2017-07-07 00:00:00
+2021-01-27 17:18:15,564 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2017-07-07 00:00:00
+2021-01-27 17:18:15,565 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2017-06-09 00:00:00
+2021-01-27 17:18:15,565 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2017-06-09 00:00:00
+2021-01-27 17:18:15,566 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2018-06-28 00:00:00
+2021-01-27 17:18:15,566 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2018-06-28 00:00:00
+2021-01-27 17:18:15,567 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 38 occurrences of value 2017-03-30 00:00:00
+2021-01-27 17:18:15,567 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 38 occurrences of value 2017-03-30 00:00:00
+2021-01-27 17:18:15,567 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2018-06-15 00:00:00
+2021-01-27 17:18:15,567 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2018-06-15 00:00:00
+2021-01-27 17:18:15,568 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2018-07-27 00:00:00
+2021-01-27 17:18:15,568 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2018-07-27 00:00:00
+2021-01-27 17:18:15,569 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-10-13 00:00:00
+2021-01-27 17:18:15,569 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-10-13 00:00:00
+2021-01-27 17:18:15,570 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-04-14 00:00:00
+2021-01-27 17:18:15,570 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-04-14 00:00:00
+2021-01-27 17:18:15,571 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-12-22 00:00:00
+2021-01-27 17:18:15,571 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-12-22 00:00:00
+2021-01-27 17:18:15,572 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-10-05 00:00:00
+2021-01-27 17:18:15,572 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-10-05 00:00:00
+2021-01-27 17:18:15,573 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-02-24 00:00:00
+2021-01-27 17:18:15,573 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-02-24 00:00:00
+2021-01-27 17:18:15,573 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-06-23 00:00:00
+2021-01-27 17:18:15,573 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-06-23 00:00:00
+2021-01-27 17:18:15,575 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2018-10-26 00:00:00
+2021-01-27 17:18:15,575 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2018-10-26 00:00:00
+2021-01-27 17:18:15,575 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-06-16 00:00:00
+2021-01-27 17:18:15,575 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-06-16 00:00:00
+2021-01-27 17:18:15,576 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-11-17 00:00:00
+2021-01-27 17:18:15,576 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-11-17 00:00:00
+2021-01-27 17:18:15,577 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-05-10 00:00:00
+2021-01-27 17:18:15,577 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-05-10 00:00:00
+2021-01-27 17:18:15,577 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-11-20 00:00:00
+2021-01-27 17:18:15,577 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-11-20 00:00:00
+2021-01-27 17:18:15,578 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-04-27 00:00:00
+2021-01-27 17:18:15,578 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-04-27 00:00:00
+2021-01-27 17:18:15,579 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-10-27 00:00:00
+2021-01-27 17:18:15,579 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-10-27 00:00:00
+2021-01-27 17:18:15,580 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-02-16 00:00:00
+2021-01-27 17:18:15,580 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-02-16 00:00:00
+2021-01-27 17:18:15,580 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2016-10-28 00:00:00
+2021-01-27 17:18:15,580 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2016-10-28 00:00:00
+2021-01-27 17:18:15,581 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 2018-04-25 00:00:00
+2021-01-27 17:18:15,581 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 2018-04-25 00:00:00
+2021-01-27 17:18:15,582 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2018-08-17 00:00:00
+2021-01-27 17:18:15,582 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2018-08-17 00:00:00
+2021-01-27 17:18:15,583 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2018-02-01 00:00:00
+2021-01-27 17:18:15,583 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2018-02-01 00:00:00
+2021-01-27 17:18:15,583 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2017-05-19 00:00:00
+2021-01-27 17:18:15,583 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2017-05-19 00:00:00
+2021-01-27 17:18:15,584 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2017-09-15 00:00:00
+2021-01-27 17:18:15,584 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2017-09-15 00:00:00
+2021-01-27 17:18:15,585 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2017-10-20 00:00:00
+2021-01-27 17:18:15,585 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2017-10-20 00:00:00
+2021-01-27 17:18:15,586 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2017-10-18 00:00:00
+2021-01-27 17:18:15,586 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2017-10-18 00:00:00
+2021-01-27 17:18:15,586 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2016-11-25 00:00:00
+2021-01-27 17:18:15,586 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2016-11-25 00:00:00
+2021-01-27 17:18:15,587 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2018-12-28 00:00:00
+2021-01-27 17:18:15,587 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2018-12-28 00:00:00
+2021-01-27 17:18:15,588 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2018-12-10 00:00:00
+2021-01-27 17:18:15,588 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2018-12-10 00:00:00
+2021-01-27 17:18:15,589 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2018-05-18 00:00:00
+2021-01-27 17:18:15,589 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2018-05-18 00:00:00
+2021-01-27 17:18:15,590 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2017-09-22 00:00:00
+2021-01-27 17:18:15,590 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2017-09-22 00:00:00
+2021-01-27 17:18:15,591 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2019-01-31 00:00:00
+2021-01-27 17:18:15,591 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2019-01-31 00:00:00
+2021-01-27 17:18:57,605 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 96 occurrences of value 2017-12-29 00:00:00
+2021-01-27 17:18:57,606 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 96 occurrences of value 2017-10-31 00:00:00
+2021-01-27 17:18:57,607 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 88 occurrences of value 2016-12-31 00:00:00
+2021-01-27 17:18:57,607 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 82 occurrences of value 2018-06-30 00:00:00
+2021-01-27 17:18:57,608 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 80 occurrences of value 2018-03-31 00:00:00
+2021-01-27 17:18:57,609 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 80 occurrences of value 2017-07-31 00:00:00
+2021-01-27 17:18:57,610 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 79 occurrences of value 2016-07-31 00:00:00
+2021-01-27 17:18:57,611 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 73 occurrences of value 2018-09-30 00:00:00
+2021-01-27 17:18:57,612 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 69 occurrences of value 2016-11-30 00:00:00
+2021-01-27 17:18:57,613 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 67 occurrences of value 2017-02-28 00:00:00
+2021-01-27 17:18:57,614 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 65 occurrences of value 2017-12-15 00:00:00
+2021-01-27 17:18:57,615 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2018-11-16 00:00:00
+2021-01-27 17:18:57,615 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 62 occurrences of value 2017-12-11 00:00:00
+2021-01-27 17:18:57,616 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 59 occurrences of value 2019-03-31 00:00:00
+2021-01-27 17:18:57,617 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 2018-04-02 00:00:00
+2021-01-27 17:18:57,617 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 58 occurrences of value 2018-12-21 00:00:00
+2021-01-27 17:18:57,618 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2016-10-31 00:00:00
+2021-01-27 17:18:57,619 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2017-04-07 00:00:00
+2021-01-27 17:18:57,620 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 2017-08-25 00:00:00
+2021-01-27 17:18:57,621 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 2017-07-28 00:00:00
+2021-01-27 17:18:57,621 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 54 occurrences of value 2017-04-28 00:00:00
+2021-01-27 17:18:57,622 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 2017-01-31 00:00:00
+2021-01-27 17:18:57,623 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 52 occurrences of value 2016-11-18 00:00:00
+2021-01-27 17:18:57,624 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 2017-07-14 00:00:00
+2021-01-27 17:18:57,624 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 2017-05-15 00:00:00
+2021-01-27 17:18:57,625 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2016-12-30 00:00:00
+2021-01-27 17:18:57,626 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2019-03-29 00:00:00
+2021-01-27 17:18:57,627 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 48 occurrences of value 2017-05-12 00:00:00
+2021-01-27 17:18:57,628 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 2018-06-22 00:00:00
+2021-01-27 17:18:57,628 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 47 occurrences of value 2017-02-20 00:00:00
+2021-01-27 17:18:57,629 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2018-12-14 00:00:00
+2021-01-27 17:18:57,630 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2017-12-19 00:00:00
+2021-01-27 17:18:57,631 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 2017-12-04 00:00:00
+2021-01-27 17:18:57,631 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 45 occurrences of value 2017-02-03 00:00:00
+2021-01-27 17:18:57,632 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 2017-01-27 00:00:00
+2021-01-27 17:18:57,633 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 42 occurrences of value 2017-09-08 00:00:00
+2021-01-27 17:18:57,633 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2018-03-16 00:00:00
+2021-01-27 17:18:57,634 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2017-07-21 00:00:00
+2021-01-27 17:18:57,635 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 2017-05-26 00:00:00
+2021-01-27 17:18:57,636 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2017-07-07 00:00:00
+2021-01-27 17:18:57,637 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2017-06-09 00:00:00
+2021-01-27 17:18:57,637 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 2018-06-28 00:00:00
+2021-01-27 17:18:57,638 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 38 occurrences of value 2017-03-30 00:00:00
+2021-01-27 17:18:57,639 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2018-06-15 00:00:00
+2021-01-27 17:18:57,639 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2018-07-27 00:00:00
+2021-01-27 17:18:57,640 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-10-13 00:00:00
+2021-01-27 17:18:57,641 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-04-14 00:00:00
+2021-01-27 17:18:57,642 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 2017-12-22 00:00:00
+2021-01-27 17:18:57,643 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-10-05 00:00:00
+2021-01-27 17:18:57,643 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-02-24 00:00:00
+2021-01-27 17:18:57,644 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-06-23 00:00:00
+2021-01-27 17:18:57,645 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2018-10-26 00:00:00
+2021-01-27 17:18:57,646 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2017-06-16 00:00:00
+2021-01-27 17:18:57,646 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-11-17 00:00:00
+2021-01-27 17:18:57,647 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-05-10 00:00:00
+2021-01-27 17:18:57,648 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-11-20 00:00:00
+2021-01-27 17:18:57,648 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-04-27 00:00:00
+2021-01-27 17:18:57,649 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2017-10-27 00:00:00
+2021-01-27 17:18:57,650 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2018-02-16 00:00:00
+2021-01-27 17:18:57,651 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2016-10-28 00:00:00
+2021-01-27 17:18:57,651 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 2018-04-25 00:00:00
+2021-01-27 17:18:57,652 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2018-08-17 00:00:00
+2021-01-27 17:18:57,653 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2018-02-01 00:00:00
+2021-01-27 17:18:57,654 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2017-05-19 00:00:00
+2021-01-27 17:18:57,654 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 2017-09-15 00:00:00
+2021-01-27 17:18:57,655 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2017-10-20 00:00:00
+2021-01-27 17:18:57,656 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2017-10-18 00:00:00
+2021-01-27 17:18:57,657 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2016-11-25 00:00:00
+2021-01-27 17:18:57,657 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2018-12-28 00:00:00
+2021-01-27 17:18:57,658 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2018-12-10 00:00:00
+2021-01-27 17:18:57,659 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2018-05-18 00:00:00
+2021-01-27 17:18:57,660 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2017-09-22 00:00:00
+2021-01-27 17:18:57,661 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 2019-01-31 00:00:00
+2021-01-27 18:42:29,092 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 91 occurrences of value 12/31/2016
+2021-01-27 18:42:29,093 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 90 occurrences of value 12/29/2017
+2021-01-27 18:42:29,094 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 88 occurrences of value 6/30/2018
+2021-01-27 18:42:29,095 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 84 occurrences of value 3/31/2018
+2021-01-27 18:42:29,096 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 83 occurrences of value 7/31/2016
+2021-01-27 18:42:29,097 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 82 occurrences of value 7/31/2017
+2021-01-27 18:42:29,098 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 73 occurrences of value 12/15/2017
+2021-01-27 18:42:29,099 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 71 occurrences of value 11/30/2016
+2021-01-27 18:42:29,100 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 69 occurrences of value 9/30/2018
+2021-01-27 18:42:29,101 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 68 occurrences of value 2/28/2017
+2021-01-27 18:42:29,102 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 60 occurrences of value 12/11/2017
+2021-01-27 18:42:29,102 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 57 occurrences of value 3/31/2019
+2021-01-27 18:42:29,103 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 56 occurrences of value 12/21/2018
+2021-01-27 18:42:29,104 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 10/31/2016
+2021-01-27 18:42:29,105 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 4/28/2017
+2021-01-27 18:42:29,106 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 11/16/2018
+2021-01-27 18:42:29,107 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 55 occurrences of value 8/25/2017
+2021-01-27 18:42:29,107 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 4/7/2017
+2021-01-27 18:42:29,108 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 53 occurrences of value 11/18/2016
+2021-01-27 18:42:29,109 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 52 occurrences of value 7/28/2017
+2021-01-27 18:42:29,110 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 51 occurrences of value 12/30/2016
+2021-01-27 18:42:29,111 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 1/31/2017
+2021-01-27 18:42:29,112 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 3/29/2019
+2021-01-27 18:42:29,112 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 50 occurrences of value 5/12/2017
+2021-01-27 18:42:29,114 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 4/2/2018
+2021-01-27 18:42:29,115 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 7/14/2017
+2021-01-27 18:42:29,116 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 2/20/2017
+2021-01-27 18:42:29,117 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 49 occurrences of value 12/19/2017
+2021-01-27 18:42:29,117 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 6/22/2018
+2021-01-27 18:42:29,118 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 46 occurrences of value 9/8/2017
+2021-01-27 18:42:29,119 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 45 occurrences of value 5/15/2017
+2021-01-27 18:42:29,120 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 45 occurrences of value 12/4/2017
+2021-01-27 18:42:29,121 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 2/3/2017
+2021-01-27 18:42:29,121 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 44 occurrences of value 12/14/2018
+2021-01-27 18:42:29,122 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 41 occurrences of value 1/27/2017
+2021-01-27 18:42:29,123 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 7/27/2018
+2021-01-27 18:42:29,124 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 40 occurrences of value 5/26/2017
+2021-01-27 18:42:29,125 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 39 occurrences of value 3/16/2018
+2021-01-27 18:42:29,125 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 38 occurrences of value 10/26/2018
+2021-01-27 18:42:29,126 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 6/9/2017
+2021-01-27 18:42:29,127 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 10/5/2017
+2021-01-27 18:42:29,128 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 37 occurrences of value 4/27/2018
+2021-01-27 18:42:29,129 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 10/13/2017
+2021-01-27 18:42:29,130 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 6/15/2018
+2021-01-27 18:42:29,131 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 36 occurrences of value 2/23/2018
+2021-01-27 18:42:29,131 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 12/22/2017
+2021-01-27 18:42:29,132 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 2/24/2017
+2021-01-27 18:42:29,133 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 7/21/2017
+2021-01-27 18:42:29,134 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 4/14/2017
+2021-01-27 18:42:29,135 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 6/28/2018
+2021-01-27 18:42:29,136 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 7/7/2017
+2021-01-27 18:42:29,137 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 5/10/2018
+2021-01-27 18:42:29,138 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 10/28/2016
+2021-01-27 18:42:29,138 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 35 occurrences of value 10/27/2017
+2021-01-27 18:42:29,139 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 5/19/2017
+2021-01-27 18:42:29,140 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 5/18/2018
+2021-01-27 18:42:29,141 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 2/1/2018
+2021-01-27 18:42:29,142 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 34 occurrences of value 4/25/2018
+2021-01-27 18:42:29,142 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 11/25/2016
+2021-01-27 18:42:29,143 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 11/17/2017
+2021-01-27 18:42:29,144 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 9/15/2017
+2021-01-27 18:42:29,145 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 33 occurrences of value 8/17/2018
+2021-01-27 18:42:29,146 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 7/25/2017
+2021-01-27 18:42:29,146 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 8/10/2018
+2021-01-27 18:42:29,147 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 7/29/2016
+2021-01-27 18:42:29,148 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 3/30/2017
+2021-01-27 18:42:29,149 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 6/16/2017
+2021-01-27 18:42:29,150 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 2/16/2018
+2021-01-27 18:42:29,151 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 12/28/2018
+2021-01-27 18:42:29,151 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 7/10/2017
+2021-01-27 18:42:29,152 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 32 occurrences of value 10/10/2017
+2021-01-27 18:42:29,153 [INFO]  CategoricalEncoder for column Planned_Delivery_End_Date                                found only 31 occurrences of value 10/18/2017
+2021-01-27 18:42:41,397 [WARNING]  Test set does not contain any ocurrences of values [12/19/2017] in column [Planned_Delivery_End_Date], consider using a more representative test set.
+2021-01-27 18:42:41,404 [INFO]  
+========== start: fit model
+2021-01-27 18:42:41,406 [WARNING]  Already bound, ignoring bind()
+2021-01-27 18:42:49,451 [INFO]  Epoch[0] Batch [0-249]	Speed: 500.90 samples/sec	cross-entropy=3.109505	Planned_Delivery_End_Date-accuracy=0.190250
+2021-01-27 18:42:57,249 [INFO]  Epoch[0] Train-cross-entropy=2.811880
+2021-01-27 18:42:57,251 [INFO]  Epoch[0] Train-Planned_Delivery_End_Date-accuracy=0.231175
+2021-01-27 18:42:57,252 [INFO]  Epoch[0] Time cost=15.842
+2021-01-27 18:42:57,275 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0000.params"
+2021-01-27 18:42:57,802 [INFO]  Epoch[0] Validation-cross-entropy=2.312504
+2021-01-27 18:42:57,803 [INFO]  Epoch[0] Validation-Planned_Delivery_End_Date-accuracy=0.338170
+2021-01-27 18:43:05,897 [INFO]  Epoch[1] Batch [0-249]	Speed: 494.04 samples/sec	cross-entropy=2.159788	Planned_Delivery_End_Date-accuracy=0.357250
+2021-01-27 18:43:13,768 [INFO]  Epoch[1] Train-cross-entropy=2.105114
+2021-01-27 18:43:13,769 [INFO]  Epoch[1] Train-Planned_Delivery_End_Date-accuracy=0.376506
+2021-01-27 18:43:13,770 [INFO]  Epoch[1] Time cost=15.966
+2021-01-27 18:43:13,790 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0001.params"
+2021-01-27 18:43:14,315 [INFO]  Epoch[1] Validation-cross-entropy=2.018049
+2021-01-27 18:43:14,317 [INFO]  Epoch[1] Validation-Planned_Delivery_End_Date-accuracy=0.417411
+2021-01-27 18:43:22,154 [INFO]  Epoch[2] Batch [0-249]	Speed: 510.90 samples/sec	cross-entropy=1.845674	Planned_Delivery_End_Date-accuracy=0.457750
+2021-01-27 18:43:30,058 [INFO]  Epoch[2] Train-cross-entropy=1.806652
+2021-01-27 18:43:30,060 [INFO]  Epoch[2] Train-Planned_Delivery_End_Date-accuracy=0.471009
+2021-01-27 18:43:30,061 [INFO]  Epoch[2] Time cost=15.743
+2021-01-27 18:43:30,081 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0002.params"
+2021-01-27 18:43:30,739 [INFO]  Epoch[2] Validation-cross-entropy=1.831562
+2021-01-27 18:43:30,741 [INFO]  Epoch[2] Validation-Planned_Delivery_End_Date-accuracy=0.467634
+2021-01-27 18:43:38,782 [INFO]  Epoch[3] Batch [0-249]	Speed: 497.89 samples/sec	cross-entropy=1.623446	Planned_Delivery_End_Date-accuracy=0.532000
+2021-01-27 18:43:46,554 [INFO]  Epoch[3] Train-cross-entropy=1.590654
+2021-01-27 18:43:46,556 [INFO]  Epoch[3] Train-Planned_Delivery_End_Date-accuracy=0.543298
+2021-01-27 18:43:46,557 [INFO]  Epoch[3] Time cost=15.814
+2021-01-27 18:43:46,578 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0003.params"
+2021-01-27 18:43:47,161 [INFO]  Epoch[3] Validation-cross-entropy=1.695262
+2021-01-27 18:43:47,163 [INFO]  Epoch[3] Validation-Planned_Delivery_End_Date-accuracy=0.507812
+2021-01-27 18:43:55,088 [INFO]  Epoch[4] Batch [0-249]	Speed: 504.74 samples/sec	cross-entropy=1.446884	Planned_Delivery_End_Date-accuracy=0.593000
+2021-01-27 18:44:02,773 [INFO]  Epoch[4] Train-cross-entropy=1.425674
+2021-01-27 18:44:02,774 [INFO]  Epoch[4] Train-Planned_Delivery_End_Date-accuracy=0.605547
+2021-01-27 18:44:02,775 [INFO]  Epoch[4] Time cost=15.611
+2021-01-27 18:44:02,795 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0004.params"
+2021-01-27 18:44:03,346 [INFO]  Epoch[4] Validation-cross-entropy=1.586929
+2021-01-27 18:44:03,347 [INFO]  Epoch[4] Validation-Planned_Delivery_End_Date-accuracy=0.546875
+2021-01-27 18:44:11,323 [INFO]  Epoch[5] Batch [0-249]	Speed: 501.40 samples/sec	cross-entropy=1.303236	Planned_Delivery_End_Date-accuracy=0.638750
+2021-01-27 18:44:19,216 [INFO]  Epoch[5] Train-cross-entropy=1.282131
+2021-01-27 18:44:19,218 [INFO]  Epoch[5] Train-Planned_Delivery_End_Date-accuracy=0.650853
+2021-01-27 18:44:19,218 [INFO]  Epoch[5] Time cost=15.871
+2021-01-27 18:44:19,240 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0005.params"
+2021-01-27 18:44:19,809 [INFO]  Epoch[5] Validation-cross-entropy=1.507113
+2021-01-27 18:44:19,810 [INFO]  Epoch[5] Validation-Planned_Delivery_End_Date-accuracy=0.578125
+2021-01-27 18:44:27,967 [INFO]  Epoch[6] Batch [0-249]	Speed: 491.03 samples/sec	cross-entropy=1.182268	Planned_Delivery_End_Date-accuracy=0.677000
+2021-01-27 18:44:36,065 [INFO]  Epoch[6] Train-cross-entropy=1.160650
+2021-01-27 18:44:36,066 [INFO]  Epoch[6] Train-Planned_Delivery_End_Date-accuracy=0.688755
+2021-01-27 18:44:36,067 [INFO]  Epoch[6] Time cost=16.257
+2021-01-27 18:44:36,091 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0006.params"
+2021-01-27 18:44:36,670 [INFO]  Epoch[6] Validation-cross-entropy=1.433487
+2021-01-27 18:44:36,671 [INFO]  Epoch[6] Validation-Planned_Delivery_End_Date-accuracy=0.606027
+2021-01-27 18:44:44,942 [INFO]  Epoch[7] Batch [0-249]	Speed: 483.92 samples/sec	cross-entropy=1.078966	Planned_Delivery_End_Date-accuracy=0.706250
+2021-01-27 18:44:53,156 [INFO]  Epoch[7] Train-cross-entropy=1.063415
+2021-01-27 18:44:53,157 [INFO]  Epoch[7] Train-Planned_Delivery_End_Date-accuracy=0.718876
+2021-01-27 18:44:53,158 [INFO]  Epoch[7] Time cost=16.486
+2021-01-27 18:44:53,181 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0007.params"
+2021-01-27 18:44:53,763 [INFO]  Epoch[7] Validation-cross-entropy=1.372310
+2021-01-27 18:44:53,764 [INFO]  Epoch[7] Validation-Planned_Delivery_End_Date-accuracy=0.628348
+2021-01-27 18:45:01,954 [INFO]  Epoch[8] Batch [0-249]	Speed: 488.32 samples/sec	cross-entropy=0.989498	Planned_Delivery_End_Date-accuracy=0.741500
+2021-01-27 18:45:09,957 [INFO]  Epoch[8] Train-cross-entropy=0.972205
+2021-01-27 18:45:09,959 [INFO]  Epoch[8] Train-Planned_Delivery_End_Date-accuracy=0.751883
+2021-01-27 18:45:09,960 [INFO]  Epoch[8] Time cost=16.195
+2021-01-27 18:45:09,984 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0008.params"
+2021-01-27 18:45:10,626 [INFO]  Epoch[8] Validation-cross-entropy=1.326704
+2021-01-27 18:45:10,628 [INFO]  Epoch[8] Validation-Planned_Delivery_End_Date-accuracy=0.631696
+2021-01-27 18:45:18,979 [INFO]  Epoch[9] Batch [0-249]	Speed: 479.23 samples/sec	cross-entropy=0.912030	Planned_Delivery_End_Date-accuracy=0.765750
+2021-01-27 18:45:27,260 [INFO]  Epoch[9] Train-cross-entropy=0.898122
+2021-01-27 18:45:27,261 [INFO]  Epoch[9] Train-Planned_Delivery_End_Date-accuracy=0.772716
+2021-01-27 18:45:27,262 [INFO]  Epoch[9] Time cost=16.632
+2021-01-27 18:45:27,286 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0009.params"
+2021-01-27 18:45:27,817 [INFO]  Epoch[9] Validation-cross-entropy=1.290852
+2021-01-27 18:45:27,818 [INFO]  Epoch[9] Validation-Planned_Delivery_End_Date-accuracy=0.635045
+2021-01-27 18:45:36,001 [INFO]  Epoch[10] Batch [0-249]	Speed: 488.60 samples/sec	cross-entropy=0.843614	Planned_Delivery_End_Date-accuracy=0.787750
+2021-01-27 18:45:44,317 [INFO]  Epoch[10] Train-cross-entropy=0.830747
+2021-01-27 18:45:44,319 [INFO]  Epoch[10] Train-Planned_Delivery_End_Date-accuracy=0.793424
+2021-01-27 18:45:44,320 [INFO]  Epoch[10] Time cost=16.501
+2021-01-27 18:45:44,341 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0010.params"
+2021-01-27 18:45:44,980 [INFO]  Epoch[10] Validation-cross-entropy=1.258653
+2021-01-27 18:45:44,982 [INFO]  Epoch[10] Validation-Planned_Delivery_End_Date-accuracy=0.648438
+2021-01-27 18:45:53,457 [INFO]  Epoch[11] Batch [0-249]	Speed: 472.23 samples/sec	cross-entropy=0.782307	Planned_Delivery_End_Date-accuracy=0.807750
+2021-01-27 18:46:01,936 [INFO]  Epoch[11] Train-cross-entropy=0.770738
+2021-01-27 18:46:01,937 [INFO]  Epoch[11] Train-Planned_Delivery_End_Date-accuracy=0.811872
+2021-01-27 18:46:01,939 [INFO]  Epoch[11] Time cost=16.957
+2021-01-27 18:46:01,958 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0011.params"
+2021-01-27 18:46:02,491 [INFO]  Epoch[11] Validation-cross-entropy=1.234478
+2021-01-27 18:46:02,493 [INFO]  Epoch[11] Validation-Planned_Delivery_End_Date-accuracy=0.654018
+2021-01-27 18:46:10,704 [INFO]  Epoch[12] Batch [0-249]	Speed: 487.03 samples/sec	cross-entropy=0.730095	Planned_Delivery_End_Date-accuracy=0.822000
+2021-01-27 18:46:18,784 [INFO]  Epoch[12] Train-cross-entropy=0.717975
+2021-01-27 18:46:18,785 [INFO]  Epoch[12] Train-Planned_Delivery_End_Date-accuracy=0.825929
+2021-01-27 18:46:18,786 [INFO]  Epoch[12] Time cost=16.292
+2021-01-27 18:46:18,809 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0012.params"
+2021-01-27 18:46:19,434 [INFO]  Epoch[12] Validation-cross-entropy=1.205539
+2021-01-27 18:46:19,435 [INFO]  Epoch[12] Validation-Planned_Delivery_End_Date-accuracy=0.664062
+2021-01-27 18:46:27,869 [INFO]  Epoch[13] Batch [0-249]	Speed: 474.57 samples/sec	cross-entropy=0.683498	Planned_Delivery_End_Date-accuracy=0.838250
+2021-01-27 18:46:36,059 [INFO]  Epoch[13] Train-cross-entropy=0.674638
+2021-01-27 18:46:36,061 [INFO]  Epoch[13] Train-Planned_Delivery_End_Date-accuracy=0.840361
+2021-01-27 18:46:36,062 [INFO]  Epoch[13] Time cost=16.625
+2021-01-27 18:46:36,084 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0013.params"
+2021-01-27 18:46:36,683 [INFO]  Epoch[13] Validation-cross-entropy=1.193689
+2021-01-27 18:46:36,685 [INFO]  Epoch[13] Validation-Planned_Delivery_End_Date-accuracy=0.661830
+2021-01-27 18:46:45,100 [INFO]  Epoch[14] Batch [0-249]	Speed: 475.28 samples/sec	cross-entropy=0.638221	Planned_Delivery_End_Date-accuracy=0.849500
+2021-01-27 18:46:54,482 [INFO]  Epoch[14] Train-cross-entropy=0.630545
+2021-01-27 18:46:54,484 [INFO]  Epoch[14] Train-Planned_Delivery_End_Date-accuracy=0.851280
+2021-01-27 18:46:54,485 [INFO]  Epoch[14] Time cost=17.799
+2021-01-27 18:46:54,512 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0014.params"
+2021-01-27 18:46:55,215 [INFO]  Epoch[14] Validation-cross-entropy=1.178774
+2021-01-27 18:46:55,216 [INFO]  Epoch[14] Validation-Planned_Delivery_End_Date-accuracy=0.658482
+2021-01-27 18:47:04,193 [INFO]  Epoch[15] Batch [0-249]	Speed: 445.63 samples/sec	cross-entropy=0.599259	Planned_Delivery_End_Date-accuracy=0.858500
+2021-01-27 18:47:12,891 [INFO]  Epoch[15] Train-cross-entropy=0.591286
+2021-01-27 18:47:12,892 [INFO]  Epoch[15] Train-Planned_Delivery_End_Date-accuracy=0.861069
+2021-01-27 18:47:12,893 [INFO]  Epoch[15] Time cost=17.676
+2021-01-27 18:47:12,913 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0015.params"
+2021-01-27 18:47:13,429 [INFO]  Epoch[15] Validation-cross-entropy=1.164879
+2021-01-27 18:47:13,431 [INFO]  Epoch[15] Validation-Planned_Delivery_End_Date-accuracy=0.668527
+2021-01-27 18:47:22,149 [INFO]  Epoch[16] Batch [0-249]	Speed: 458.48 samples/sec	cross-entropy=0.563824	Planned_Delivery_End_Date-accuracy=0.869750
+2021-01-27 18:47:30,794 [INFO]  Epoch[16] Train-cross-entropy=0.557824
+2021-01-27 18:47:30,795 [INFO]  Epoch[16] Train-Planned_Delivery_End_Date-accuracy=0.872490
+2021-01-27 18:47:30,796 [INFO]  Epoch[16] Time cost=17.365
+2021-01-27 18:47:30,819 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0016.params"
+2021-01-27 18:47:31,409 [INFO]  Epoch[16] Validation-cross-entropy=1.151079
+2021-01-27 18:47:31,410 [INFO]  Epoch[16] Validation-Planned_Delivery_End_Date-accuracy=0.690848
+2021-01-27 18:47:40,409 [INFO]  Epoch[17] Batch [0-249]	Speed: 444.34 samples/sec	cross-entropy=0.531156	Planned_Delivery_End_Date-accuracy=0.877500
+2021-01-27 18:47:49,044 [INFO]  Epoch[17] Train-cross-entropy=0.524961
+2021-01-27 18:47:49,046 [INFO]  Epoch[17] Train-Planned_Delivery_End_Date-accuracy=0.879267
+2021-01-27 18:47:49,047 [INFO]  Epoch[17] Time cost=17.636
+2021-01-27 18:47:49,067 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0017.params"
+2021-01-27 18:47:49,578 [INFO]  Epoch[17] Validation-cross-entropy=1.139555
+2021-01-27 18:47:49,580 [INFO]  Epoch[17] Validation-Planned_Delivery_End_Date-accuracy=0.679688
+2021-01-27 18:47:58,239 [INFO]  Epoch[18] Batch [0-249]	Speed: 461.72 samples/sec	cross-entropy=0.502364	Planned_Delivery_End_Date-accuracy=0.883000
+2021-01-27 18:48:06,791 [INFO]  Epoch[18] Train-cross-entropy=0.493051
+2021-01-27 18:48:06,793 [INFO]  Epoch[18] Train-Planned_Delivery_End_Date-accuracy=0.886421
+2021-01-27 18:48:06,795 [INFO]  Epoch[18] Time cost=17.214
+2021-01-27 18:48:06,817 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0018.params"
+2021-01-27 18:48:07,389 [INFO]  Epoch[18] Validation-cross-entropy=1.131831
+2021-01-27 18:48:07,392 [INFO]  Epoch[18] Validation-Planned_Delivery_End_Date-accuracy=0.695312
+2021-01-27 18:48:16,711 [INFO]  Epoch[19] Batch [0-249]	Speed: 428.89 samples/sec	cross-entropy=0.473741	Planned_Delivery_End_Date-accuracy=0.894000
+2021-01-27 18:48:25,714 [INFO]  Epoch[19] Train-cross-entropy=0.466944
+2021-01-27 18:48:25,716 [INFO]  Epoch[19] Train-Planned_Delivery_End_Date-accuracy=0.895708
+2021-01-27 18:48:25,717 [INFO]  Epoch[19] Time cost=18.324
+2021-01-27 18:48:25,741 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0019.params"
+2021-01-27 18:48:26,328 [INFO]  Epoch[19] Validation-cross-entropy=1.117993
+2021-01-27 18:48:26,330 [INFO]  Epoch[19] Validation-Planned_Delivery_End_Date-accuracy=0.695312
+2021-01-27 18:48:35,211 [INFO]  Epoch[20] Batch [0-249]	Speed: 450.32 samples/sec	cross-entropy=0.449303	Planned_Delivery_End_Date-accuracy=0.901000
+2021-01-27 18:48:44,097 [INFO]  Epoch[20] Train-cross-entropy=0.443561
+2021-01-27 18:48:44,098 [INFO]  Epoch[20] Train-Planned_Delivery_End_Date-accuracy=0.903363
+2021-01-27 18:48:44,100 [INFO]  Epoch[20] Time cost=17.769
+2021-01-27 18:48:44,122 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0020.params"
+2021-01-27 18:48:44,755 [INFO]  Epoch[20] Validation-cross-entropy=1.120995
+2021-01-27 18:48:44,756 [INFO]  Epoch[20] Validation-Planned_Delivery_End_Date-accuracy=0.700893
+2021-01-27 18:48:53,792 [INFO]  Epoch[21] Batch [0-249]	Speed: 442.63 samples/sec	cross-entropy=0.423788	Planned_Delivery_End_Date-accuracy=0.908500
+2021-01-27 18:49:02,534 [INFO]  Epoch[21] Train-cross-entropy=0.421362
+2021-01-27 18:49:02,536 [INFO]  Epoch[21] Train-Planned_Delivery_End_Date-accuracy=0.909011
+2021-01-27 18:49:02,537 [INFO]  Epoch[21] Time cost=17.780
+2021-01-27 18:49:02,563 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0021.params"
+2021-01-27 18:49:03,214 [INFO]  Epoch[21] Validation-cross-entropy=1.118215
+2021-01-27 18:49:03,215 [INFO]  Epoch[21] Validation-Planned_Delivery_End_Date-accuracy=0.702009
+2021-01-27 18:49:12,258 [INFO]  Epoch[22] Batch [0-249]	Speed: 442.07 samples/sec	cross-entropy=0.406057	Planned_Delivery_End_Date-accuracy=0.913500
+2021-01-27 18:49:21,006 [INFO]  Epoch[22] Train-cross-entropy=0.403830
+2021-01-27 18:49:21,007 [INFO]  Epoch[22] Train-Planned_Delivery_End_Date-accuracy=0.914157
+2021-01-27 18:49:21,009 [INFO]  Epoch[22] Time cost=17.793
+2021-01-27 18:49:21,029 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0022.params"
+2021-01-27 18:49:21,609 [INFO]  Epoch[22] Validation-cross-entropy=1.116139
+2021-01-27 18:49:21,610 [INFO]  Epoch[22] Validation-Planned_Delivery_End_Date-accuracy=0.698661
+2021-01-27 18:49:30,425 [INFO]  Epoch[23] Batch [0-249]	Speed: 453.53 samples/sec	cross-entropy=0.384208	Planned_Delivery_End_Date-accuracy=0.920750
+2021-01-27 18:49:39,384 [INFO]  Epoch[23] Train-cross-entropy=0.378736
+2021-01-27 18:49:39,385 [INFO]  Epoch[23] Train-Planned_Delivery_End_Date-accuracy=0.922063
+2021-01-27 18:49:39,386 [INFO]  Epoch[23] Time cost=17.774
+2021-01-27 18:49:39,407 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0023.params"
+2021-01-27 18:49:39,970 [INFO]  Epoch[23] Validation-cross-entropy=1.115380
+2021-01-27 18:49:39,971 [INFO]  Epoch[23] Validation-Planned_Delivery_End_Date-accuracy=0.702009
+2021-01-27 18:49:49,121 [INFO]  Epoch[24] Batch [0-249]	Speed: 436.86 samples/sec	cross-entropy=0.362574	Planned_Delivery_End_Date-accuracy=0.925500
+2021-01-27 18:49:57,992 [INFO]  Epoch[24] Train-cross-entropy=0.358747
+2021-01-27 18:49:57,994 [INFO]  Epoch[24] Train-Planned_Delivery_End_Date-accuracy=0.926456
+2021-01-27 18:49:57,995 [INFO]  Epoch[24] Time cost=18.023
+2021-01-27 18:49:58,016 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0024.params"
+2021-01-27 18:49:58,598 [INFO]  Epoch[24] Validation-cross-entropy=1.116973
+2021-01-27 18:49:58,599 [INFO]  Epoch[24] Validation-Planned_Delivery_End_Date-accuracy=0.690848
+2021-01-27 18:50:07,626 [INFO]  Epoch[25] Batch [0-249]	Speed: 443.15 samples/sec	cross-entropy=0.346151	Planned_Delivery_End_Date-accuracy=0.929250
+2021-01-27 18:50:16,468 [INFO]  Epoch[25] Train-cross-entropy=0.343509
+2021-01-27 18:50:16,470 [INFO]  Epoch[25] Train-Planned_Delivery_End_Date-accuracy=0.931225
+2021-01-27 18:50:16,471 [INFO]  Epoch[25] Time cost=17.870
+2021-01-27 18:50:16,495 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0025.params"
+2021-01-27 18:50:17,060 [INFO]  Epoch[25] Validation-cross-entropy=1.119044
+2021-01-27 18:50:17,061 [INFO]  Epoch[25] Validation-Planned_Delivery_End_Date-accuracy=0.694196
+2021-01-27 18:50:25,887 [INFO]  Epoch[26] Batch [0-249]	Speed: 453.19 samples/sec	cross-entropy=0.330666	Planned_Delivery_End_Date-accuracy=0.932500
+2021-01-27 18:50:34,720 [INFO]  Epoch[26] Train-cross-entropy=0.329761
+2021-01-27 18:50:34,721 [INFO]  Epoch[26] Train-Planned_Delivery_End_Date-accuracy=0.932856
+2021-01-27 18:50:34,723 [INFO]  Epoch[26] Time cost=17.661
+2021-01-27 18:50:34,746 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0026.params"
+2021-01-27 18:50:35,297 [INFO]  Epoch[26] Validation-cross-entropy=1.114959
+2021-01-27 18:50:35,298 [INFO]  Epoch[26] Validation-Planned_Delivery_End_Date-accuracy=0.705357
+2021-01-27 18:50:44,372 [INFO]  Epoch[27] Batch [0-249]	Speed: 440.62 samples/sec	cross-entropy=0.313934	Planned_Delivery_End_Date-accuracy=0.936000
+2021-01-27 18:50:53,809 [INFO]  Epoch[27] Train-cross-entropy=0.311871
+2021-01-27 18:50:53,810 [INFO]  Epoch[27] Train-Planned_Delivery_End_Date-accuracy=0.936245
+2021-01-27 18:50:53,811 [INFO]  Epoch[27] Time cost=18.512
+2021-01-27 18:50:53,837 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0027.params"
+2021-01-27 18:50:54,430 [INFO]  Epoch[27] Validation-cross-entropy=1.121354
+2021-01-27 18:50:54,431 [INFO]  Epoch[27] Validation-Planned_Delivery_End_Date-accuracy=0.702009
+2021-01-27 18:51:04,121 [INFO]  Epoch[28] Batch [0-249]	Speed: 412.65 samples/sec	cross-entropy=0.301861	Planned_Delivery_End_Date-accuracy=0.943250
+2021-01-27 18:51:13,788 [INFO]  Epoch[28] Train-cross-entropy=0.297729
+2021-01-27 18:51:13,790 [INFO]  Epoch[28] Train-Planned_Delivery_End_Date-accuracy=0.943901
+2021-01-27 18:51:13,791 [INFO]  Epoch[28] Time cost=19.359
+2021-01-27 18:51:13,814 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0028.params"
+2021-01-27 18:51:14,428 [INFO]  Epoch[28] Validation-cross-entropy=1.119604
+2021-01-27 18:51:14,430 [INFO]  Epoch[28] Validation-Planned_Delivery_End_Date-accuracy=0.707589
+2021-01-27 18:51:24,027 [INFO]  Epoch[29] Batch [0-249]	Speed: 416.67 samples/sec	cross-entropy=0.287115	Planned_Delivery_End_Date-accuracy=0.944250
+2021-01-27 18:51:33,594 [INFO]  Epoch[29] Train-cross-entropy=0.286568
+2021-01-27 18:51:33,596 [INFO]  Epoch[29] Train-Planned_Delivery_End_Date-accuracy=0.945030
+2021-01-27 18:51:33,597 [INFO]  Epoch[29] Time cost=19.167
+2021-01-27 18:51:33,620 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0029.params"
+2021-01-27 18:51:34,196 [INFO]  Epoch[29] Validation-cross-entropy=1.139728
+2021-01-27 18:51:34,197 [INFO]  Epoch[29] Validation-Planned_Delivery_End_Date-accuracy=0.703125
+2021-01-27 18:51:43,827 [INFO]  Epoch[30] Batch [0-249]	Speed: 415.34 samples/sec	cross-entropy=0.278138	Planned_Delivery_End_Date-accuracy=0.944250
+2021-01-27 18:51:53,892 [INFO]  Epoch[30] Train-cross-entropy=0.278511
+2021-01-27 18:51:53,893 [INFO]  Epoch[30] Train-Planned_Delivery_End_Date-accuracy=0.945156
+2021-01-27 18:51:53,894 [INFO]  Epoch[30] Time cost=19.697
+2021-01-27 18:51:53,918 [INFO]  Saved checkpoint to "Archivos/Imputer_Model/Planned_Delivery_End_Date\model-0030.params"
+2021-01-27 18:51:54,470 [INFO]  No improvement detected for 5 epochs compared to 1.1190443320998125 last error obtained: 1.142533696256578, stopping here
+2021-01-27 18:51:54,471 [INFO]  
+========== done (553.0662989616394 s) fit model
