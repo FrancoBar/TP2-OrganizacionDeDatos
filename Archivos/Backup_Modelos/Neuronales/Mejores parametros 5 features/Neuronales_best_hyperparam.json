@@ -1,0 +1,28 @@
+{
+    "alpha": 0.041627926103753765,
+    "first_layer": {
+        "activation": "tanh",
+        "dropout": 0.3899316748256735,
+        "neurons": 96.08771853344123
+    },
+    "hidden_layers": [
+        {
+            "config": {
+                "is_on": false
+            }
+        },
+        {
+            "config": {
+                "activation": "tanh",
+                "dropout": 0.2803219132528231,
+                "is_on": true,
+                "neurons": 53.99017739472913
+            }
+        }
+    ],
+    "last_layer": {
+        "activation": "sigmoid"
+    },
+    "learning_rate": 0.0016455321304064399,
+    "optimizer": "rmsprop"
+}
