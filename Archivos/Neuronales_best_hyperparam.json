@@ -1,0 +1,23 @@
+{
+    "alpha": 0.0095,
+    "first_layer": {
+        "activation": "swish",
+        "dropout": 0.2,
+        "neurons": 65.0
+    },
+    "hidden_layers": [
+        {
+            "config": {
+                "activation": "swish",
+                "dropout": 0.4,
+                "is_on": true,
+                "neurons": 150.0
+            }
+        }
+    ],
+    "last_layer": {
+        "activation": "sigmoid"
+    },
+    "learning_rate": 0.001,
+    "optimizer": "adam"
+}
