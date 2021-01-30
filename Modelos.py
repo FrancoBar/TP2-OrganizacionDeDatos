@@ -20,16 +20,16 @@ get_custom_objects().update({'my_relu': Activation(my_relu)})
 
 # Redefino función de activación 'swish'
 
-class Swish(Activation):
+# class Swish(Activation):
     
-    def __init__(self, activation, **kwargs):
-        super(Swish, self).__init__(activation, **kwargs)
-        self.__name__ = 'swish'
+#     def __init__(self, activation, **kwargs):
+#         super(Swish, self).__init__(activation, **kwargs)
+#         self.__name__ = 'swish'
 
-def swish(x):
-    return (backend.sigmoid(x) * x)
+# def swish(x):
+#     return (backend.sigmoid(x) * x)
 
-get_custom_objects().update({'swish': Swish(swish)})
+# get_custom_objects().update({'swish': Swish(swish)})
 
 ##########################################################
 

@@ -1,0 +1,28 @@
+{
+    "alpha": 0.0,
+    "first_layer": {
+        "activation": "tanh",
+        "dropout": 0.4,
+        "neurons": 45.0
+    },
+    "hidden_layers": [
+        {
+            "config": {
+                "is_on": false
+            }
+        },
+        {
+            "config": {
+                "activation": "relu",
+                "dropout": 0.2,
+                "is_on": true,
+                "neurons": 160.0
+            }
+        }
+    ],
+    "last_layer": {
+        "activation": "sigmoid"
+    },
+    "learning_rate": 1e-4,
+    "optimizer": "adam"
+}
