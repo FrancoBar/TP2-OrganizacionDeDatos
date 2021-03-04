@@ -1,8 +1,12 @@
 # TP2-OrganizacionDeDatos
 
-### Link Informe
+### Link al Informe
 
 https://www.overleaf.com/5215716144nqgnkkgqgjrh
+
+### Link a la Presentación
+
+https://www.youtube.com/watch?v=9H-dcwVNTcU
 
 ### Organización del Repositorio
 
